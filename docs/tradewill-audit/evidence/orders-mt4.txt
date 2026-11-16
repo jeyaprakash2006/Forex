@@ -1,0 +1,121 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/account-center/order-details".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/order-details
+	2 container
+		3 container
+			4 container
+				5 image
+				6 button (collapsed) Markets, Secondary Actions: Expand
+				7 button (collapsed) Platforms, Secondary Actions: Expand
+				8 button (collapsed) Account, Secondary Actions: Expand
+				9 button (collapsed) Resources, Secondary Actions: Expand
+				10 button (collapsed) Company, Secondary Actions: Expand
+				11 link Description: Partnership, Value: tradewill.com/partners
+				12 button Web Trader
+				13 button (collapsed) Description: Messages, Secondary Actions: Expand
+				14 button (collapsed) Description: LEMjqCcV, Secondary Actions: Expand
+				15 button (collapsed) Description: Download App, Secondary Actions: Expand
+				16 button (collapsed) Description: Language, Secondary Actions: Expand
+			17 menu bar
+				18 Overview
+				19 button Assets Multi-Account
+					20 text Assets
+					21 text Multi-Account
+				22 Internal Transfer
+				23 Order
+				24 Verification
+				25 Settings
+				26 Downloads
+				27 Invite Friends
+				28 Task Center
+				29 Customer Service
+			138 heading Order Details, Value: 3
+				139 text Order Details
+			140 button Trade Now
+			141 tab group
+				142 tab (selected, settable, boolean) MT4 Account, Value: 1, ID: tab-mt4
+				143 tab (selectable, settable, boolean) MT5 Account, Value: 0, ID: tab-mt5
+				144 tab (selectable, settable, boolean) Trade W Account, Value: 0, ID: tab-tw
+			145 container Description: MT4 Account, ID: pane-mt4
+				146 tab group
+					147 tab (selected, settable, boolean) Open Position, Value: 1, ID: tab-1
+					148 tab (selectable, settable, boolean) Close position, Value: 0, ID: tab-2
+				149 container
+					150 text field (settable) el-id-1024-62
+					151 container
+						152 combo box (collapsed, settable) ID: el-id-1024-63, Secondary Actions: Expand
+						153 combo box (collapsed, settable) Secondary Actions: Expand
+					154 button Reset
+				155 container
+					156 table
+						157 row
+							158 cell
+								159 text Symbol
+							160 cell
+								161 text Transaction No.
+							162 cell
+								163 text Sell / Buy
+							164 cell
+								165 text Open Price
+							166 cell
+								167 text Open Time
+							168 cell
+								169 text Lot
+							170 cell
+								171 text Profit and Loss
+							172 cell
+								173 text Swap
+							174 cell
+								175 text Fees
+					176 container
+						177 table
+						178 image
+						179 text No records
+			92 text © 2016 - 2026 TradeWill.com All Rights Reserved
+		93 container
+			94 container
+				95 image logo
+				96 text Hello!
+We are here to help you!
+				97 heading Frequently Asked Questions More, Value: 6
+					98 text Frequently Asked Questions
+					99 text More
+				100 text What is Trade W and How Does it Work?
+				101 text Is Trade W a Regulated Broker?
+				102 text Does Trade W Provide a Demo Account?
+				103 text What Trading Platforms does Trade W Support?
+				104 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			105 container
+				106 button Customer Support
+				107 text 2
+			108 container chatroom
+				109 container
+					110 heading AI Assistant-W, Value: 6
+						111 text AI Assistant-W
+					112 image
+				113 text 11-15 01:42
+				114 text AI Assistant-W
+				115 container
+					116 text Hi there! 👋 I'm W. How can I help you with your trading account?
+				117 container
+					118 text Guess what you want to ask?
+					119 image
+					120 text How can I earn points and redeem exciting rewards?
+					121 text 24604
+					122 button Ask
+					123 text How do I reset my demo balance?
+					124 text 13640
+					125 button Ask
+					126 text How does the Invite Friends program work?
+					127 text 7715
+					128 button Ask
+				129 container
+					130 button Customer Service
+						131 image
+						132 text Customer Service
+					133 container
+						134 text Please enter
+		135 container
+			136 image conversation-badge-icon
+			137 text 2
+
+The focused UI element is 23 Order

@@ -1,0 +1,114 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/download-metaTrader5".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/download-metaTrader5
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading MetaTrader 5 (MT5), Value: 3
+				9 text MetaTrader 5 (MT5)
+			10 text Trade your favorite market on Trade W's powerful MT5 platform. Download MT5 for free and experience exceptional trading conditions.
+			11 container
+				12 heading Diverse Assets, Value: 6
+					13 text Diverse Assets
+				14 text MT5 excels in versatility, allowing you to trade CFDs across forex, stocks, commodities and more. This makes portfolio management and trading easier.
+			15 container
+				16 heading Advanced Charts, Value: 6
+					17 text Advanced Charts
+				18 text With MT5's advanced charting tools, traders visualize trends with clarity. It offers 21 timeframes, customizable charts, and advanced drawing tools, helping in decision-making and strategy development.
+			19 container
+				20 heading Flexible Order Management, Value: 6
+					21 text Flexible Order Management
+				22 text MT5's advanced order features like partial filling and hedging give traders more control, enhancing trade execution and risk management.
+			23 container
+				24 heading Integrated Signals & Analysis, Value: 6
+					25 text Integrated Signals & Analysis
+				26 text MT5 offers built-in trading signals and market analysis tools, providing actionable insights and trade recommendations.
+			27 heading Get Started with Your MT5 Account at Trade W !, Value: 3
+				28 text Get Started with Your MT5 Account at Trade W !
+			29 content list
+				30 container
+					31 heading Open Account, Value: 6
+						32 text Open Account
+					33 text Start by clicking on the “Open an Account” option. Sign up and complete the verification process to set up your account.
+				34 container
+					35 heading Activate Account, Value: 6
+						36 text Activate Account
+					37 text Login to “Account Center”, click “Assets” and then select “MT5 Account”. Deposit to activate your real account and receive your MT5 account number.
+				38 container
+					39 heading Install MT5, Value: 6
+						40 text Install MT5
+					41 text Install the MT5 platform on your favorite device, log in with your account details, and start trading your favorite instrument!
+			42 button Start Trading
+			43 button Try Free Demo
+			44 heading FAQ, Value: 3
+				45 text FAQ
+			46 container ac_0
+				47 button (expanded) What is MetaTrader 5 (MT5)?, ID: el-collapse-head-0, Secondary Actions: Collapse
+					48 text What is MetaTrader 5 (MT5)?
+				49 container What is MetaTrader 5 (MT5)?, ID: el-collapse-content-0
+					50 text MetaTrader 5 is a next-generation trading platform and the successor to MetaTrader 4. It boasts a more powerful and feature-rich experience, allowing you to track markets in real time with live quotes, analyze price movements with advanced charting tools, and execute trades directly from the platform.
+			51 button (collapsed) Is MT5 free trading platform?, ID: el-collapse-head-1, Secondary Actions: Expand
+				52 text Is MT5 free trading platform?
+			53 button (collapsed) What account types can I trade on MT5 with Trade W?, ID: el-collapse-head-2, Secondary Actions: Expand
+				54 text What account types can I trade on MT5 with Trade W?
+			55 container Footer navigation
+				56 button (expanded) Markets, Secondary Actions: Collapse
+				57 button Markets Overview
+				58 button Forex CFDs
+				59 button Stock CFDs
+				60 button Crypto CFDs
+				61 button Indices CFDs
+				62 button Metals CFDs
+				63 button Announcement
+				64 button (collapsed) Platforms, Secondary Actions: Expand
+				65 container
+					66 button Trade W APP
+					67 button Trade W Web Trader
+					68 button MetaTrader 4 Mobile
+					69 button MetaTrader 5 Mobile
+					70 button MetaTrader 5
+					71 button MetaTrader 4
+				72 button (collapsed) Account, Secondary Actions: Expand
+				73 container
+					74 button Classic Account Series
+					75 button Professional Account Series
+					76 button Demo Account
+				77 button (collapsed) Resources, Secondary Actions: Expand
+				78 container
+					79 button Market Insights
+					80 button Market Analysis
+					81 button Trading News
+					82 button Economic Calendar
+					83 button Profit Calculator
+					84 button TradingView
+					85 button Margin Calculator
+					86 button Trading Glossary
+					87 button Beginner Tutorial
+				88 button (collapsed) Supports, Secondary Actions: Expand
+				89 container
+					90 button Help Center
+					91 button FAQs
+					92 button Feedback
+				93 button (collapsed) Company, Secondary Actions: Expand
+				94 container
+					95 button About Us
+					96 button Trade W Awards
+					97 button Company Updates
+					98 button Careers
+					99 button Contact Us
+					100 button Legal Statement
+					101 button AML Policy
+					102 button Privacy Policy
+					103 button Partnership
+			104 container
+				105 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			106 button Facebook
+			107 button Instagram
+			108 button Telegram
+			109 button X
+			110 button YouTube
+			111 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/download-metaTrader5

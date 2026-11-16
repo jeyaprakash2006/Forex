@@ -1,0 +1,101 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/account-center/overview?activeName=tw".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/overview?activeName=tw
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 image avatar
+			9 text Hello, LEMjqCcV
+			10 text Invitation Code : 21717196
+			11 image
+			12 image
+			13 container
+				14 text Total Assets $0.00 ≈0 IDR
+				15 button Deposit
+				16 button Withdraw
+				17 button Transfer
+				18 button MT5 Account $0.00
+					19 text MT5 Account
+					20 image
+					21 text $0.00
+				22 button MT4 Account $0.00
+					23 text MT4 Account
+					24 image
+					25 text $0.00
+				26 button Trade W Account $0.00
+					27 text Trade W Account
+					28 image
+					29 text $0.00
+				30 button Investment Account $0.00
+					31 text Investment Account
+					32 image
+					33 text $0.00
+			34 container
+				35 heading Security Level, Value: 4
+					36 text Security Level
+				37 heading Verification, Value: 4
+					38 text Verification
+				39 container
+					40 text Certification
+					41 image
+				42 image auth-status
+				43 heading Download The App, Value: 4
+					44 text Download The App
+				45 container
+					46 text Go
+					47 image
+				48 image auth-status
+			49 image
+			50 text Trade.W
+			51 text Trade now and earn money!
+			52 button Open
+		53 container
+			54 container
+				55 image logo
+				56 text Hello!
+We are here to help you!
+				57 heading Frequently Asked Questions More, Value: 6
+					58 text Frequently Asked Questions
+					59 text More
+				60 text What is Trade W and How Does it Work?
+				61 text Is Trade W a Regulated Broker?
+				62 text Does Trade W Provide a Demo Account?
+				63 text What Trading Platforms does Trade W Support?
+				64 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			65 container
+				66 button Customer Support
+				67 text 2
+			68 container chatroom
+				69 container
+					70 heading AI Assistant-W, Value: 6
+						71 text AI Assistant-W
+					72 image
+				73 text 11-15 01:42
+				74 text AI Assistant-W
+				75 container
+					76 text Hi there! 👋 I'm W. How can I help you with your trading account?
+				77 container
+					78 text Guess what you want to ask?
+					79 image
+					80 text How can I earn points and redeem exciting rewards?
+					81 text 24604
+					82 button Ask
+					83 text How do I reset my demo balance?
+					84 text 13640
+					85 button Ask
+					86 text How does the Invite Friends program work?
+					87 text 7715
+					88 button Ask
+				89 container
+					90 button Customer Service
+						91 image
+						92 text Customer Service
+					93 container
+						94 text Please enter
+		95 container
+			96 image conversation-badge-icon
+			97 text 2
+
+The focused UI element is 1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/overview?activeName=tw

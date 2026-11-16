@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0a1018"><title>Northstar FX — Your practice, in perspective</title>
+  <link rel="stylesheet" href="/styles.css"><script src="/app.js" defer></script>
+</head>
+<body>
+<section id="authScreen" class="auth-screen">
+  <div class="auth-story">
+    <a class="brand" href="#"><span class="brand-icon">✦</span> northstar<span class="brand-fx">FX</span></a>
+    <div class="story-copy"><span class="eyebrow">A CLEARER WAY TO PRACTICE</span><h1>Build confidence.<br>One trade at a time.</h1><p>A focused workspace to explore the markets, learn your process, and put your ideas into practice.</p>
+      <div class="story-chart" aria-hidden="true"><div class="story-grid"></div><svg viewBox="0 0 600 190"><defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#4bd7b4" stop-opacity=".25"/><stop offset="100%" stop-color="#4bd7b4" stop-opacity="0"/></linearGradient></defs><path d="M0 150 30 136 55 143 85 110 110 125 145 95 175 112 205 88 240 103 270 60 300 74 335 48 365 65 400 28 430 44 465 21 495 38 530 12 560 25 600 5 V190 H0Z" fill="url(#fade)"/><path d="M0 150 30 136 55 143 85 110 110 125 145 95 175 112 205 88 240 103 270 60 300 74 335 48 365 65 400 28 430 44 465 21 495 38 530 12 560 25 600 5" fill="none" stroke="#4bd7b4" stroke-width="2"/></svg><span>Illustration · not market performance</span></div>
+      <div class="story-stats"><div><b>$10,000</b><span>Virtual starting balance</span></div><div><b>One workspace</b><span>Charts, orders & insights</span></div><div><b>Your pace</b><span>Practice without deposits</span></div></div>
+    </div><p class="auth-disclaimer">Local development edition · Simulated prices and virtual funds only.</p>
+  </div>
+  <div class="auth-panel"><div class="auth-box"><span class="pill">PAPER TRADING</span><h2 id="authTitle">Welcome back.</h2><p id="authDescription">Sign in to your practice workspace.</p>
+    <div class="segmented auth-tabs"><button id="loginTab" class="selected" type="button">Sign in</button><button id="registerTab" type="button">Create account</button></div>
+    <form id="authForm"><div id="nameField" hidden><label for="authName">Your name</label><input id="authName" autocomplete="name" maxlength="60" placeholder="Alex Morgan"></div>
+      <label for="authEmail">Email address</label><input id="authEmail" type="email" required autocomplete="email" maxlength="254" placeholder="you@example.com">
+      <label for="authPassword">Password</label><input id="authPassword" type="password" required minlength="10" maxlength="128" autocomplete="current-password" placeholder="At least 10 characters">
+      <p id="authError" class="form-error" role="alert"></p><button id="authSubmit" class="primary wide" type="submit">Sign in <span>→</span></button>
+    </form><p class="auth-note">Your account is saved on this server. Email verification and password recovery are not enabled in this local build.</p>
+  </div></div>
+</section>
+<div id="appScreen" hidden>
+  <header class="topbar"><a class="brand" href="#terminal"><span class="brand-icon">✦</span> northstar<span class="brand-fx">FX</span></a>
+    <nav class="primary-nav" aria-label="Main navigation"><button data-page="dashboard">Overview</button><button data-page="terminal" class="active">Terminal</button><button data-page="reports">Reports</button><button data-page="account">Account</button></nav>
+    <div class="top-actions"><span class="pill"><i></i> PAPER ACCOUNT</span><button id="profileButton" class="avatar" aria-label="Open account">N</button></div>
+  </header>
+  <div class="mode-strip"><span><i id="connectionDot" class="status-dot"></i><b id="connectionText">Connecting to simulator</b><span class="strip-detail"> · Generated prices · No broker connected</span></span><span class="server-clock" id="serverClock"></span></div>
+  <main>
+    <section id="terminalPage" class="page">
+      <div class="workspace-heading"><div><span class="eyebrow">YOUR WORKSPACE</span><h1>Trading terminal</h1></div><button id="specButton" class="subtle">Instrument details ↗</button></div>
+      <div class="terminal-grid">
+        <aside class="watchlist card"><div class="card-title"><h2>Watchlist</h2><span class="count">2</span></div><label class="search-box"><span>⌕</span><input id="marketSearch" type="search" placeholder="Search markets" aria-label="Search markets"></label>
+          <div class="market-filter"><button class="selected" data-filter="all">All markets</button><button data-filter="favorites">★ Favorites</button></div>
+          <div class="watch-labels"><span>INSTRUMENT</span><span>BID / CHANGE</span></div><div id="marketList"></div>
+          <div class="watch-bottom"><span class="eyebrow">PRACTICE CONDITIONS</span><p>Forex · USD account</p><dl><dt>Contract size</dt><dd>100,000 / lot</dd><dt>Leverage</dt><dd>1:20</dd><dt>Fees & swap</dt><dd>$0 simulated</dd></dl><p class="muted small">Practice assumptions differ from broker terms.</p></div>
+        </aside>
+        <section class="chart-card card"><div class="instrument-header"><div class="instrument-identity"><span id="pairIcon" class="currency-icon">€</span><div><h2 id="pairName">EUR/USD</h2><span id="pairDescription" class="muted small">Euro / US Dollar</span></div></div><div class="instrument-quote"><b id="mainPrice">—</b><span id="mainChange">—</span></div></div>
+          <div class="chart-toolbar"><div class="timeframes" id="timeframes"><button data-interval="1">1m</button><button data-interval="5">5m</button><button class="selected" data-interval="15">15m</button><button data-interval="60">1h</button><button data-interval="240">4h</button></div><div class="chart-tools"><button id="maToggle" class="selected" aria-pressed="true">MA 9</button><button id="macdToggle" aria-pressed="false">MACD</button><button id="fullscreenButton" aria-label="Expand chart">⛶</button></div></div>
+          <div class="chart-meta"><span id="chartOHLC">Loading generated candles…</span><span>Bid candles</span></div>
+          <div class="canvas-wrap"><canvas id="priceChart" role="img" aria-label="Generated bid-price candlestick chart. Current price is shown above."></canvas><div class="chart-watermark">northstar<span>FX</span></div><p id="chartMessage" class="chart-message" hidden></p></div>
+          <div class="chart-caption"><span>SIMULATED PRICE SERIES</span><span id="candleTime">UTC</span></div>
+        </section>
+        <aside class="ticket card"><div class="card-title"><h2>Place an order</h2><span class="pill small">DEMO</span></div><div class="ticket-account"><span>Practice account</span><b id="ticketAccount">—</b></div>
+          <div class="segmented" id="orderTypes"><button class="selected" data-kind="market">Market</button><button data-kind="limit">Limit</button></div>
+          <div class="quote-buttons"><button id="sellQuoteButton" class="sell-quote"><span>SELL</span><b id="sellQuote">—</b></button><button id="buyQuoteButton" class="buy-quote selected"><span>BUY</span><b id="buyQuote">—</b></button></div><p class="spread-line">Spread <b id="spreadValue">—</b> pips</p>
+          <form id="orderForm"><label for="lots">Order size <span>Lots</span></label><input id="lots" type="number" min="0.01" max="1" step="0.01" value="0.01" required><div class="size-presets"><button type="button" data-size="0.01">0.01</button><button type="button" data-size="0.10">0.10</button><button type="button" data-size="0.50">0.50</button><button type="button" data-size="1.00">1.00</button></div>
+            <div id="limitField" hidden><label for="limitPrice">Limit price</label><input id="limitPrice" type="number" min="0.00001" step="0.00001"></div>
+            <div class="protection-row"><label for="useSL">Stop loss</label><input id="useSL" type="checkbox" role="switch"></div><input id="stopLoss" type="number" step="0.00001" min="0.00001" aria-label="Stop loss price" hidden>
+            <div class="protection-row"><label for="useTP">Take profit</label><input id="useTP" type="checkbox" role="switch"></div><input id="takeProfit" type="number" step="0.00001" min="0.00001" aria-label="Take profit price" hidden>
+            <div class="order-estimates"><div><span>Notional value</span><b id="notionalValue">—</b></div><div><span>Required margin</span><b id="marginValue">—</b></div><div><span>Available margin</span><b id="freeMarginValue">—</b></div><div><span>Fee · swap</span><b>$0.00</b></div></div>
+            <p id="riskPreview" class="small muted"></p><button id="reviewOrder" class="primary wide" type="submit">Review buy order <span>→</span></button><p class="ticket-note">Virtual funds only. Orders run on the server while this tab is closed.</p>
+          </form>
+        </aside>
+        <section class="ledger card"><div class="ledger-top"><div class="ledger-tabs"><button class="active" data-ledger="open">Positions <span id="openCount">0</span></button><button data-ledger="pending">Pending <span id="pendingCount">0</span></button><button data-ledger="history">History</button></div><a class="subtle small" href="/api/statement.csv">↓ Export CSV</a></div><div id="tradeTable" class="table-wrap"></div></section>
+      </div>
+      <div class="account-bar"><div><span>Balance</span><b id="balanceValue">—</b></div><div><span>Equity</span><b id="equityValue">—</b></div><div><span>Unrealized P&L</span><b id="pnlValue">—</b></div><div><span>Used margin</span><b id="usedMarginValue">—</b></div><span class="account-bar-note">USD · 1:20 simulated leverage</span></div>
+    </section>
+    <section id="dashboardPage" class="page portal" hidden><div class="page-heading"><div><span class="eyebrow">YOUR PRACTICE, IN PERSPECTIVE</span><h1 id="greeting">Your overview</h1><p class="muted">A little clarity for your next move.</p></div><button class="primary" data-page="terminal">Open terminal ↗</button></div><div id="dashboardStats" class="stats-grid"></div><div class="dashboard-grid"><section class="card overview-account"><span class="eyebrow">YOUR ACCOUNT</span><h2>Room to practice.</h2><p class="muted">One USD account. Two currency pairs. A complete record of every practice trade.</p><div class="account-visual"><span class="brand-icon">✦</span><span>PAPER STANDARD</span><b id="dashboardBalance">—</b><small>Virtual balance · simulated market data</small></div><button class="subtle" data-page="account">Manage account →</button></section><section class="card activity-card"><div class="card-title"><h2>Recent activity</h2><span class="status-dot"></span></div><div id="activityList"></div></section></div></section>
+    <section id="reportsPage" class="page portal" hidden><div class="page-heading"><div><span class="eyebrow">LEARN FROM EVERY TRADE</span><h1>Trade reports</h1><p class="muted">Your complete practice record, including archived accounts.</p></div><a id="reportExport" class="primary" href="/api/statement.csv">↓ Export statement</a></div><div class="report-controls"><label>Account<select id="reportAccount"></select></label><label>Instrument<select id="reportSymbol"><option value="all">All instruments</option><option value="EURUSD">EUR/USD</option><option value="GBPUSD">GBP/USD</option></select></label><label>Status<select id="reportStatus"><option value="all">All statuses</option><option value="open">Open</option><option value="pending">Pending</option><option value="closed">Closed</option><option value="cancelled">Cancelled</option><option value="rejected">Rejected</option></select></label></div><div class="card"><div id="reportSummary" class="report-summary"></div><div id="reportTable" class="table-wrap"></div></div></section>
+    <section id="accountPage" class="page portal" hidden><div class="page-heading"><div><span class="eyebrow">YOUR WORKSPACE SETTINGS</span><h1>Account</h1><p class="muted">Your profile, practice balance, and session.</p></div></div><div class="account-grid"><section class="card settings-card"><h2>Profile</h2><dl id="profileDetails"></dl><button id="signOut" class="secondary">Sign out of this session</button><p class="small muted">Local accounts are not email-verified. Password recovery and session-management UI are planned.</p></section><section class="card settings-card"><h2>Practice account</h2><dl id="accountDetails"></dl><button id="resetAccount" class="secondary">Start a fresh practice account</button><p class="small muted">Closes open positions at current simulated prices, cancels pending orders, and archives this account. Your history stays in Reports.</p></section><section class="card settings-card integration-card"><span class="pill">NOT CONNECTED</span><h2>Broker services</h2><p class="muted">Live trading, deposits, withdrawals, and identity verification become available only after a supported broker integration is configured.</p><div class="capability-list"><span>Live execution</span><b>Unavailable</b><span>Funding & transfers</span><b>Unavailable</b><span>Broker verification</span><b>Unavailable</b></div></section></div></section>
+  </main><footer><span>✦ Northstar FX <span class="muted">/ Development edition</span></span><span>Simulated prices. Virtual funds. Real practice.</span></footer>
+</div>
+<dialog id="actionDialog"><form method="dialog"><button class="dialog-close" aria-label="Close dialog" value="cancel">×</button></form><span id="dialogEyebrow" class="eyebrow">PAPER ACCOUNT</span><h2 id="dialogTitle"></h2><div id="dialogBody"></div><p id="dialogError" class="form-error" role="alert"></p><div class="dialog-actions"><button id="dialogCancel" class="secondary">Cancel</button><button id="dialogConfirm" class="primary">Confirm</button></div></dialog>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+</body></html>

@@ -1,0 +1,11 @@
+{
+  "name": "northstar-fx",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Local full-stack paper trading terminal",
+  "scripts": {
+    "start": "python3.13 -m backend.server",
+    "test": "python3.13 -m unittest discover -s tests -v && node --test tests/chart.test.cjs",
+    "check": "node --check app.js && node --check chart.js"
+  }
+}

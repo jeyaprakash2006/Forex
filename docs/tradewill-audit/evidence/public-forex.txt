@@ -1,0 +1,110 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/forex".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/forex
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading Forex CFDs, Value: 3
+				9 text Forex CFDs
+			10 text Enter the world's largest market and trade more than 60 currency pairs
+			11 button Start Trading
+			12 button Try Free Demo
+			13 heading What is Forex?, Value: 4
+				14 text What is Forex?
+			15 text Forex, or the foreign exchange market, is a global marketplace where currencies are traded. Every transaction involves both a buyer and a seller, driving price fluctuations. This decentralized market operates globally, facilitating international trade and investments for businesses and countries.
+			16 heading Forex Exchange Market, Value: 6
+				17 text Forex Exchange Market
+			18 content list
+				19 text Central Banks
+				20 text Companies
+				21 text Individuals
+				22 text Brokers
+				23 text Commercial Banks
+				24 text Institutional Investors
+			25 text We aim to help our traders succeed by providing excellent trading experience.
+			26 content list
+				27 container
+					28 AXListMarker • 
+					29 text Access EURUSD, USDJPY, AUDUSD, and more currency pairs
+				30 container
+					31 AXListMarker • 
+					32 text Competitive spreads
+				33 container
+					34 AXListMarker • 
+					35 text Instant Deposit. Fast Withdrawal in 30 minutes.
+				36 container
+					37 AXListMarker • 
+					38 text 0.04s Average order execution speed
+			39 button Start Trading
+			40 heading Why Trade Forex CFDs with Trade W?Trade Forex?, Value: 4
+				41 text Why Trade Forex CFDs with Trade W?Trade Forex?
+			42 container
+				43 text Instruments Buy Price Sell Price Spread
+				44 image
+				45 text No records
+			46 heading Trade in 3 Simple Steps, Value: 6
+				47 text Trade in 3 Simple Steps
+			48 text Smarter trading starts here! Join a global community of traders who choose Trade W for efficient trading. Sign Up Open an account in 2 minutes Deposit Deposit using your preferred funding method to activate your account Trade Trade over 100+ financial instruments worldwide
+			49 button Start Trading
+			50 button Try Free Demo
+			51 container Footer navigation
+				52 button (expanded) Markets, Secondary Actions: Collapse
+				53 button Markets Overview
+				54 button Forex CFDs
+				55 button Stock CFDs
+				56 button Crypto CFDs
+				57 button Indices CFDs
+				58 button Metals CFDs
+				59 button Announcement
+				60 button (collapsed) Platforms, Secondary Actions: Expand
+				61 container
+					62 button Trade W APP
+					63 button Trade W Web Trader
+					64 button MetaTrader 4 Mobile
+					65 button MetaTrader 5 Mobile
+					66 button MetaTrader 5
+					67 button MetaTrader 4
+				68 button (collapsed) Account, Secondary Actions: Expand
+				69 container
+					70 button Classic Account Series
+					71 button Professional Account Series
+					72 button Demo Account
+				73 button (collapsed) Resources, Secondary Actions: Expand
+				74 container
+					75 button Market Insights
+					76 button Market Analysis
+					77 button Trading News
+					78 button Economic Calendar
+					79 button Profit Calculator
+					80 button TradingView
+					81 button Margin Calculator
+					82 button Trading Glossary
+					83 button Beginner Tutorial
+				84 button (collapsed) Supports, Secondary Actions: Expand
+				85 container
+					86 button Help Center
+					87 button FAQs
+					88 button Feedback
+				89 button (collapsed) Company, Secondary Actions: Expand
+				90 container
+					91 button About Us
+					92 button Trade W Awards
+					93 button Company Updates
+					94 button Careers
+					95 button Contact Us
+					96 button Legal Statement
+					97 button AML Policy
+					98 button Privacy Policy
+					99 button Partnership
+			100 container
+				101 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			102 button Facebook
+			103 button Instagram
+			104 button Telegram
+			105 button X
+			106 button YouTube
+			107 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/forex

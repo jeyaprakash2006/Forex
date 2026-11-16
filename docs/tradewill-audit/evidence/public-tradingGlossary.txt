@@ -1,0 +1,1085 @@
+Browser tab: 1, Title: "Trading Glossary | Coin, Oil and Gold | Trade W", URL: "https://www.tradewill.com/tradingGlossary".
+1 AXWebArea Trading Glossary | Coin, Oil and Gold | Trade W, URL: tradewill.com/tradingGlossary
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading Trading Glossary, Value: 3
+				9 text Trading Glossary
+			10 text In the glossary you can easily find related words, terms, definitions, etc.
+			11 container
+				12 button All
+				13 button Forex
+				14 button Stock/Index
+				15 button Cryptocurrency
+				16 button CFD
+			17 container
+				18 text A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+			19 container anthorBody
+				20 container A
+					21 heading A, Value: 6
+						22 text A
+					23 button (collapsed) ADR (Average Daily Range), ID: el-collapse-head-0, Secondary Actions: Expand
+						24 text ADR (Average Daily Range)
+					25 button (collapsed) Arbitrage, ID: el-collapse-head-1, Secondary Actions: Expand
+						26 text Arbitrage
+					27 button (collapsed) Ask Price, ID: el-collapse-head-2, Secondary Actions: Expand
+						28 text Ask Price
+					29 button (collapsed) ATM (At the Money), ID: el-collapse-head-3, Secondary Actions: Expand
+						30 text ATM (At the Money)
+					31 button (collapsed) Adjustment, ID: el-collapse-head-4, Secondary Actions: Expand
+						32 text Adjustment
+					33 button (collapsed) ADR (American Depository Receipt), ID: el-collapse-head-5, Secondary Actions: Expand
+						34 text ADR (American Depository Receipt)
+					35 button (collapsed) Algorithmic Trading, ID: el-collapse-head-6, Secondary Actions: Expand
+						36 text Algorithmic Trading
+					37 button (collapsed) Alpha, ID: el-collapse-head-7, Secondary Actions: Expand
+						38 text Alpha
+					39 button (collapsed) Ask-Bid Spread, ID: el-collapse-head-8, Secondary Actions: Expand
+						40 text Ask-Bid Spread
+					41 button (collapsed) Asset Allocation, ID: el-collapse-head-9, Secondary Actions: Expand
+						42 text Asset Allocation
+					43 button (collapsed) At-the-Money (ATM), ID: el-collapse-head-10, Secondary Actions: Expand
+						44 text At-the-Money (ATM)
+					45 button (collapsed) At-the-Money (ATM) Option, ID: el-collapse-head-11, Secondary Actions: Expand
+						46 text At-the-Money (ATM) Option
+					47 button (collapsed) Average Price, ID: el-collapse-head-12, Secondary Actions: Expand
+						48 text Average Price
+					49 button (collapsed) Airdrop, ID: el-collapse-head-13, Secondary Actions: Expand
+						50 text Airdrop
+					51 button (collapsed) Altcoin, ID: el-collapse-head-14, Secondary Actions: Expand
+						52 text Altcoin
+					53 button (collapsed) AML (Anti-Money Laundering), ID: el-collapse-head-15, Secondary Actions: Expand
+						54 text AML (Anti-Money Laundering)
+					55 button (collapsed) APY (Annual Percentage Yield), ID: el-collapse-head-16, Secondary Actions: Expand
+						56 text APY (Annual Percentage Yield)
+					57 button (collapsed) APR (Annual Percentage Rate), ID: el-collapse-head-17, Secondary Actions: Expand
+						58 text APR (Annual Percentage Rate)
+					59 button (collapsed) ASIC (Application-Specific Integrated Circuit), ID: el-collapse-head-18, Secondary Actions: Expand
+						60 text ASIC (Application-Specific Integrated Circuit)
+					61 button (collapsed) ATH (All-Time High), ID: el-collapse-head-19, Secondary Actions: Expand
+						62 text ATH (All-Time High)
+					63 button (collapsed) ATL (All-Time Low), ID: el-collapse-head-20, Secondary Actions: Expand
+						64 text ATL (All-Time Low)
+					65 button (collapsed) Atomic Swap, ID: el-collapse-head-21, Secondary Actions: Expand
+						66 text Atomic Swap
+					67 button (collapsed) Avalanche Effect, ID: el-collapse-head-22, Secondary Actions: Expand
+						68 text Avalanche Effect
+					69 button (collapsed) Account Equity, ID: el-collapse-head-23, Secondary Actions: Expand
+						70 text Account Equity
+					71 button (collapsed) Account Leverage, ID: el-collapse-head-24, Secondary Actions: Expand
+						72 text Account Leverage
+					73 button (collapsed) Allocation, ID: el-collapse-head-25, Secondary Actions: Expand
+						74 text Allocation
+				75 container B
+					76 heading B, Value: 6
+						77 text B
+					78 button (collapsed) Bar Chart, ID: el-collapse-head-26, Secondary Actions: Expand
+						79 text Bar Chart
+					80 button (collapsed) Bear Market, ID: el-collapse-head-27, Secondary Actions: Expand
+						81 text Bear Market
+					82 button (collapsed) Bid Price, ID: el-collapse-head-28, Secondary Actions: Expand
+						83 text Bid Price
+					84 button (collapsed) Bid-Ask Spread, ID: el-collapse-head-29, Secondary Actions: Expand
+						85 text Bid-Ask Spread
+					86 button (collapsed) Big Figure, ID: el-collapse-head-30, Secondary Actions: Expand
+						87 text Big Figure
+					88 button (collapsed) Black Swan, ID: el-collapse-head-31, Secondary Actions: Expand
+						89 text Black Swan
+					90 button (collapsed) Blockchain, ID: el-collapse-head-32, Secondary Actions: Expand
+						91 text Blockchain
+					92 button (collapsed) Breakeven Point, ID: el-collapse-head-33, Secondary Actions: Expand
+						93 text Breakeven Point
+					94 button (collapsed) Broker, ID: el-collapse-head-34, Secondary Actions: Expand
+						95 text Broker
+					96 button (collapsed) Bull Market, ID: el-collapse-head-35, Secondary Actions: Expand
+						97 text Bull Market
+					98 button (collapsed) Bullish Engulfing, ID: el-collapse-head-36, Secondary Actions: Expand
+						99 text Bullish Engulfing
+					100 button (collapsed) Buy Limit Order, ID: el-collapse-head-37, Secondary Actions: Expand
+						101 text Buy Limit Order
+					102 button (collapsed) Buy Stop Order, ID: el-collapse-head-38, Secondary Actions: Expand
+						103 text Buy Stop Order
+					104 button (collapsed) Backtest, ID: el-collapse-head-39, Secondary Actions: Expand
+						105 text Backtest
+					106 button (collapsed) Bearish Divergence, ID: el-collapse-head-40, Secondary Actions: Expand
+						107 text Bearish Divergence
+					108 button (collapsed) Beta Index, ID: el-collapse-head-41, Secondary Actions: Expand
+						109 text Beta Index
+					110 button (collapsed) Block Trade, ID: el-collapse-head-42, Secondary Actions: Expand
+						111 text Block Trade
+					112 button (collapsed) Blue Chip Stock, ID: el-collapse-head-43, Secondary Actions: Expand
+						113 text Blue Chip Stock
+					114 button (collapsed) Bollinger Bands, ID: el-collapse-head-44, Secondary Actions: Expand
+						115 text Bollinger Bands
+					116 button (collapsed) Breakout, ID: el-collapse-head-45, Secondary Actions: Expand
+						117 text Breakout
+					118 button (collapsed) Bullish, ID: el-collapse-head-46, Secondary Actions: Expand
+						119 text Bullish
+					120 button (collapsed) Bullish Divergence, ID: el-collapse-head-47, Secondary Actions: Expand
+						121 text Bullish Divergence
+					122 button (collapsed) Bagholder, ID: el-collapse-head-48, Secondary Actions: Expand
+						123 text Bagholder
+					124 button (collapsed) Bear Trap, ID: el-collapse-head-49, Secondary Actions: Expand
+						125 text Bear Trap
+					126 button (collapsed) Bitcoin, ID: el-collapse-head-50, Secondary Actions: Expand
+						127 text Bitcoin
+					128 button (collapsed) Block, ID: el-collapse-head-51, Secondary Actions: Expand
+						129 text Block
+					130 button (collapsed) Bridge, ID: el-collapse-head-52, Secondary Actions: Expand
+						131 text Bridge
+					132 button (collapsed) Burn / Token Burn, ID: el-collapse-head-53, Secondary Actions: Expand
+						133 text Burn / Token Burn
+					134 button (collapsed) Bull Trap, ID: el-collapse-head-54, Secondary Actions: Expand
+						135 text Bull Trap
+					136 button (collapsed) Backtesting, ID: el-collapse-head-55, Secondary Actions: Expand
+						137 text Backtesting
+					138 button (collapsed) Balance, ID: el-collapse-head-56, Secondary Actions: Expand
+						139 text Balance
+					140 button (collapsed) Bid/Ask Spread, ID: el-collapse-head-57, Secondary Actions: Expand
+						141 text Bid/Ask Spread
+					142 button (collapsed) Broker Spread, ID: el-collapse-head-58, Secondary Actions: Expand
+						143 text Broker Spread
+					144 button (collapsed) Brokerage Fee, ID: el-collapse-head-59, Secondary Actions: Expand
+						145 text Brokerage Fee
+					146 button (collapsed) Burn Rate, ID: el-collapse-head-60, Secondary Actions: Expand
+						147 text Burn Rate
+				148 container C
+					149 heading C, Value: 6
+						150 text C
+					151 button (collapsed) Call Option, ID: el-collapse-head-61, Secondary Actions: Expand
+						152 text Call Option
+					153 button (collapsed) Candlestick Pattern, ID: el-collapse-head-62, Secondary Actions: Expand
+						154 text Candlestick Pattern
+					155 button (collapsed) Carry Trade, ID: el-collapse-head-63, Secondary Actions: Expand
+						156 text Carry Trade
+					157 button (collapsed) Central Bank, ID: el-collapse-head-64, Secondary Actions: Expand
+						158 text Central Bank
+					159 button (collapsed) CFD (Contract for Difference), ID: el-collapse-head-65, Secondary Actions: Expand
+						160 text CFD (Contract for Difference)
+					161 button (collapsed) Chart Analysis, ID: el-collapse-head-66, Secondary Actions: Expand
+						162 text Chart Analysis
+					163 button (collapsed) Chart Pattern, ID: el-collapse-head-67, Secondary Actions: Expand
+						164 text Chart Pattern
+					165 button (collapsed) Clear, ID: el-collapse-head-68, Secondary Actions: Expand
+						166 text Clear
+					167 button (collapsed) Clip, ID: el-collapse-head-69, Secondary Actions: Expand
+						168 text Clip
+					169 button (collapsed) Close Price, ID: el-collapse-head-70, Secondary Actions: Expand
+						170 text Close Price
+					171 button (collapsed) Collateral, ID: el-collapse-head-71, Secondary Actions: Expand
+						172 text Collateral
+					173 button (collapsed) Commodity Currency, ID: el-collapse-head-72, Secondary Actions: Expand
+						174 text Commodity Currency
+					175 button (collapsed) Compression, ID: el-collapse-head-73, Secondary Actions: Expand
+						176 text Compression
+					177 button (collapsed) Consolidation, ID: el-collapse-head-74, Secondary Actions: Expand
+						178 text Consolidation
+					179 button (collapsed) Convertibility, ID: el-collapse-head-75, Secondary Actions: Expand
+						180 text Convertibility
+					181 button (collapsed) CoT (Commitments of Traders), ID: el-collapse-head-76, Secondary Actions: Expand
+						182 text CoT (Commitments of Traders)
+					183 button (collapsed) Counter Trend, ID: el-collapse-head-77, Secondary Actions: Expand
+						184 text Counter Trend
+					185 button (collapsed) Counterparty, ID: el-collapse-head-78, Secondary Actions: Expand
+						186 text Counterparty
+					187 button (collapsed) Cross Currency, ID: el-collapse-head-79, Secondary Actions: Expand
+						188 text Cross Currency
+					189 button (collapsed) Cross Currency Pair, ID: el-collapse-head-80, Secondary Actions: Expand
+						190 text Cross Currency Pair
+					191 button (collapsed) Currency Pair, ID: el-collapse-head-81, Secondary Actions: Expand
+						192 text Currency Pair
+					193 button (collapsed) Currency Peg, ID: el-collapse-head-82, Secondary Actions: Expand
+						194 text Currency Peg
+					195 button (collapsed) Cyclical Asset, ID: el-collapse-head-83, Secondary Actions: Expand
+						196 text Cyclical Asset
+					197 button (collapsed) Capital Efficiency, ID: el-collapse-head-84, Secondary Actions: Expand
+						198 text Capital Efficiency
+					199 button (collapsed) Capital Gain, ID: el-collapse-head-85, Secondary Actions: Expand
+						200 text Capital Gain
+					201 button (collapsed) Capital Structure, ID: el-collapse-head-86, Secondary Actions: Expand
+						202 text Capital Structure
+					203 button (collapsed) Capitalization (Market Cap), ID: el-collapse-head-87, Secondary Actions: Expand
+						204 text Capitalization (Market Cap)
+					205 button (collapsed) Cash Flow, ID: el-collapse-head-88, Secondary Actions: Expand
+						206 text Cash Flow
+					207 button (collapsed) Certificate of Deposit (CD), ID: el-collapse-head-89, Secondary Actions: Expand
+						208 text Certificate of Deposit (CD)
+					209 button (collapsed) Circuit Breaker, ID: el-collapse-head-90, Secondary Actions: Expand
+						210 text Circuit Breaker
+					211 button (collapsed) Clearing House, ID: el-collapse-head-91, Secondary Actions: Expand
+						212 text Clearing House
+					213 button (collapsed) Closed-End Fund, ID: el-collapse-head-92, Secondary Actions: Expand
+						214 text Closed-End Fund
+					215 button (collapsed) Closes Above Resistance, ID: el-collapse-head-93, Secondary Actions: Expand
+						216 text Closes Above Resistance
+					217 button (collapsed) Collateralized Debt Obligations (CDO), ID: el-collapse-head-94, Secondary Actions: Expand
+						218 text Collateralized Debt Obligations (CDO)
+					219 button (collapsed) Contrarian Investing, ID: el-collapse-head-95, Secondary Actions: Expand
+						220 text Contrarian Investing
+					221 button (collapsed) Convertible Bond, ID: el-collapse-head-96, Secondary Actions: Expand
+						222 text Convertible Bond
+					223 button (collapsed) Cost Averaging, ID: el-collapse-head-97, Secondary Actions: Expand
+						224 text Cost Averaging
+					225 button (collapsed) Cost of Capital, ID: el-collapse-head-98, Secondary Actions: Expand
+						226 text Cost of Capital
+					227 button (collapsed) Cost of Equity, ID: el-collapse-head-99, Secondary Actions: Expand
+						228 text Cost of Equity
+					229 button (collapsed) Covered Call, ID: el-collapse-head-100, Secondary Actions: Expand
+						230 text Covered Call
+					231 button (collapsed) Covering a Short Position, ID: el-collapse-head-101, Secondary Actions: Expand
+						232 text Covering a Short Position
+					233 button (collapsed) Credit Default Swap (CDS), ID: el-collapse-head-102, Secondary Actions: Expand
+						234 text Credit Default Swap (CDS)
+					235 button (collapsed) Crossover, ID: el-collapse-head-103, Secondary Actions: Expand
+						236 text Crossover
+					237 button (collapsed) Crowded Trade, ID: el-collapse-head-104, Secondary Actions: Expand
+						238 text Crowded Trade
+					239 button (collapsed) Cumulative Dividend, ID: el-collapse-head-105, Secondary Actions: Expand
+						240 text Cumulative Dividend
+					241 button (collapsed) Current Ratio, ID: el-collapse-head-106, Secondary Actions: Expand
+						242 text Current Ratio
+					243 button (collapsed) Cyclical Stock, ID: el-collapse-head-107, Secondary Actions: Expand
+						244 text Cyclical Stock
+					245 button (collapsed) CEX (Centralized Exchange), ID: el-collapse-head-108, Secondary Actions: Expand
+						246 text CEX (Centralized Exchange)
+					247 button (collapsed) CEX Aggregator, ID: el-collapse-head-109, Secondary Actions: Expand
+						248 text CEX Aggregator
+					249 button (collapsed) Circulating Supply, ID: el-collapse-head-110, Secondary Actions: Expand
+						250 text Circulating Supply
+					251 button (collapsed) Cloning, ID: el-collapse-head-111, Secondary Actions: Expand
+						252 text Cloning
+					253 button (collapsed) Cold Wallet, ID: el-collapse-head-112, Secondary Actions: Expand
+						254 text Cold Wallet
+					255 button (collapsed) Composability, ID: el-collapse-head-113, Secondary Actions: Expand
+						256 text Composability
+					257 button (collapsed) Consensus Mechanism, ID: el-collapse-head-114, Secondary Actions: Expand
+						258 text Consensus Mechanism
+					259 button (collapsed) Cross-Chain, ID: el-collapse-head-115, Secondary Actions: Expand
+						260 text Cross-Chain
+					261 button (collapsed) Crypto Wallet, ID: el-collapse-head-116, Secondary Actions: Expand
+						262 text Crypto Wallet
+					263 button (collapsed) Cryptocurrency, ID: el-collapse-head-117, Secondary Actions: Expand
+						264 text Cryptocurrency
+					265 button (collapsed) Curve Finance, ID: el-collapse-head-118, Secondary Actions: Expand
+						266 text Curve Finance
+					267 button (collapsed) Candlestick Chart, ID: el-collapse-head-119, Secondary Actions: Expand
+						268 text Candlestick Chart
+					269 button (collapsed) Capital Gains Tax, ID: el-collapse-head-120, Secondary Actions: Expand
+						270 text Capital Gains Tax
+					271 button (collapsed) Charting, ID: el-collapse-head-121, Secondary Actions: Expand
+						272 text Charting
+					273 button (collapsed) CFD Market, ID: el-collapse-head-122, Secondary Actions: Expand
+						274 text CFD Market
+					275 button (collapsed) Close Position, ID: el-collapse-head-123, Secondary Actions: Expand
+						276 text Close Position
+					277 button (collapsed) Commodities, ID: el-collapse-head-124, Secondary Actions: Expand
+						278 text Commodities
+					279 button (collapsed) Contract for Difference (CFD), ID: el-collapse-head-125, Secondary Actions: Expand
+						280 text Contract for Difference (CFD)
+					281 button (collapsed) Contract Size, ID: el-collapse-head-126, Secondary Actions: Expand
+						282 text Contract Size
+					283 button (collapsed) Corporate Action, ID: el-collapse-head-127, Secondary Actions: Expand
+						284 text Corporate Action
+					285 button (collapsed) Custodian, ID: el-collapse-head-128, Secondary Actions: Expand
+						286 text Custodian
+				287 container D
+					288 heading D, Value: 6
+						289 text D
+					290 button (collapsed) Day Order, ID: el-collapse-head-129, Secondary Actions: Expand
+						291 text Day Order
+					292 button (collapsed) Day Trading, ID: el-collapse-head-130, Secondary Actions: Expand
+						293 text Day Trading
+					294 button (collapsed) Decimals, ID: el-collapse-head-131, Secondary Actions: Expand
+						295 text Decimals
+					296 button (collapsed) Demand Zone, ID: el-collapse-head-132, Secondary Actions: Expand
+						297 text Demand Zone
+					298 button (collapsed) Derivatives, ID: el-collapse-head-133, Secondary Actions: Expand
+						299 text Derivatives
+					300 button (collapsed) Divergence, ID: el-collapse-head-134, Secondary Actions: Expand
+						301 text Divergence
+					302 button (collapsed) Double Bottom, ID: el-collapse-head-135, Secondary Actions: Expand
+						303 text Double Bottom
+					304 button (collapsed) Double Top, ID: el-collapse-head-136, Secondary Actions: Expand
+						305 text Double Top
+					306 button (collapsed) Dow Theory, ID: el-collapse-head-137, Secondary Actions: Expand
+						307 text Dow Theory
+					308 button (collapsed) Downtrend, ID: el-collapse-head-138, Secondary Actions: Expand
+						309 text Downtrend
+					310 button (collapsed) Drawdown, ID: el-collapse-head-139, Secondary Actions: Expand
+						311 text Drawdown
+					312 button (collapsed) DXY (US Dollar Index), ID: el-collapse-head-140, Secondary Actions: Expand
+						313 text DXY (US Dollar Index)
+					314 button (collapsed) Debt-to-Equity Ratio (D/E), ID: el-collapse-head-141, Secondary Actions: Expand
+						315 text Debt-to-Equity Ratio (D/E)
+					316 button (collapsed) Defensive Stock, ID: el-collapse-head-142, Secondary Actions: Expand
+						317 text Defensive Stock
+					318 button (collapsed) Dividend, ID: el-collapse-head-143, Secondary Actions: Expand
+						319 text Dividend
+					320 button (collapsed) Dividend Cover, ID: el-collapse-head-144, Secondary Actions: Expand
+						321 text Dividend Cover
+					322 button (collapsed) Dividend Payout Ratio, ID: el-collapse-head-145, Secondary Actions: Expand
+						323 text Dividend Payout Ratio
+					324 button (collapsed) Dividend Reinvestment Plan (DRIP), ID: el-collapse-head-146, Secondary Actions: Expand
+						325 text Dividend Reinvestment Plan (DRIP)
+					326 button (collapsed) Dividend Yield, ID: el-collapse-head-147, Secondary Actions: Expand
+						327 text Dividend Yield
+					328 button (collapsed) Dodd-Frank Act, ID: el-collapse-head-148, Secondary Actions: Expand
+						329 text Dodd-Frank Act
+					330 button (collapsed) DAO (Decentralized Autonomous Organization), ID: el-collapse-head-149, Secondary Actions: Expand
+						331 text DAO (Decentralized Autonomous Organization)
+					332 button (collapsed) DApp (Decentralized Application), ID: el-collapse-head-150, Secondary Actions: Expand
+						333 text DApp (Decentralized Application)
+					334 button (collapsed) DeFi (Decentralized Finance), ID: el-collapse-head-151, Secondary Actions: Expand
+						335 text DeFi (Decentralized Finance)
+					336 button (collapsed) DEX (Decentralized Exchange), ID: el-collapse-head-152, Secondary Actions: Expand
+						337 text DEX (Decentralized Exchange)
+					338 button (collapsed) DYOR (Do Your Own Research), ID: el-collapse-head-153, Secondary Actions: Expand
+						339 text DYOR (Do Your Own Research)
+					340 button (collapsed) Dusting Attack, ID: el-collapse-head-154, Secondary Actions: Expand
+						341 text Dusting Attack
+					342 button (collapsed) Daily Pivot Point, ID: el-collapse-head-155, Secondary Actions: Expand
+						343 text Daily Pivot Point
+					344 button (collapsed) Default Margin, ID: el-collapse-head-156, Secondary Actions: Expand
+						345 text Default Margin
+					346 button (collapsed) Default Margin Level, ID: el-collapse-head-157, Secondary Actions: Expand
+						347 text Default Margin Level
+					348 button (collapsed) Derivative, ID: el-collapse-head-158, Secondary Actions: Expand
+						349 text Derivative
+					350 button (collapsed) Derivative Market, ID: el-collapse-head-159, Secondary Actions: Expand
+						351 text Derivative Market
+					352 button (collapsed) Dividend Adjustment, ID: el-collapse-head-160, Secondary Actions: Expand
+						353 text Dividend Adjustment
+					354 button (collapsed) Drawdown Period, ID: el-collapse-head-161, Secondary Actions: Expand
+						355 text Drawdown Period
+					356 button (collapsed) Dual-Listed, ID: el-collapse-head-162, Secondary Actions: Expand
+						357 text Dual-Listed
+				358 container E
+					359 heading E, Value: 6
+						360 text E
+					361 button (collapsed) ECN (Electronic Communication Network), ID: el-collapse-head-163, Secondary Actions: Expand
+						362 text ECN (Electronic Communication Network)
+					363 button (collapsed) Economic Calendar, ID: el-collapse-head-164, Secondary Actions: Expand
+						364 text Economic Calendar
+					365 button (collapsed) Economic Data, ID: el-collapse-head-165, Secondary Actions: Expand
+						366 text Economic Data
+					367 button (collapsed) EMA (Exponential Moving Average), ID: el-collapse-head-166, Secondary Actions: Expand
+						368 text EMA (Exponential Moving Average)
+					369 button (collapsed) Employment Report, ID: el-collapse-head-167, Secondary Actions: Expand
+						370 text Employment Report
+					371 button (collapsed) End of Day (EOD), ID: el-collapse-head-168, Secondary Actions: Expand
+						372 text End of Day (EOD)
+					373 button (collapsed) Envelopes, ID: el-collapse-head-169, Secondary Actions: Expand
+						374 text Envelopes
+					375 button (collapsed) EUR/USD, ID: el-collapse-head-170, Secondary Actions: Expand
+						376 text EUR/USD
+					377 button (collapsed) Exchange Rate, ID: el-collapse-head-171, Secondary Actions: Expand
+						378 text Exchange Rate
+					379 button (collapsed) Exponential Moving Average (EMA), ID: el-collapse-head-172, Secondary Actions: Expand
+						380 text Exponential Moving Average (EMA)
+					381 button (collapsed) Earnings Before Interest and Taxes (EBIT), ID: el-collapse-head-173, Secondary Actions: Expand
+						382 text Earnings Before Interest and Taxes (EBIT)
+					383 button (collapsed) Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA), ID: el-collapse-head-174, Secondary Actions: Expand
+						384 text Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA)
+					385 button (collapsed) Earnings Per Share (EPS), ID: el-collapse-head-175, Secondary Actions: Expand
+						386 text Earnings Per Share (EPS)
+					387 button (collapsed) Economic Moat, ID: el-collapse-head-176, Secondary Actions: Expand
+						388 text Economic Moat
+					389 button (collapsed) Equity Financing, ID: el-collapse-head-177, Secondary Actions: Expand
+						390 text Equity Financing
+					391 button (collapsed) Ex-Dividend, ID: el-collapse-head-178, Secondary Actions: Expand
+						392 text Ex-Dividend
+					393 button (collapsed) Ex-Dividend Date, ID: el-collapse-head-179, Secondary Actions: Expand
+						394 text Ex-Dividend Date
+					395 button (collapsed) Excess Return, ID: el-collapse-head-180, Secondary Actions: Expand
+						396 text Excess Return
+					397 button (collapsed) Exchange Traded Fund (ETF), ID: el-collapse-head-181, Secondary Actions: Expand
+						398 text Exchange Traded Fund (ETF)
+					399 button (collapsed) Exchange Traded Note (ETN), ID: el-collapse-head-182, Secondary Actions: Expand
+						400 text Exchange Traded Note (ETN)
+					401 button (collapsed) Exit Strategy, ID: el-collapse-head-183, Secondary Actions: Expand
+						402 text Exit Strategy
+					403 button (collapsed) Emission Rate, ID: el-collapse-head-184, Secondary Actions: Expand
+						404 text Emission Rate
+					405 button (collapsed) ERC-20, ID: el-collapse-head-185, Secondary Actions: Expand
+						406 text ERC-20
+					407 button (collapsed) Earnings Report, ID: el-collapse-head-186, Secondary Actions: Expand
+						408 text Earnings Report
+					409 button (collapsed) Entry Point, ID: el-collapse-head-187, Secondary Actions: Expand
+						410 text Entry Point
+					411 button (collapsed) Execution Price, ID: el-collapse-head-188, Secondary Actions: Expand
+						412 text Execution Price
+					413 button (collapsed) Exit Point, ID: el-collapse-head-189, Secondary Actions: Expand
+						414 text Exit Point
+				415 container F
+					416 heading F, Value: 6
+						417 text F
+					418 button (collapsed) Fed (Federal Reserve), ID: el-collapse-head-190, Secondary Actions: Expand
+						419 text Fed (Federal Reserve)
+					420 button (collapsed) Fibonacci Extension, ID: el-collapse-head-191, Secondary Actions: Expand
+						421 text Fibonacci Extension
+					422 button (collapsed) Fibonacci Retracement, ID: el-collapse-head-192, Secondary Actions: Expand
+						423 text Fibonacci Retracement
+					424 button (collapsed) Flag Pattern, ID: el-collapse-head-193, Secondary Actions: Expand
+						425 text Flag Pattern
+					426 button (collapsed) Flat Market, ID: el-collapse-head-194, Secondary Actions: Expand
+						427 text Flat Market
+					428 button (collapsed) Floating Rate, ID: el-collapse-head-195, Secondary Actions: Expand
+						429 text Floating Rate
+					430 button (collapsed) Follow Through, ID: el-collapse-head-196, Secondary Actions: Expand
+						431 text Follow Through
+					432 button (collapsed) Forex (Foreign Exchange), ID: el-collapse-head-197, Secondary Actions: Expand
+						433 text Forex (Foreign Exchange)
+					434 button (collapsed) Forex Broker, ID: el-collapse-head-198, Secondary Actions: Expand
+						435 text Forex Broker
+					436 button (collapsed) Forex Market, ID: el-collapse-head-199, Secondary Actions: Expand
+						437 text Forex Market
+					438 button (collapsed) Forex Rate, ID: el-collapse-head-200, Secondary Actions: Expand
+						439 text Forex Rate
+					440 button (collapsed) Forward Contract, ID: el-collapse-head-201, Secondary Actions: Expand
+						441 text Forward Contract
+					442 button (collapsed) Fractal, ID: el-collapse-head-202, Secondary Actions: Expand
+						443 text Fractal
+					444 button (collapsed) Free Margin, ID: el-collapse-head-203, Secondary Actions: Expand
+						445 text Free Margin
+					446 button (collapsed) Fundamental Analysis, ID: el-collapse-head-204, Secondary Actions: Expand
+						447 text Fundamental Analysis
+					448 button (collapsed) Futures Contract, ID: el-collapse-head-205, Secondary Actions: Expand
+						449 text Futures Contract
+					450 button (collapsed) Futures Market, ID: el-collapse-head-206, Secondary Actions: Expand
+						451 text Futures Market
+					452 button (collapsed) Financial Leverage, ID: el-collapse-head-207, Secondary Actions: Expand
+						453 text Financial Leverage
+					454 button (collapsed) Fixed Income, ID: el-collapse-head-208, Secondary Actions: Expand
+						455 text Fixed Income
+					456 button (collapsed) Float, ID: el-collapse-head-209, Secondary Actions: Expand
+						457 text Float
+					458 button (collapsed) Foreign Exchange (Forex), ID: el-collapse-head-210, Secondary Actions: Expand
+						459 text Foreign Exchange (Forex)
+					460 button (collapsed) Forward Guidance, ID: el-collapse-head-211, Secondary Actions: Expand
+						461 text Forward Guidance
+					462 button (collapsed) Free Cash Flow, ID: el-collapse-head-212, Secondary Actions: Expand
+						463 text Free Cash Flow
+					464 button (collapsed) Front-End Load, ID: el-collapse-head-213, Secondary Actions: Expand
+						465 text Front-End Load
+					466 button (collapsed) Fiat Currency, ID: el-collapse-head-214, Secondary Actions: Expand
+						467 text Fiat Currency
+					468 button (collapsed) Flash Loan, ID: el-collapse-head-215, Secondary Actions: Expand
+						469 text Flash Loan
+					470 button (collapsed) FOMO (Fear of Missing Out), ID: el-collapse-head-216, Secondary Actions: Expand
+						471 text FOMO (Fear of Missing Out)
+					472 button (collapsed) Front-running, ID: el-collapse-head-217, Secondary Actions: Expand
+						473 text Front-running
+					474 button (collapsed) FUD (Fear, Uncertainty, Doubt), ID: el-collapse-head-218, Secondary Actions: Expand
+						475 text FUD (Fear, Uncertainty, Doubt)
+					476 button (collapsed) Financial Instrument, ID: el-collapse-head-219, Secondary Actions: Expand
+						477 text Financial Instrument
+					478 button (collapsed) Floating Profit/Loss, ID: el-collapse-head-220, Secondary Actions: Expand
+						479 text Floating Profit/Loss
+				480 container G
+					481 heading G, Value: 6
+						482 text G
+					483 button (collapsed) Gap, ID: el-collapse-head-221, Secondary Actions: Expand
+						484 text Gap
+					485 button (collapsed) Gap Trading, ID: el-collapse-head-222, Secondary Actions: Expand
+						486 text Gap Trading
+					487 button (collapsed) Gapping, ID: el-collapse-head-223, Secondary Actions: Expand
+						488 text Gapping
+					489 button (collapsed) Golden Cross, ID: el-collapse-head-224, Secondary Actions: Expand
+						490 text Golden Cross
+					491 button (collapsed) Gross Margin, ID: el-collapse-head-225, Secondary Actions: Expand
+						492 text Gross Margin
+					493 button (collapsed) Growth Stock, ID: el-collapse-head-226, Secondary Actions: Expand
+						494 text Growth Stock
+					495 button (collapsed) Gas Fee, ID: el-collapse-head-227, Secondary Actions: Expand
+						496 text Gas Fee
+					497 button (collapsed) Governance Token, ID: el-collapse-head-228, Secondary Actions: Expand
+						498 text Governance Token
+					499 button (collapsed) Gamma, ID: el-collapse-head-229, Secondary Actions: Expand
+						500 text Gamma
+				501 container H
+					502 heading H, Value: 6
+						503 text H
+					504 button (collapsed) Head and Shoulders, ID: el-collapse-head-230, Secondary Actions: Expand
+						505 text Head and Shoulders
+					506 button (collapsed) Hedging, ID: el-collapse-head-231, Secondary Actions: Expand
+						507 text Hedging
+					508 button (collapsed) High, ID: el-collapse-head-232, Secondary Actions: Expand
+						509 text High
+					510 button (collapsed) High Frequency Trading (HFT), ID: el-collapse-head-233, Secondary Actions: Expand
+						511 text High Frequency Trading (HFT)
+					512 button (collapsed) Holding Period, ID: el-collapse-head-234, Secondary Actions: Expand
+						513 text Holding Period
+					514 button (collapsed) Hot Wallet, ID: el-collapse-head-235, Secondary Actions: Expand
+						515 text Hot Wallet
+					516 button (collapsed) Hedge, ID: el-collapse-head-236, Secondary Actions: Expand
+						517 text Hedge
+					518 button (collapsed) Hedge Fund, ID: el-collapse-head-237, Secondary Actions: Expand
+						519 text Hedge Fund
+					520 button (collapsed) Hedging Strategy, ID: el-collapse-head-238, Secondary Actions: Expand
+						521 text Hedging Strategy
+					522 button (collapsed) High Water Mark, ID: el-collapse-head-239, Secondary Actions: Expand
+						523 text High Water Mark
+					524 button (collapsed) High Yield, ID: el-collapse-head-240, Secondary Actions: Expand
+						525 text High Yield
+					526 button (collapsed) Historical Volatility, ID: el-collapse-head-241, Secondary Actions: Expand
+						527 text Historical Volatility
+					528 button (collapsed) Halving, ID: el-collapse-head-242, Secondary Actions: Expand
+						529 text Halving
+					530 button (collapsed) Hash Rate, ID: el-collapse-head-243, Secondary Actions: Expand
+						531 text Hash Rate
+					532 button (collapsed) HODL, ID: el-collapse-head-244, Secondary Actions: Expand
+						533 text HODL
+					534 button (collapsed) High-Frequency Trading (HFT), ID: el-collapse-head-245, Secondary Actions: Expand
+						535 text High-Frequency Trading (HFT)
+					536 button (collapsed) Hot Forex, ID: el-collapse-head-246, Secondary Actions: Expand
+						537 text Hot Forex
+				538 container I
+					539 heading I, Value: 6
+						540 text I
+					541 button (collapsed) IBD (Initial Balance Day), ID: el-collapse-head-247, Secondary Actions: Expand
+						542 text IBD (Initial Balance Day)
+					543 button (collapsed) In-the-money (ITM), ID: el-collapse-head-248, Secondary Actions: Expand
+						544 text In-the-money (ITM)
+					545 button (collapsed) Inflation, ID: el-collapse-head-249, Secondary Actions: Expand
+						546 text Inflation
+					547 button (collapsed) Interest Rate, ID: el-collapse-head-250, Secondary Actions: Expand
+						548 text Interest Rate
+					549 button (collapsed) Interest Rate Differential, ID: el-collapse-head-251, Secondary Actions: Expand
+						550 text Interest Rate Differential
+					551 button (collapsed) Intraday Trading, ID: el-collapse-head-252, Secondary Actions: Expand
+						552 text Intraday Trading
+					553 button (collapsed) Inverse Correlation, ID: el-collapse-head-253, Secondary Actions: Expand
+						554 text Inverse Correlation
+					555 button (collapsed) Iron Condor, ID: el-collapse-head-254, Secondary Actions: Expand
+						556 text Iron Condor
+					557 button (collapsed) Impulse Wave, ID: el-collapse-head-255, Secondary Actions: Expand
+						558 text Impulse Wave
+					559 button (collapsed) In-the-Money (ITM), ID: el-collapse-head-256, Secondary Actions: Expand
+						560 text In-the-Money (ITM)
+					561 button (collapsed) Income Stock, ID: el-collapse-head-257, Secondary Actions: Expand
+						562 text Income Stock
+					563 button (collapsed) Index, ID: el-collapse-head-258, Secondary Actions: Expand
+						564 text Index
+					565 button (collapsed) Index Fund, ID: el-collapse-head-259, Secondary Actions: Expand
+						566 text Index Fund
+					567 button (collapsed) Inflation Hedge, ID: el-collapse-head-260, Secondary Actions: Expand
+						568 text Inflation Hedge
+					569 button (collapsed) Initial Margin, ID: el-collapse-head-261, Secondary Actions: Expand
+						570 text Initial Margin
+					571 button (collapsed) Initial Public Offering (IPO), ID: el-collapse-head-262, Secondary Actions: Expand
+						572 text Initial Public Offering (IPO)
+					573 button (collapsed) Insider Buying, ID: el-collapse-head-263, Secondary Actions: Expand
+						574 text Insider Buying
+					575 button (collapsed) Insider Selling, ID: el-collapse-head-264, Secondary Actions: Expand
+						576 text Insider Selling
+					577 button (collapsed) Insider Trading, ID: el-collapse-head-265, Secondary Actions: Expand
+						578 text Insider Trading
+					579 button (collapsed) Institutional Investor, ID: el-collapse-head-266, Secondary Actions: Expand
+						580 text Institutional Investor
+					581 button (collapsed) Intrinsic Value, ID: el-collapse-head-267, Secondary Actions: Expand
+						582 text Intrinsic Value
+					583 button (collapsed) ICO (Initial Coin Offering), ID: el-collapse-head-268, Secondary Actions: Expand
+						584 text ICO (Initial Coin Offering)
+					585 button (collapsed) IDO (Initial DEX Offering), ID: el-collapse-head-269, Secondary Actions: Expand
+						586 text IDO (Initial DEX Offering)
+					587 button (collapsed) Impermanent Loss, ID: el-collapse-head-270, Secondary Actions: Expand
+						588 text Impermanent Loss
+					589 button (collapsed) Interoperability, ID: el-collapse-head-271, Secondary Actions: Expand
+						590 text Interoperability
+				591 container J
+					592 heading J, Value: 6
+						593 text J
+					594 button (collapsed) J-Curve, ID: el-collapse-head-272, Secondary Actions: Expand
+						595 text J-Curve
+					596 button (collapsed) Jump, ID: el-collapse-head-273, Secondary Actions: Expand
+						597 text Jump
+					598 button (collapsed) Junk Bond, ID: el-collapse-head-274, Secondary Actions: Expand
+						599 text Junk Bond
+				600 container K
+					601 heading K, Value: 6
+						602 text K
+					603 button (collapsed) Knock-In Option, ID: el-collapse-head-275, Secondary Actions: Expand
+						604 text Knock-In Option
+					605 button (collapsed) Knock-Out Option, ID: el-collapse-head-276, Secondary Actions: Expand
+						606 text Knock-Out Option
+					607 button (collapsed) KYC (Know Your Customer), ID: el-collapse-head-277, Secondary Actions: Expand
+						608 text KYC (Know Your Customer)
+				609 container L
+					610 heading L, Value: 6
+						611 text L
+					612 button (collapsed) Leverage, ID: el-collapse-head-278, Secondary Actions: Expand
+						613 text Leverage
+					614 button (collapsed) Leverage Ratio, ID: el-collapse-head-279, Secondary Actions: Expand
+						615 text Leverage Ratio
+					616 button (collapsed) Limit Order, ID: el-collapse-head-280, Secondary Actions: Expand
+						617 text Limit Order
+					618 button (collapsed) Liquidity, ID: el-collapse-head-281, Secondary Actions: Expand
+						619 text Liquidity
+					620 button (collapsed) Liquidity Pool, ID: el-collapse-head-282, Secondary Actions: Expand
+						621 text Liquidity Pool
+					622 button (collapsed) Long Position, ID: el-collapse-head-283, Secondary Actions: Expand
+						623 text Long Position
+					624 button (collapsed) Lot Size, ID: el-collapse-head-284, Secondary Actions: Expand
+						625 text Lot Size
+					626 button (collapsed) Leveraged ETF, ID: el-collapse-head-285, Secondary Actions: Expand
+						627 text Leveraged ETF
+					628 button (collapsed) Liquidation, ID: el-collapse-head-286, Secondary Actions: Expand
+						629 text Liquidation
+					630 button (collapsed) Lock-In Period, ID: el-collapse-head-287, Secondary Actions: Expand
+						631 text Lock-In Period
+					632 button (collapsed) Layer 1, ID: el-collapse-head-288, Secondary Actions: Expand
+						633 text Layer 1
+					634 button (collapsed) Layer 2, ID: el-collapse-head-289, Secondary Actions: Expand
+						635 text Layer 2
+				636 container M
+					637 heading M, Value: 6
+						638 text M
+					639 button (collapsed) Margin, ID: el-collapse-head-290, Secondary Actions: Expand
+						640 text Margin
+					641 button (collapsed) Margin Call, ID: el-collapse-head-291, Secondary Actions: Expand
+						642 text Margin Call
+					643 button (collapsed) Margin Level, ID: el-collapse-head-292, Secondary Actions: Expand
+						644 text Margin Level
+					645 button (collapsed) Market Depth, ID: el-collapse-head-293, Secondary Actions: Expand
+						646 text Market Depth
+					647 button (collapsed) Market Order, ID: el-collapse-head-294, Secondary Actions: Expand
+						648 text Market Order
+					649 button (collapsed) Moving Average (MA), ID: el-collapse-head-295, Secondary Actions: Expand
+						650 text Moving Average (MA)
+					651 button (collapsed) Margin Trading, ID: el-collapse-head-296, Secondary Actions: Expand
+						652 text Margin Trading
+					653 button (collapsed) Market Maker, ID: el-collapse-head-297, Secondary Actions: Expand
+						654 text Market Maker
+					655 button (collapsed) Moving Average Convergence Divergence (MACD), ID: el-collapse-head-298, Secondary Actions: Expand
+						656 text Moving Average Convergence Divergence (MACD)
+					657 button (collapsed) Moving Average Ribbon, ID: el-collapse-head-299, Secondary Actions: Expand
+						658 text Moving Average Ribbon
+					659 button (collapsed) Mutual Fund, ID: el-collapse-head-300, Secondary Actions: Expand
+						660 text Mutual Fund
+					661 button (collapsed) Market Cap, ID: el-collapse-head-301, Secondary Actions: Expand
+						662 text Market Cap
+					663 button (collapsed) MEV (Miner Extractable Value), ID: el-collapse-head-302, Secondary Actions: Expand
+						664 text MEV (Miner Extractable Value)
+					665 button (collapsed) Metaverse, ID: el-collapse-head-303, Secondary Actions: Expand
+						666 text Metaverse
+					667 button (collapsed) Mining, ID: el-collapse-head-304, Secondary Actions: Expand
+						668 text Mining
+					669 button (collapsed) Multi-Sig Wallet, ID: el-collapse-head-305, Secondary Actions: Expand
+						670 text Multi-Sig Wallet
+					671 button (collapsed) Market Price, ID: el-collapse-head-306, Secondary Actions: Expand
+						672 text Market Price
+					673 button (collapsed) Moving Average, ID: el-collapse-head-307, Secondary Actions: Expand
+						674 text Moving Average
+				675 container N
+					676 heading N, Value: 6
+						677 text N
+					678 button (collapsed) Naked Position, ID: el-collapse-head-308, Secondary Actions: Expand
+						679 text Naked Position
+					680 button (collapsed) Naked Trading, ID: el-collapse-head-309, Secondary Actions: Expand
+						681 text Naked Trading
+					682 button (collapsed) Net Position, ID: el-collapse-head-310, Secondary Actions: Expand
+						683 text Net Position
+					684 button (collapsed) Neutral Zone, ID: el-collapse-head-311, Secondary Actions: Expand
+						685 text Neutral Zone
+					686 button (collapsed) No-Dealing Desk (NDD), ID: el-collapse-head-312, Secondary Actions: Expand
+						687 text No-Dealing Desk (NDD)
+					688 button (collapsed) Naked Option, ID: el-collapse-head-313, Secondary Actions: Expand
+						689 text Naked Option
+					690 button (collapsed) Naked Put, ID: el-collapse-head-314, Secondary Actions: Expand
+						691 text Naked Put
+					692 button (collapsed) Net Asset Value (NAV), ID: el-collapse-head-315, Secondary Actions: Expand
+						693 text Net Asset Value (NAV)
+					694 button (collapsed) NFT (Non-Fungible Token), ID: el-collapse-head-316, Secondary Actions: Expand
+						695 text NFT (Non-Fungible Token)
+					696 button (collapsed) Node, ID: el-collapse-head-317, Secondary Actions: Expand
+						697 text Node
+					698 button (collapsed) Negative Balance Protection, ID: el-collapse-head-318, Secondary Actions: Expand
+						699 text Negative Balance Protection
+				700 container O
+					701 heading O, Value: 6
+						702 text O
+					703 button (collapsed) Open Order, ID: el-collapse-head-319, Secondary Actions: Expand
+						704 text Open Order
+					705 button (collapsed) Open Position, ID: el-collapse-head-320, Secondary Actions: Expand
+						706 text Open Position
+					707 button (collapsed) Overbought, ID: el-collapse-head-321, Secondary Actions: Expand
+						708 text Overbought
+					709 button (collapsed) Overnight Position, ID: el-collapse-head-322, Secondary Actions: Expand
+						710 text Overnight Position
+					711 button (collapsed) Oversold, ID: el-collapse-head-323, Secondary Actions: Expand
+						712 text Oversold
+					713 button (collapsed) Option, ID: el-collapse-head-324, Secondary Actions: Expand
+						714 text Option
+					715 button (collapsed) Option Premium, ID: el-collapse-head-325, Secondary Actions: Expand
+						716 text Option Premium
+					717 button (collapsed) Order Book, ID: el-collapse-head-326, Secondary Actions: Expand
+						718 text Order Book
+					719 button (collapsed) Over-the-Counter (OTC), ID: el-collapse-head-327, Secondary Actions: Expand
+						720 text Over-the-Counter (OTC)
+					721 button (collapsed) On-chain, ID: el-collapse-head-328, Secondary Actions: Expand
+						722 text On-chain
+					723 button (collapsed) Oracle Manipulation, ID: el-collapse-head-329, Secondary Actions: Expand
+						724 text Oracle Manipulation
+					725 button (collapsed) Oracles, ID: el-collapse-head-330, Secondary Actions: Expand
+						726 text Oracles
+					727 button (collapsed) Overnight Financing, ID: el-collapse-head-331, Secondary Actions: Expand
+						728 text Overnight Financing
+				729 container P
+					730 heading P, Value: 6
+						731 text P
+					732 button (collapsed) Pairs Trading, ID: el-collapse-head-332, Secondary Actions: Expand
+						733 text Pairs Trading
+					734 button (collapsed) Parabolic SAR, ID: el-collapse-head-333, Secondary Actions: Expand
+						735 text Parabolic SAR
+					736 button (collapsed) Pegged Currency, ID: el-collapse-head-334, Secondary Actions: Expand
+						737 text Pegged Currency
+					738 button (collapsed) PIP (Percentage in Point), ID: el-collapse-head-335, Secondary Actions: Expand
+						739 text PIP (Percentage in Point)
+					740 button (collapsed) PIP Value, ID: el-collapse-head-336, Secondary Actions: Expand
+						741 text PIP Value
+					742 button (collapsed) Pipette, ID: el-collapse-head-337, Secondary Actions: Expand
+						743 text Pipette
+					744 button (collapsed) Pivot Point, ID: el-collapse-head-338, Secondary Actions: Expand
+						745 text Pivot Point
+					746 button (collapsed) Point of Control (POC), ID: el-collapse-head-339, Secondary Actions: Expand
+						747 text Point of Control (POC)
+					748 button (collapsed) Political Risk, ID: el-collapse-head-340, Secondary Actions: Expand
+						749 text Political Risk
+					750 button (collapsed) Position Size, ID: el-collapse-head-341, Secondary Actions: Expand
+						751 text Position Size
+					752 button (collapsed) Position Sizing, ID: el-collapse-head-342, Secondary Actions: Expand
+						753 text Position Sizing
+					754 button (collapsed) Price Action, ID: el-collapse-head-343, Secondary Actions: Expand
+						755 text Price Action
+					756 button (collapsed) Price Channel, ID: el-collapse-head-344, Secondary Actions: Expand
+						757 text Price Channel
+					758 button (collapsed) Price Oscillator, ID: el-collapse-head-345, Secondary Actions: Expand
+						759 text Price Oscillator
+					760 button (collapsed) Price Tiers, ID: el-collapse-head-346, Secondary Actions: Expand
+						761 text Price Tiers
+					762 button (collapsed) Profit Target, ID: el-collapse-head-347, Secondary Actions: Expand
+						763 text Profit Target
+					764 button (collapsed) Put Option, ID: el-collapse-head-348, Secondary Actions: Expand
+						765 text Put Option
+					766 button (collapsed) P/E Ratio (Price-to-Earnings Ratio), ID: el-collapse-head-349, Secondary Actions: Expand
+						767 text P/E Ratio (Price-to-Earnings Ratio)
+					768 button (collapsed) Passive Investing, ID: el-collapse-head-350, Secondary Actions: Expand
+						769 text Passive Investing
+					770 button (collapsed) PEG Ratio (Price/Earnings to Growth), ID: el-collapse-head-351, Secondary Actions: Expand
+						771 text PEG Ratio (Price/Earnings to Growth)
+					772 button (collapsed) Penny Stock, ID: el-collapse-head-352, Secondary Actions: Expand
+						773 text Penny Stock
+					774 button (collapsed) Portfolio, ID: el-collapse-head-353, Secondary Actions: Expand
+						775 text Portfolio
+					776 button (collapsed) Portfolio Diversification, ID: el-collapse-head-354, Secondary Actions: Expand
+						777 text Portfolio Diversification
+					778 button (collapsed) Price-to-Book Ratio (P/B Ratio), ID: el-collapse-head-355, Secondary Actions: Expand
+						779 text Price-to-Book Ratio (P/B Ratio)
+					780 button (collapsed) Price-to-Sales Ratio (P/S Ratio), ID: el-collapse-head-356, Secondary Actions: Expand
+						781 text Price-to-Sales Ratio (P/S Ratio)
+					782 button (collapsed) Put-Call Parity, ID: el-collapse-head-357, Secondary Actions: Expand
+						783 text Put-Call Parity
+					784 button (collapsed) P2E (Play-to-Earn), ID: el-collapse-head-358, Secondary Actions: Expand
+						785 text P2E (Play-to-Earn)
+					786 button (collapsed) P2P (Peer to Peer), ID: el-collapse-head-359, Secondary Actions: Expand
+						787 text P2P (Peer to Peer)
+					788 button (collapsed) Private Key, ID: el-collapse-head-360, Secondary Actions: Expand
+						789 text Private Key
+					790 button (collapsed) Proof of Stake (PoS), ID: el-collapse-head-361, Secondary Actions: Expand
+						791 text Proof of Stake (PoS)
+					792 button (collapsed) Proof of Work (PoW), ID: el-collapse-head-362, Secondary Actions: Expand
+						793 text Proof of Work (PoW)
+					794 button (collapsed) Public Key, ID: el-collapse-head-363, Secondary Actions: Expand
+						795 text Public Key
+					796 button (collapsed) Pump and Dump, ID: el-collapse-head-364, Secondary Actions: Expand
+						797 text Pump and Dump
+					798 button (collapsed) Pending Order, ID: el-collapse-head-365, Secondary Actions: Expand
+						799 text Pending Order
+					800 button (collapsed) Position, ID: el-collapse-head-366, Secondary Actions: Expand
+						801 text Position
+					802 button (collapsed) Price Gap, ID: el-collapse-head-367, Secondary Actions: Expand
+						803 text Price Gap
+					804 button (collapsed) Price Movement, ID: el-collapse-head-368, Secondary Actions: Expand
+						805 text Price Movement
+					806 button (collapsed) Profit and Loss (P&L), ID: el-collapse-head-369, Secondary Actions: Expand
+						807 text Profit and Loss (P&L)
+					808 button (collapsed) Profit Margin, ID: el-collapse-head-370, Secondary Actions: Expand
+						809 text Profit Margin
+				810 container Q
+					811 heading Q, Value: 6
+						812 text Q
+					813 button (collapsed) Quantitative Easing (QE), ID: el-collapse-head-371, Secondary Actions: Expand
+						814 text Quantitative Easing (QE)
+					815 button (collapsed) Quotation Currency, ID: el-collapse-head-372, Secondary Actions: Expand
+						816 text Quotation Currency
+					817 button (collapsed) Quote, ID: el-collapse-head-373, Secondary Actions: Expand
+						818 text Quote
+				819 container R
+					820 heading R, Value: 6
+						821 text R
+					822 button (collapsed) Range Trading, ID: el-collapse-head-374, Secondary Actions: Expand
+						823 text Range Trading
+					824 button (collapsed) Reversal Pattern, ID: el-collapse-head-375, Secondary Actions: Expand
+						825 text Reversal Pattern
+					826 button (collapsed) Risk Management, ID: el-collapse-head-376, Secondary Actions: Expand
+						827 text Risk Management
+					828 button (collapsed) Risk/Reward Ratio, ID: el-collapse-head-377, Secondary Actions: Expand
+						829 text Risk/Reward Ratio
+					830 button (collapsed) Rally, ID: el-collapse-head-378, Secondary Actions: Expand
+						831 text Rally
+					832 button (collapsed) Reversal, ID: el-collapse-head-379, Secondary Actions: Expand
+						833 text Reversal
+					834 button (collapsed) Reverse Split, ID: el-collapse-head-380, Secondary Actions: Expand
+						835 text Reverse Split
+					836 button (collapsed) Risk Adjusted Return, ID: el-collapse-head-381, Secondary Actions: Expand
+						837 text Risk Adjusted Return
+					838 button (collapsed) Risk-Reward Ratio, ID: el-collapse-head-382, Secondary Actions: Expand
+						839 text Risk-Reward Ratio
+					840 button (collapsed) Rebase Token, ID: el-collapse-head-383, Secondary Actions: Expand
+						841 text Rebase Token
+					842 button (collapsed) Reentrancy Attack, ID: el-collapse-head-384, Secondary Actions: Expand
+						843 text Reentrancy Attack
+					844 button (collapsed) Rollup, ID: el-collapse-head-385, Secondary Actions: Expand
+						845 text Rollup
+					846 button (collapsed) Rug Pull, ID: el-collapse-head-386, Secondary Actions: Expand
+						847 text Rug Pull
+				848 container S
+					849 heading S, Value: 6
+						850 text S
+					851 button (collapsed) Scalping, ID: el-collapse-head-387, Secondary Actions: Expand
+						852 text Scalping
+					853 button (collapsed) Short Position, ID: el-collapse-head-388, Secondary Actions: Expand
+						854 text Short Position
+					855 button (collapsed) Slippage, ID: el-collapse-head-389, Secondary Actions: Expand
+						856 text Slippage
+					857 button (collapsed) Spot Forex, ID: el-collapse-head-390, Secondary Actions: Expand
+						858 text Spot Forex
+					859 button (collapsed) Spot Price, ID: el-collapse-head-391, Secondary Actions: Expand
+						860 text Spot Price
+					861 button (collapsed) Spread Betting, ID: el-collapse-head-392, Secondary Actions: Expand
+						862 text Spread Betting
+					863 button (collapsed) Stop Loss, ID: el-collapse-head-393, Secondary Actions: Expand
+						864 text Stop Loss
+					865 button (collapsed) Stop-Loss Order, ID: el-collapse-head-394, Secondary Actions: Expand
+						866 text Stop-Loss Order
+					867 button (collapsed) Support, ID: el-collapse-head-395, Secondary Actions: Expand
+						868 text Support
+					869 button (collapsed) Swap, ID: el-collapse-head-396, Secondary Actions: Expand
+						870 text Swap
+					871 button (collapsed) Swing Trading, ID: el-collapse-head-397, Secondary Actions: Expand
+						872 text Swing Trading
+					873 button (collapsed) S&P 500, ID: el-collapse-head-398, Secondary Actions: Expand
+						874 text S&P 500
+					875 button (collapsed) Sell Limit Order, ID: el-collapse-head-399, Secondary Actions: Expand
+						876 text Sell Limit Order
+					877 button (collapsed) Sell Stop Order, ID: el-collapse-head-400, Secondary Actions: Expand
+						878 text Sell Stop Order
+					879 button (collapsed) Short Selling, ID: el-collapse-head-401, Secondary Actions: Expand
+						880 text Short Selling
+					881 button (collapsed) Short Squeeze, ID: el-collapse-head-402, Secondary Actions: Expand
+						882 text Short Squeeze
+					883 button (collapsed) Spread, ID: el-collapse-head-403, Secondary Actions: Expand
+						884 text Spread
+					885 button (collapsed) Squeeze, ID: el-collapse-head-404, Secondary Actions: Expand
+						886 text Squeeze
+					887 button (collapsed) Stop Order, ID: el-collapse-head-405, Secondary Actions: Expand
+						888 text Stop Order
+					889 button (collapsed) Support Level, ID: el-collapse-head-406, Secondary Actions: Expand
+						890 text Support Level
+					891 button (collapsed) Satoshi, ID: el-collapse-head-407, Secondary Actions: Expand
+						892 text Satoshi
+					893 button (collapsed) SBT (Soulbound Token), ID: el-collapse-head-408, Secondary Actions: Expand
+						894 text SBT (Soulbound Token)
+					895 button (collapsed) Seed Phrase, ID: el-collapse-head-409, Secondary Actions: Expand
+						896 text Seed Phrase
+					897 button (collapsed) Sharding, ID: el-collapse-head-410, Secondary Actions: Expand
+						898 text Sharding
+					899 button (collapsed) Smart Contract, ID: el-collapse-head-411, Secondary Actions: Expand
+						900 text Smart Contract
+					901 button (collapsed) Snapshot, ID: el-collapse-head-412, Secondary Actions: Expand
+						902 text Snapshot
+					903 button (collapsed) Solidity, ID: el-collapse-head-413, Secondary Actions: Expand
+						904 text Solidity
+					905 button (collapsed) Stablecoin, ID: el-collapse-head-414, Secondary Actions: Expand
+						906 text Stablecoin
+					907 button (collapsed) Staking, ID: el-collapse-head-415, Secondary Actions: Expand
+						908 text Staking
+					909 button (collapsed) Synthetic Asset, ID: el-collapse-head-416, Secondary Actions: Expand
+						910 text Synthetic Asset
+					911 button (collapsed) Stop-Out Level, ID: el-collapse-head-417, Secondary Actions: Expand
+						912 text Stop-Out Level
+					913 button (collapsed) Support and Resistance, ID: el-collapse-head-418, Secondary Actions: Expand
+						914 text Support and Resistance
+				915 container T
+					916 heading T, Value: 6
+						917 text T
+					918 button (collapsed) Take Profit, ID: el-collapse-head-419, Secondary Actions: Expand
+						919 text Take Profit
+					920 button (collapsed) Take Profit Order, ID: el-collapse-head-420, Secondary Actions: Expand
+						921 text Take Profit Order
+					922 button (collapsed) Technical Analysis, ID: el-collapse-head-421, Secondary Actions: Expand
+						923 text Technical Analysis
+					924 button (collapsed) Tick, ID: el-collapse-head-422, Secondary Actions: Expand
+						925 text Tick
+					926 button (collapsed) Trading Signal, ID: el-collapse-head-423, Secondary Actions: Expand
+						927 text Trading Signal
+					928 button (collapsed) Trend Line, ID: el-collapse-head-424, Secondary Actions: Expand
+						929 text Trend Line
+					930 button (collapsed) Trend Reversal, ID: el-collapse-head-425, Secondary Actions: Expand
+						931 text Trend Reversal
+					932 button (collapsed) Trendline, ID: el-collapse-head-426, Secondary Actions: Expand
+						933 text Trendline
+					934 button (collapsed) Time Decay, ID: el-collapse-head-427, Secondary Actions: Expand
+						935 text Time Decay
+					936 button (collapsed) Total Return, ID: el-collapse-head-428, Secondary Actions: Expand
+						937 text Total Return
+					938 button (collapsed) Trading Volume, ID: el-collapse-head-429, Secondary Actions: Expand
+						939 text Trading Volume
+					940 button (collapsed) Testnet, ID: el-collapse-head-430, Secondary Actions: Expand
+						941 text Testnet
+					942 button (collapsed) Token Vesting, ID: el-collapse-head-431, Secondary Actions: Expand
+						943 text Token Vesting
+					944 button (collapsed) Tokenomics, ID: el-collapse-head-432, Secondary Actions: Expand
+						945 text Tokenomics
+					946 button (collapsed) Tornado Cash, ID: el-collapse-head-433, Secondary Actions: Expand
+						947 text Tornado Cash
+					948 button (collapsed) Trading Pair, ID: el-collapse-head-434, Secondary Actions: Expand
+						949 text Trading Pair
+					950 button (collapsed) TVL (Total Value Locked), ID: el-collapse-head-435, Secondary Actions: Expand
+						951 text TVL (Total Value Locked)
+					952 button (collapsed) Tick Size, ID: el-collapse-head-436, Secondary Actions: Expand
+						953 text Tick Size
+					954 button (collapsed) Tick Value, ID: el-collapse-head-437, Secondary Actions: Expand
+						955 text Tick Value
+					956 button (collapsed) Trade Size, ID: el-collapse-head-438, Secondary Actions: Expand
+						957 text Trade Size
+					958 button (collapsed) Trading Hours, ID: el-collapse-head-439, Secondary Actions: Expand
+						959 text Trading Hours
+					960 button (collapsed) Trading Platform, ID: el-collapse-head-440, Secondary Actions: Expand
+						961 text Trading Platform
+				962 container U
+					963 heading U, Value: 6
+						964 text U
+					965 button (collapsed) Underlying Asset, ID: el-collapse-head-441, Secondary Actions: Expand
+						966 text Underlying Asset
+					967 button (collapsed) Unsecured Bond, ID: el-collapse-head-442, Secondary Actions: Expand
+						968 text Unsecured Bond
+					969 button (collapsed) Utility Token, ID: el-collapse-head-443, Secondary Actions: Expand
+						970 text Utility Token
+				971 container V
+					972 heading V, Value: 6
+						973 text V
+					974 button (collapsed) Volatility, ID: el-collapse-head-444, Secondary Actions: Expand
+						975 text Volatility
+					976 button (collapsed) Volume, ID: el-collapse-head-445, Secondary Actions: Expand
+						977 text Volume
+					978 button (collapsed) VWAP (Volume Weighted Average Price), ID: el-collapse-head-446, Secondary Actions: Expand
+						979 text VWAP (Volume Weighted Average Price)
+					980 button (collapsed) Volatility Index (VIX), ID: el-collapse-head-447, Secondary Actions: Expand
+						981 text Volatility Index (VIX)
+					982 button (collapsed) Validator, ID: el-collapse-head-448, Secondary Actions: Expand
+						983 text Validator
+					984 button (collapsed) Volatility Index, ID: el-collapse-head-449, Secondary Actions: Expand
+						985 text Volatility Index
+				986 container W
+					987 heading W, Value: 6
+						988 text W
+					989 button (collapsed) Wedge Pattern, ID: el-collapse-head-450, Secondary Actions: Expand
+						990 text Wedge Pattern
+					991 button (collapsed) Whipsaw, ID: el-collapse-head-451, Secondary Actions: Expand
+						992 text Whipsaw
+					993 button (collapsed) Warrant, ID: el-collapse-head-452, Secondary Actions: Expand
+						994 text Warrant
+					995 button (collapsed) White Label ETF, ID: el-collapse-head-453, Secondary Actions: Expand
+						996 text White Label ETF
+					997 button (collapsed) Wallet Address, ID: el-collapse-head-454, Secondary Actions: Expand
+						998 text Wallet Address
+					999 button (collapsed) Web3, ID: el-collapse-head-455, Secondary Actions: Expand
+						1000 text Web3
+					1001 button (collapsed) Whale, ID: el-collapse-head-456, Secondary Actions: Expand
+						1002 text Whale
+					1003 button (collapsed) Whitepaper, ID: el-collapse-head-457, Secondary Actions: Expand
+						1004 text Whitepaper
+				1005 container X
+					1006 heading X, Value: 6
+						1007 text X
+					1008 button (collapsed) XAG/USD, ID: el-collapse-head-458, Secondary Actions: Expand
+						1009 text XAG/USD
+					1010 button (collapsed) XAU/USD, ID: el-collapse-head-459, Secondary Actions: Expand
+						1011 text XAU/USD
+				1012 container Y
+					1013 heading Y, Value: 6
+						1014 text Y
+					1015 button (collapsed) Yield, ID: el-collapse-head-460, Secondary Actions: Expand
+						1016 text Yield
+					1017 button (collapsed) Yield Curve, ID: el-collapse-head-461, Secondary Actions: Expand
+						1018 text Yield Curve
+					1019 button (collapsed) Yield Farming, ID: el-collapse-head-462, Secondary Actions: Expand
+						1020 text Yield Farming
+				1021 container Z
+					1022 heading Z, Value: 6
+						1023 text Z
+					1024 button (collapsed) zk-Rollup, ID: el-collapse-head-463, Secondary Actions: Expand
+						1025 text zk-Rollup
+			1026 container Footer navigation
+				1027 button (expanded) Markets, Secondary Actions: Collapse
+				1028 button Markets Overview
+				1029 button Forex CFDs
+				1030 button Stock CFDs
+				1031 button Crypto CFDs
+				1032 button Indices CFDs
+				1033 button Metals CFDs
+				1034 button Announcement
+				1035 button (collapsed) Platforms, Secondary Actions: Expand
+				1036 container
+					1037 button Trade W APP
+					1038 button Trade W Web Trader
+					1039 button MetaTrader 4 Mobile
+					1040 button MetaTrader 5 Mobile
+					1041 button MetaTrader 5
+					1042 button MetaTrader 4
+				1043 button (collapsed) Account, Secondary Actions: Expand
+				1044 container
+					1045 button Classic Account Series
+					1046 button Professional Account Series
+					1047 button Demo Account
+				1048 button (collapsed) Resources, Secondary Actions: Expand
+				1049 container
+					1050 button Market Insights
+					1051 button Market Analysis
+					1052 button Trading News
+					1053 button Economic Calendar
+					1054 button Profit Calculator
+					1055 button TradingView
+					1056 button Margin Calculator
+					1057 button Trading Glossary
+					1058 button Beginner Tutorial
+				1059 button (collapsed) Supports, Secondary Actions: Expand
+				1060 container
+					1061 button Help Center
+					1062 button FAQs
+					1063 button Feedback
+				1064 button (collapsed) Company, Secondary Actions: Expand
+				1065 container
+					1066 button About Us
+					1067 button Trade W Awards
+					1068 button Company Updates
+					1069 button Careers
+					1070 button Contact Us
+					1071 button Legal Statement
+					1072 button AML Policy
+					1073 button Privacy Policy
+					1074 button Partnership
+			1075 container
+				1076 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			1077 button Facebook
+			1078 button Instagram
+			1079 button Telegram
+			1080 button X
+			1081 button YouTube
+			1082 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Trading Glossary | Coin, Oil and Gold | Trade W, URL: tradewill.com/tradingGlossary

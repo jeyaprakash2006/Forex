@@ -1,0 +1,240 @@
+Browser tab: 1, Title: "Standard Account", URL: "https://www.tradewill.com/account-overview".
+1 AXWebArea Standard Account, URL: tradewill.com/account-overview
+	2 container
+		3 container
+			4 image
+			5 button Menu
+		6 text CLASSIC ACCOUNT SERIES
+		7 heading Start Live Trading Your Way, Value: 1
+			8 text Start Live Trading Your Way
+		9 text Choose the flexibility of Standard, or take a smaller step into live trading with Cent.
+		10 button Start Trading
+		11 button Try Free Demo
+		12 content list
+			13 text From $3 to Start
+			14 text Spreads from 0 pips
+			15 text Up to 1:800 Leverage
+			16 text Smaller Trade Sizes
+		17 container
+			18 text Most Popular
+			19 heading Standard Account, Value: 2
+				20 text Standard Account
+			21 text A flexible everyday account for traders who want an accessible way to trade global markets.
+			22 text 3
+			23 text Minimum Deposit
+			24 text 0 Pips
+			25 text Spreads From
+			26 text 1:800
+			27 text Maximum Leverage
+			28 button Open Standard Account
+			29 button Try Free Demo
+			30 image icon-best-for
+			31 text Best for: Traders looking for one flexible account for everyday trading.
+			32 content list
+				33 text Trade W App
+				34 text MetaTrader 4
+				35 text Web Trader
+				36 text MetaTrader 5
+		37 container
+			38 text Smaller First Step
+			39 heading Cent Account, Value: 2
+				40 text Cent Account
+			41 text Experience live trading with smaller cent-based account values and a lower starting threshold.
+			42 text ¢300
+			43 text Minimum Deposit
+			44 text 0 Pips
+			45 text Spreads From
+			46 text 1:800
+			47 text Maximum Leverage
+			48 button Open Cent Account
+			49 button Try Free Demo
+			50 image icon-best-for
+			51 text Best for: Traders seeking lower entry and simple spread-based costs.
+			52 content list
+				53 text Trade W App
+				54 text Web Trader
+		55 text Cent is a live account using real funds. Profits and losses are real.
+		56 container
+			57 heading Compare Account Conditions, Value: 2
+				58 text Compare Account Conditions
+			59 text Review the pricing, account values and trading requirements before opening an account.
+		60 container
+			61 text One Account for Everyday Trading
+			62 content list
+				63 container
+					64 image icon-check
+					65 text Low $3 entry threshold
+				66 container
+					67 image icon-check
+					68 text Suitable for different trading styles
+				69 container
+					70 image icon-check
+					71 text Access to Trade W trading tools and supported platforms
+			72 definition list
+				73 container Recommended For
+					74 text Recommended For
+				75 text Flexible everyday trading
+				76 container Minimum Deposit
+					77 text Minimum Deposit
+				78 text 3
+				79 container Spread
+					80 text Spread
+				81 text From 0 pips
+				82 container Commission
+					83 text Commission
+				84 text $15/lot
+				85 container Maximum Leverage
+					86 text Maximum Leverage
+				87 text 1:800
+				88 container Account Value
+					89 text Account Value
+				90 text USD
+				91 container Trading Environment
+					92 text Trading Environment
+				93 text Live
+				94 container Supported Platforms
+					95 text Supported Platforms
+				96 text Trade W App、Web Trader、MT4、MT5
+		97 button Start Trading
+		98 button Try Free Demo
+		99 container
+			100 heading Explore Global Markets with Trade W, Value: 2
+				101 text Explore Global Markets with Trade W
+			102 text Trade Across Supported Markets
+		103 container
+			104 heading Forex, Value: 3
+				105 text Forex
+			106 text Trade 60+ currency pairs with deep liquidity across major global markets.
+		107 container
+			108 heading Metals, Value: 3
+				109 text Metals
+			110 text Trade gold and silver to diversify and respond to market uncertainty.
+		111 container
+			112 heading Indices, Value: 3
+				113 text Indices
+			114 text Capture broader market moves through major global indices in a single trade.
+		115 container
+			116 heading Stocks, Value: 3
+				117 text Stocks
+			118 text Trade price movements of leading global companies without owning the shares.
+		119 container
+			120 heading Crypto, Value: 3
+				121 text Crypto
+			122 text Tap into the volatility of major cryptocurrencies through CFD trading.
+		123 text Platform and instrument availability may vary by account type and region.
+		124 container
+			125 heading Why Trade with Trade W, Value: 2
+				126 text Why Trade with Trade W
+			127 text Trade with flexible platforms, practical tools, broad market access and multilingual support.
+		128 container
+			129 heading Multi-Platform Access, Value: 3
+				130 text Multi-Platform Access
+			131 text Trade through supported mobile, web and MetaTrader platforms.
+			132 image Multi-Platform Access
+		133 container
+			134 heading Practice Risk Controls, Value: 3
+				135 text Practice Risk Controls
+			136 text Access charts, order management and technical analysis tools.
+			137 image Practice Risk Controls
+		138 container
+			139 heading Flexible Market Access, Value: 3
+				140 text Flexible Market Access
+			141 text Explore available CFDs across major global asset classes.
+			142 image Flexible Market Access
+		143 container
+			144 heading Multilingual Support, Value: 3
+				145 text Multilingual Support
+			146 text Get help through Trade W's available customer support channels.
+			147 image Multilingual Support
+		148 container
+			149 heading Trade in 3 Simple Steps, Value: 2
+				150 text Trade in 3 Simple Steps
+			151 text Smarter trading starts here! Join a global community of traders who choose Trade W for efficient trading.
+		152 content list
+			153 container
+				154 heading Sign Up, Value: 3
+					155 text Sign Up
+				156 text Open account in 2 minutes
+			157 container
+				158 heading Deposit, Value: 3
+					159 text Deposit
+				160 text Deposit using your preferred funding method to activate your account
+			161 container
+				162 heading Trading, Value: 3
+					163 text Trading
+				164 text Trade more than 100+ financial instruments worldwide
+		165 button Start Trading
+		166 button Try Free Demo
+		167 heading Frequently Asked Questions, Value: 2
+			168 text Frequently Asked Questions
+		169 text Everything you need to know about Standard and Cent accounts.
+		170 button (expanded) What is the main difference between Standard and Cent?, ID: el-collapse-head-0, Secondary Actions: Collapse
+		171 container What is the main difference between Standard and Cent?, ID: el-collapse-content-0
+			172 text Standard uses regular USD account values. Cent displays account values in cents and is designed for a smaller starting scale.
+		173 button (collapsed) Is Cent the same as Demo?, ID: el-collapse-head-1, Secondary Actions: Expand
+		174 button (collapsed) Which account should a beginner choose?, ID: el-collapse-head-2, Secondary Actions: Expand
+		175 container
+			176 heading 24/7 Multilingual Support, Value: 2
+				177 text 24/7 Multilingual Support
+			178 text Need Help? We're Always Here!
+			179 text Contact us anytime, by phone, live chat, or email.
+			180 button Contact Us
+		181 container Footer navigation
+			182 button (expanded) Markets, Secondary Actions: Collapse
+			183 button Markets Overview
+			184 button Forex CFDs
+			185 button Stock CFDs
+			186 button Crypto CFDs
+			187 button Indices CFDs
+			188 button Metals CFDs
+			189 button Announcement
+			190 button (collapsed) Platforms, Secondary Actions: Expand
+			191 container
+				192 button Trade W APP
+				193 button Trade W Web Trader
+				194 button MetaTrader 4 Mobile
+				195 button MetaTrader 5 Mobile
+				196 button MetaTrader 5
+				197 button MetaTrader 4
+			198 button (collapsed) Account, Secondary Actions: Expand
+			199 container
+				200 button Classic Account Series
+				201 button Professional Account Series
+				202 button Demo Account
+			203 button (collapsed) Resources, Secondary Actions: Expand
+			204 container
+				205 button Market Insights
+				206 button Market Analysis
+				207 button Trading News
+				208 button Economic Calendar
+				209 button Profit Calculator
+				210 button TradingView
+				211 button Margin Calculator
+				212 button Trading Glossary
+				213 button Beginner Tutorial
+			214 button (collapsed) Supports, Secondary Actions: Expand
+			215 container
+				216 button Help Center
+				217 button FAQs
+				218 button Feedback
+			219 button (collapsed) Company, Secondary Actions: Expand
+			220 container
+				221 button About Us
+				222 button Trade W Awards
+				223 button Company Updates
+				224 button Careers
+				225 button Contact Us
+				226 button Legal Statement
+				227 button AML Policy
+				228 button Privacy Policy
+				229 button Partnership
+		230 container
+			231 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+		232 button Facebook
+		233 button Instagram
+		234 button Telegram
+		235 button X
+		236 button YouTube
+		237 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Standard Account, URL: tradewill.com/account-overview

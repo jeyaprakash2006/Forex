@@ -1,0 +1,10 @@
+const assert=require('node:assert/strict');
+const {test}=require('node:test');
+const {ema,sma,rsi,bands}=require('../chart.js');
+test('moving averages use their actual formulas',()=>{assert.deepEqual(sma([1,2,3,4],3),[1,1.5,2,3]);assert.deepEqual(ema([2,4,6],3),[2,3,4.5]);});
+test('RSI is bounded and handles monotonic and flat series',()=>{assert.equal(rsi(Array(30).fill(5)).at(-1),50);assert.equal(rsi(Array.from({length:30},(_,i)=>i+1)).at(-1),100);assert.equal(rsi(Array.from({length:30},(_,i)=>30-i)).at(-1),0);});
+test('Bollinger bands use population deviation',()=>{const b=bands([1,2,3],3).at(-1);assert.equal(b.mid,2);assert.ok(Math.abs(b.upper-(2+2*Math.sqrt(2/3)))<1e-10);assert.ok(b.lower<b.mid);});
+const {parameters,heikinAshi}=require('../chart.js');
+test('custom Bollinger deviation changes width but not midpoint',()=>{const narrow=bands([1,2,3],3,1).at(-1),wide=bands([1,2,3],3,3).at(-1);assert.equal(narrow.mid,wide.mid);assert.ok(Math.abs((wide.upper-wide.mid)/(narrow.upper-narrow.mid)-3)<1e-10);});
+test('Heikin Ashi recursively transforms OHLC without mutating source',()=>{const source=[{time:1,open:10,high:16,low:8,close:14},{time:2,open:14,high:20,low:13,close:17}];const original=JSON.stringify(source);const result=heikinAshi(source);assert.deepEqual(result,[{time:1,open:12,high:16,low:8,close:12},{time:2,open:12,high:20,low:12,close:16}]);assert.equal(JSON.stringify(source),original);assert.deepEqual(heikinAshi([]),[]);});
+test('saved settings reject invalid periods and reversed MACD windows',()=>{const p=parameters({ma:-2,ema:2.5,rsi:Infinity,bands:50,deviation:3,fast:60,slow:20,signal:5});assert.equal(p.ma,9);assert.equal(p.ema,21);assert.equal(p.rsi,14);assert.equal(p.bands,50);assert.equal(p.deviation,3);assert.equal(p.fast,12);assert.equal(p.slow,26);assert.equal(p.signal,5);});

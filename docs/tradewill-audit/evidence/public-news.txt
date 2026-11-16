@@ -1,0 +1,72 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/news".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/news
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading Trading News, Value: 3
+				9 text Trading News
+			10 text Disclaimer: The views expressed do not represent any position of Trade W, are not intended as recommendations for any trading-related decisions, and are not endorsed by any third-party insiders.
+			11 image
+			12 text No records
+			13 container Footer navigation
+				14 button (expanded) Markets, Secondary Actions: Collapse
+				15 button Markets Overview
+				16 button Forex CFDs
+				17 button Stock CFDs
+				18 button Crypto CFDs
+				19 button Indices CFDs
+				20 button Metals CFDs
+				21 button Announcement
+				22 button (collapsed) Platforms, Secondary Actions: Expand
+				23 container
+					24 button Trade W APP
+					25 button Trade W Web Trader
+					26 button MetaTrader 4 Mobile
+					27 button MetaTrader 5 Mobile
+					28 button MetaTrader 5
+					29 button MetaTrader 4
+				30 button (collapsed) Account, Secondary Actions: Expand
+				31 container
+					32 button Classic Account Series
+					33 button Professional Account Series
+					34 button Demo Account
+				35 button (collapsed) Resources, Secondary Actions: Expand
+				36 container
+					37 button Market Insights
+					38 button Market Analysis
+					39 button Trading News
+					40 button Economic Calendar
+					41 button Profit Calculator
+					42 button TradingView
+					43 button Margin Calculator
+					44 button Trading Glossary
+					45 button Beginner Tutorial
+				46 button (collapsed) Supports, Secondary Actions: Expand
+				47 container
+					48 button Help Center
+					49 button FAQs
+					50 button Feedback
+				51 button (collapsed) Company, Secondary Actions: Expand
+				52 container
+					53 button About Us
+					54 button Trade W Awards
+					55 button Company Updates
+					56 button Careers
+					57 button Contact Us
+					58 button Legal Statement
+					59 button AML Policy
+					60 button Privacy Policy
+					61 button Partnership
+			62 container
+				63 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			64 button Facebook
+			65 button Instagram
+			66 button Telegram
+			67 button X
+			68 button YouTube
+			69 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/news

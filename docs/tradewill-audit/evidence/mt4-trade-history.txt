@@ -1,0 +1,19 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/account-center/asset-center/mt4list?source=1".
+0 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/asset-center/mt4list?source=1
+	1 container
+		2 container
+			3 container
+				4 image
+				5 image
+				6 button Menu
+			7 text MT4 Account
+			8 tab group
+				9 tab (selectable, settable, boolean) Deposit, Value: 0, ID: tab-0
+				10 tab (selectable, settable, boolean) Withdraw, Value: 0, ID: tab-1
+				11 tab (selected, settable, boolean) Trade, Value: 1, ID: tab-2
+				12 tab (selectable, settable, boolean) Transfer, Value: 0, ID: tab-3
+				13 tab (selectable, settable, boolean) Others, Value: 0, ID: tab-4
+			14 container Description: Trade, ID: pane-2
+			15 image
+
+The focused UI element is 11 tab (selected, settable, boolean) Trade, Value: 1, ID: tab-2

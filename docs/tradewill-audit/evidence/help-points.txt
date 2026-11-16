@@ -1,0 +1,543 @@
+Browser tab: 2, Title: "Reward Coins on Mission Page – Help center", URL: "https://tradewillpro.zendesk.com/hc/en-us/articles/8139532347796-Reward-Coins-on-Mission-Page".
+0 AXWebArea Reward Coins on Mission Page – Help center, URL: tradewillpro.zendesk.com/hc/en-us/articles/8139532347796-Reward-Coins-on-Mission-Page
+	1 link Description: Skip to main content, Value: tradewillpro.zendesk.com/hc/en-us/articles/8139532347796-Reward-Coins-on-Mission-Page#main-content
+	2 container
+		3 link Description: Help center Help Center home page , Help: Home, Value: tradewillpro.zendesk.com/hc/en-us
+		4 button (collapsed) Description: Toggle navigation menu, Secondary Actions: Expand
+			5 image
+	6 container
+		7 content list
+			8 link Description: Help center, Value: tradewillpro.zendesk.com/hc/en-us
+			9 container
+				10 text >
+				11 link Description: Activities, Value: tradewillpro.zendesk.com/hc/en-us/categories/8139303433108-Activities
+			12 container
+				13 text >
+				14 link Description: Popular Activities, Value: tradewillpro.zendesk.com/hc/en-us/sections/8139390874772-Popular-Activities
+		15 search text field (settable) Description: Search, ID: query
+		16 container article-container
+			17 container Articles in this section
+				18 container
+					19 button (collapsed) Articles in this section, Secondary Actions: Expand
+					20 text Articles in this section
+			21 container main-content
+				22 container
+					23 heading Reward Coins on Mission Page, Value: 1
+						24 text Reward Coins on Mission Page
+					25 image User (Customer Service) is a team member
+					26 container
+						27 link Description: Customer Service, Value: tradewillpro.zendesk.com/hc/en-us/profiles/378646137831-Customer-Service
+						28 content list
+							29 container
+								30 text 11 months ago
+								31 text ·
+							32 text Updated
+					33 checkbox Description: Follow Article, Value: 0, ID: follow-button-0.41281859192548
+					34 text Not yet followed by anyone
+				35 container
+					36 heading Check-In & Mission Center Guide, Value: 2, ID: h_01KBXYSQJ65FAFRYRDCVX5DYA9
+						37 text Check-In & Mission Center Guide
+					38 heading What is check-in?, Value: 3, ID: h_01KBXYSQJ67DX3VN3KT6GWGVWV
+						39 text What is check-in?
+					40 text Check-in is a daily activity that allows traders to earn coins simply by visiting the 
+					41 text Mission
+					42 text  page in the 
+					43 text Trade W
+					44 text  app and checking in every day. You can access the Mission page directly from the main page of the Trade W app. Tap 
+					45 text "Check-in today"
+					46 text  to earn 
+					47 text 1 coin
+					48 text . If you check in for 
+					49 text 7 consecutive days
+					50 text , you can earn even more coins.
+					51 heading What is on the Mission page?, Value: 3, ID: h_01KBXYSQJ610DBCF7CT4KA3XS9
+						52 text What is on the Mission page?
+					53 text On the Mission page, you can claim rewards by completing various missions in our 
+					54 text Mission Center
+					55 text . Trade W offers three main mission categories:
+					56 text 1. New User Missions
+					57 text Exclusive missions for new users who have just registered on the Trade W app. Missions in this category can only be claimed once.
+					58 text 2. Daily Missions
+					59 text Missions that you can complete every day to earn coins on a regular basis.
+					60 text 3. Special Missions
+					61 text Missions that are updated every 7 days, offering larger rewards compared to other missions.
+					62 heading What missions are there and what are coins used for?, Value: 3, ID: h_01KBXYSQJ6HN5EAWDNEVGGCE6E
+						63 text What missions are there and what are coins used for?
+					64 text By completing missions, you will earn coins. These coins can be used to redeem various types of coupons in the app. Complete as many missions as possible to increase your chances of getting bigger rewards.
+					65 heading How do I redeem prizes?, Value: 3, ID: h_01KBXYSQJ6MVZJPFEFNAPYK063
+						66 text How do I redeem prizes?
+					67 text Open the 
+					68 text Mission
+					69 text  page and scroll to the bottom until you see the 
+					70 text Redemption
+					71 text  section. Select the prize you want to redeem and tap 
+					72 text "Redeem"
+					73 text . Once redeemed, the prize will be sent directly to your account.
+				74 container
+					75 content list
+						76 link Description: Facebook, Value: facebook.com/share.php?title=Reward+Coins+on+Mission+Page&u=https%3A%2F%2Ftradewillpro.zendesk.com%2Fhc%2Fen-us%2Farticles%2F8139532347796-Reward-Coins-on-Mission-Page
+						77 link Description: X Corp, Value: twitter.com/share?lang=en&text=Reward+Coins+on+Mission+Page&url=https%3A%2F%2Ftradewillpro.zendesk.com%2Fhc%2Fen-us%2Farticles%2F8139532347796-Reward-Coins-on-Mission-Page
+						78 link Description: LinkedIn, Value: linkedin.com/shareArticle?mini=true&source=TW+Trade&title=Reward+Coins+on+Mission+Page&url=https%3A%2F%2Ftradewillpro.zendesk.com%2Fhc%2Fen-us%2Farticles%2F8139532347796-Reward-Coins-on-Mission-Page
+					79 link Description: Go to comments section 1535 comments, Value: tradewillpro.zendesk.com/hc/en-us/articles/8139532347796-Reward-Coins-on-Mission-Page#article-comments
+					80 text Was this article helpful?
+					81 container Was this article helpful?
+						82 checkbox Description: This article was helpful, Value: 0
+						83 checkbox Description: This article was not helpful, Value: 0
+					84 text 11109 out of 12443 found this helpful Have more questions? 
+					85 link Description: Submit a request, Value: tradewillpro.zendesk.com/hc/en-us/requests/new
+					86 link Description: Return to top , Value: tradewillpro.zendesk.com/hc/en-us/articles/8139532347796-Reward-Coins-on-Mission-Page#article-container
+				87 container
+					88 heading Related articles, Value: 2
+						89 text Related articles
+					90 content list
+						91 link Description: Rules for App Community Chat, Value: tradewillpro.zendesk.com/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJT3V4BuBzoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJQp7yFnBzoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJCL2hjL2VuLXVzL2FydGljbGVzLzgxNzExODEwNDU2NTItUnVsZXMtZm9yLUFwcC1Db21tdW5pdHktQ2hhdAY7CFQ6CXJhbmtpBg%3D%3D--3440d05c8e776a871839bd1cb019266fc051ab12
+						92 link Description: Bullish or Bearish? Guess the Price and Win Rewards, Value: tradewillpro.zendesk.com/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBR9hJlAEDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJQp7yFnBzoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJZL2hjL2VuLXVzL2FydGljbGVzLzE3ODY5NjM5NTQ4MTgwLUJ1bGxpc2gtb3ItQmVhcmlzaC1HdWVzcy10aGUtUHJpY2UtYW5kLVdpbi1SZXdhcmRzBjsIVDoJcmFua2kH--366026c3e1dbf274319cf9df1e9106970e00a5b4
+						93 link Description: Premium Membership Service Agreement, Value: tradewillpro.zendesk.com/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJREr6QVDToYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJQp7yFnBzoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJLL2hjL2VuLXVzL2FydGljbGVzLzE0Mzg2NjA4NDI0MDg0LVByZW1pdW0tTWVtYmVyc2hpcC1TZXJ2aWNlLUFncmVlbWVudAY7CFQ6CXJhbmtpCA%3D%3D--50548a2a25dd5db9cdc8df9128ff5156230e4e52
+						94 link Description: Common Terms, Value: tradewillpro.zendesk.com/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBQ0gzhuBzoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJQp7yFnBzoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSIyL2hjL2VuLXVzL2FydGljbGVzLzgxNjk5NzU5MTk2MzYtQ29tbW9uLVRlcm1zBjsIVDoJcmFua2kJ--f869118cfcebf0b01f41e271a99e2a39dd81ba4a
+						95 link Description: Still a beginner and wondering what’s trading?, Value: tradewillpro.zendesk.com/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJT%2BCipuBzoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJQp7yFnBzoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJTL2hjL2VuLXVzL2FydGljbGVzLzgxNjk3MzMxNjA1OTYtU3RpbGwtYS1iZWdpbm5lci1hbmQtd29uZGVyaW5nLXdoYXQtcy10cmFkaW5nBjsIVDoJcmFua2kK--a65f3a45cf98026527ba98605d77e40a9a802fd5
+				96 container
+					97 heading Comments, Value: 2
+						98 text Comments
+					99 text 1535 comments
+					100 pop up button Sort by 
+						101 text Sort by 
+						102 image
+					103 content list comments
+						104 container
+							105 link Description: Ravi Kumar, Value: tradewillpro.zendesk.com/hc/en-us/profiles/8678410817044-Ravi-Kumar
+							106 container Badges
+							107 content list
+								108 text 4 years ago
+							109 container Badges
+							110 text 50000
+							111 checkbox Description: This comment was helpful, Value: 0
+								112 image
+							113 text -158
+							114 checkbox Description: This comment was not helpful, Value: 0
+								115 image
+							116 pop up button Description: Comment actions, ID: comment-actions-8678396718996
+								117 image
+						118 container
+							119 link Description: Ravi Kumar, Value: tradewillpro.zendesk.com/hc/en-us/profiles/8678410817044-Ravi-Kumar
+							120 container Badges
+							121 content list
+								122 text 4 years ago
+							123 container Badges
+							124 text Da do plrse
+							125 checkbox Description: This comment was helpful, Value: 0
+								126 image
+							127 text -41
+							128 checkbox Description: This comment was not helpful, Value: 0
+								129 image
+							130 pop up button Description: Comment actions, ID: comment-actions-8678387333268
+								131 image
+						132 container
+							133 link Description: Rajan Solanki, Value: tradewillpro.zendesk.com/hc/en-us/profiles/8736796756116-Rajan-Solanki
+							134 container Badges
+							135 content list
+								136 text 4 years ago
+							137 container Badges
+							138 text Rajan
+							139 checkbox Description: This comment was helpful, Value: 0
+								140 image
+							141 text -14
+							142 checkbox Description: This comment was not helpful, Value: 0
+								143 image
+							144 pop up button Description: Comment actions, ID: comment-actions-8736914361876
+								145 image
+						146 container
+							147 link Description: Golu kumar, Value: tradewillpro.zendesk.com/hc/en-us/profiles/8741878298388-Golu-kumar
+							148 container Badges
+							149 content list
+								150 text 4 years ago
+							151 container Badges
+							152 container
+								153 text Hii
+								154 text 100
+							155 checkbox Description: This comment was helpful, Value: 0
+								156 image
+							157 text -64
+							158 checkbox Description: This comment was not helpful, Value: 0
+								159 image
+							160 pop up button Description: Comment actions, ID: comment-actions-8742020262676
+								161 image
+						162 container
+							163 link Description: bipulsarkarlaxmi, Value: tradewillpro.zendesk.com/hc/en-us/profiles/8856651221268-bipulsarkarlaxmi
+							164 container Badges
+							165 content list
+								166 text 4 years ago
+							167 container Badges
+							168 text Hii
+							169 checkbox Description: This comment was helpful, Value: 0
+								170 image
+							171 text -35
+							172 checkbox Description: This comment was not helpful, Value: 0
+								173 image
+							174 pop up button Description: Comment actions, ID: comment-actions-8857427037204
+								175 image
+						176 container
+							177 link Description: kantajethi, Value: tradewillpro.zendesk.com/hc/en-us/profiles/8873428928148-kantajethi
+							178 container Badges
+							179 content list
+								180 text 4 years ago
+							181 container Badges
+							182 text Selling old couns
+							183 checkbox Description: This comment was helpful, Value: 0
+								184 image
+							185 text -46
+							186 checkbox Description: This comment was not helpful, Value: 0
+								187 image
+							188 pop up button Description: Comment actions, ID: comment-actions-8873486627476
+								189 image
+						190 container
+							191 link Description: Sumaiya, Value: tradewillpro.zendesk.com/hc/en-us/profiles/8649784303124-Sumaiya
+							192 container Badges
+							193 content list
+								194 text 4 years ago
+							195 container Badges
+							196 text Hii
+							197 checkbox Description: This comment was helpful, Value: 0
+								198 image
+							199 text 0
+							200 checkbox Description: This comment was not helpful, Value: 0
+								201 image
+							202 pop up button Description: Comment actions, ID: comment-actions-8894541748244
+								203 image
+						204 container
+							205 link Description: 8008612799, Value: tradewillpro.zendesk.com/hc/en-us/profiles/8907432401940-8008612799
+							206 container Badges
+							207 content list
+								208 text 4 years ago
+							209 container Badges
+							210 text 100
+							211 checkbox Description: This comment was helpful, Value: 0
+								212 image
+							213 text 42
+							214 checkbox Description: This comment was not helpful, Value: 0
+								215 image
+							216 pop up button Description: Comment actions, ID: comment-actions-8923930803348
+								217 image
+						218 container
+							219 link Description: suraj, Value: tradewillpro.zendesk.com/hc/en-us/profiles/8996959639188-suraj
+							220 container Badges
+							221 content list
+								222 text 4 years ago
+							223 container Badges
+							224 text Hii
+							225 checkbox Description: This comment was helpful, Value: 0
+								226 image
+							227 text 23
+							228 checkbox Description: This comment was not helpful, Value: 0
+								229 image
+							230 pop up button Description: Comment actions, ID: comment-actions-8998730605332
+								231 image
+						232 container
+							233 link Description: Ishwar khich8, Value: tradewillpro.zendesk.com/hc/en-us/profiles/9051615617300-Ishwar-khich8
+							234 container Badges
+							235 content list
+								236 text 4 years ago
+							237 container Badges
+							238 text Ishwar
+							239 checkbox Description: This comment was helpful, Value: 0
+								240 image
+							241 text -9
+							242 checkbox Description: This comment was not helpful, Value: 0
+								243 image
+							244 pop up button Description: Comment actions, ID: comment-actions-9054596693012
+								245 image
+						246 container
+							247 link Description: premk72051, Value: tradewillpro.zendesk.com/hc/en-us/profiles/9210076714132-premk72051
+							248 container Badges
+							249 content list
+								250 text 4 years ago
+							251 container Badges
+							252 text Hi how to earn
+							253 checkbox Description: This comment was helpful, Value: 0
+								254 image
+							255 text -63
+							256 checkbox Description: This comment was not helpful, Value: 0
+								257 image
+							258 pop up button Description: Comment actions, ID: comment-actions-9210128173972
+								259 image
+						260 container
+							261 link Description: R Indira, Value: tradewillpro.zendesk.com/hc/en-us/profiles/9228874421140-R-Indira
+							262 container Badges
+							263 content list
+								264 text 4 years ago
+							265 container Badges
+							266 text Hi How earn money yes ... my number 6383746022
+							267 checkbox Description: This comment was helpful, Value: 0
+								268 image
+							269 text -132
+							270 checkbox Description: This comment was not helpful, Value: 0
+								271 image
+							272 pop up button Description: Comment actions, ID: comment-actions-9228867848852
+								273 image
+						274 container
+							275 link Description: mrai33143, Value: tradewillpro.zendesk.com/hc/en-us/profiles/9403846878740-mrai33143
+							276 container Badges
+							277 content list
+								278 text 4 years ago
+							279 container Badges
+							280 text Kaise use krna ha iska
+							281 checkbox Description: This comment was helpful, Value: 0
+								282 image
+							283 text -27
+							284 checkbox Description: This comment was not helpful, Value: 0
+								285 image
+							286 pop up button Description: Comment actions, ID: comment-actions-9403889481492
+								287 image
+						288 container
+							289 link Description: Sonu Otti, Value: tradewillpro.zendesk.com/hc/en-us/profiles/9410159304596-Sonu-Otti
+							290 container Badges
+							291 content list
+								292 text 4 years ago
+							293 container Badges
+							294 text 33143
+							295 checkbox Description: This comment was helpful, Value: 0
+								296 image
+							297 text -5
+							298 checkbox Description: This comment was not helpful, Value: 0
+								299 image
+							300 pop up button Description: Comment actions, ID: comment-actions-9410316090900
+								301 image
+						302 container
+							303 link Description: jithinrajthacharakkal007, Value: tradewillpro.zendesk.com/hc/en-us/profiles/9805382332052-jithinrajthacharakkal007
+							304 container Badges
+							305 content list
+								306 text 4 years ago
+							307 container Badges
+							308 text Hi
+							309 checkbox Description: This comment was helpful, Value: 0
+								310 image
+							311 text -16
+							312 checkbox Description: This comment was not helpful, Value: 0
+								313 image
+							314 pop up button Description: Comment actions, ID: comment-actions-9805427639572
+								315 image
+						316 container
+							317 link Description: Khushilal kumar, Value: tradewillpro.zendesk.com/hc/en-us/profiles/9937072685972-Khushilal-kumar
+							318 container Badges
+							319 content list
+								320 text 4 years ago
+							321 container Badges
+							322 text Hii
+							323 checkbox Description: This comment was helpful, Value: 0
+								324 image
+							325 text 18
+							326 checkbox Description: This comment was not helpful, Value: 0
+								327 image
+							328 pop up button Description: Comment actions, ID: comment-actions-9937164379028
+								329 image
+						330 container
+							331 link Description: Kishan Parmar Parmar, Value: tradewillpro.zendesk.com/hc/en-us/profiles/9937350380820-Kishan-Parmar-Parmar
+							332 container Badges
+							333 content list
+								334 text 4 years ago
+							335 container Badges
+							336 text 10
+							337 checkbox Description: This comment was helpful, Value: 0
+								338 image
+							339 text 9
+							340 checkbox Description: This comment was not helpful, Value: 0
+								341 image
+							342 pop up button Description: Comment actions, ID: comment-actions-9953604894100
+								343 image
+						344 container
+							345 link Description: Hilbastar R Marak, Value: …
+							346 container Badges
+							347 content list
+								348 text 4 years ago
+							349 container Badges
+							350 text How to earn money? 9366046601 my no.
+							351 checkbox Description: This comment was helpful, Value: 0
+								352 image
+							353 text -34
+							354 checkbox Description: This comment was not helpful, Value: 0
+								355 image
+							356 pop up button Description: Comment actions, ID: comment-actions-10067060567700
+								357 image
+						358 container
+							359 link Description: mdakib97416, Value: …
+							360 container Badges
+							361 content list
+								362 text 4 years ago
+							363 container Badges
+							364 text 134
+							365 checkbox Description: This comment was helpful, Value: 0
+								366 image
+							367 text -4
+							368 checkbox Description: This comment was not helpful, Value: 0
+								369 image
+							370 pop up button Description: Comment actions, ID: comment-actions-10201798449428
+								371 image
+						372 container
+							373 link Description: Suraj Kumar, Value: …
+							374 container Badges
+							375 content list
+								376 text 4 years ago
+							377 container Badges
+							378 text 20
+							379 checkbox Description: This comment was helpful, Value: 0
+								380 image
+							381 text 15
+							382 checkbox Description: This comment was not helpful, Value: 0
+								383 image
+							384 pop up button Description: Comment actions, ID: comment-actions-10470690291988
+								385 image
+						386 container
+							387 link Description: Suraj Kumar, Value: …
+							388 container Badges
+							389 content list
+								390 text 4 years ago
+							391 container Badges
+							392 text 50
+							393 checkbox Description: This comment was helpful, Value: 0
+								394 image
+							395 text 17
+							396 checkbox Description: This comment was not helpful, Value: 0
+								397 image
+							398 pop up button Description: Comment actions, ID: comment-actions-10470691294996
+								399 image
+						400 container
+							401 link Description: Ramesh kella, Value: …
+							402 container Badges
+							403 content list
+								404 text 4 years ago
+							405 container Badges
+							406 text 500
+							407 checkbox Description: This comment was helpful, Value: 0
+								408 image
+							409 text 5
+							410 checkbox Description: This comment was not helpful, Value: 0
+								411 image
+							412 pop up button Description: Comment actions, ID: comment-actions-10485784189332
+								413 image
+						414 container
+							415 link Description: axmedayaan046, Value: …
+							416 container Badges
+							417 content list
+								418 text 4 years ago
+							419 container Badges
+							420 text $100
+							421 checkbox Description: This comment was helpful, Value: 0
+								422 image
+							423 text -11
+							424 checkbox Description: This comment was not helpful, Value: 0
+								425 image
+							426 pop up button Description: Comment actions, ID: comment-actions-10741185047188
+								427 image
+						428 container
+							429 link Description: Yasin Akram, Value: …
+							430 container Badges
+							431 content list
+								432 text 4 years ago
+							433 container Badges
+							434 text 100
+							435 checkbox Description: This comment was helpful, Value: 0
+								436 image
+							437 text 0
+							438 checkbox Description: This comment was not helpful, Value: 0
+								439 image
+							440 pop up button Description: Comment actions, ID: comment-actions-10776942256148
+								441 image
+						442 container
+							443 link Description: Yasin Akram, Value: …
+							444 container Badges
+							445 content list
+								446 text 4 years ago
+							447 container Badges
+							448 text $19
+							449 checkbox Description: This comment was helpful, Value: 0
+								450 image
+							451 text -9
+							452 checkbox Description: This comment was not helpful, Value: 0
+								453 image
+							454 pop up button Description: Comment actions, ID: comment-actions-10776943439764
+								455 image
+						456 container
+							457 link Description: Sarvesh kumar jain, Value: …
+							458 container Badges
+							459 content list
+								460 text 4 years ago
+							461 container Badges
+							462 container
+								463 text I invest 100$
+								464 text What profit daily
+							465 checkbox Description: This comment was helpful, Value: 0
+								466 image
+							467 text -88
+							468 checkbox Description: This comment was not helpful, Value: 0
+								469 image
+							470 pop up button Description: Comment actions, ID: comment-actions-10799805565076
+								471 image
+						472 container
+							473 link Description: Macjohn, Value: …
+							474 container Badges
+							475 content list
+								476 text 4 years ago
+							477 container Badges
+							478 text Help need coins
+							479 checkbox Description: This comment was helpful, Value: 0
+								480 image
+							481 text -10
+							482 checkbox Description: This comment was not helpful, Value: 0
+								483 image
+							484 pop up button Description: Comment actions, ID: comment-actions-11055525080596
+								485 image
+						486 container
+							487 link Description: Paabu nath, Value: …
+							488 container Badges
+							489 content list
+								490 text 4 years ago
+							491 container Badges
+							492 text Paabu nath
+							493 checkbox Description: This comment was helpful, Value: 0
+								494 image
+							495 text -4
+							496 checkbox Description: This comment was not helpful, Value: 0
+								497 image
+							498 pop up button Description: Comment actions, ID: comment-actions-11087198954004
+								499 image
+						500 container
+							501 link Description: Manoj Kumar, Value: …
+							502 container Badges
+							503 content list
+								504 text 4 years ago
+							505 container Badges
+							506 text Hii
+							507 checkbox Description: This comment was helpful, Value: 0
+								508 image
+							509 text 4
+							510 checkbox Description: This comment was not helpful, Value: 0
+								511 image
+							512 pop up button Description: Comment actions, ID: comment-actions-11152092964116
+								513 image
+						514 container
+							515 link Description: Ranjan kumar, Value: …
+							516 container Badges
+							517 content list
+								518 text 4 years ago
+							519 container Badges
+							520 text Ranjan
+							521 checkbox Description: This comment was helpful, Value: 0
+								522 image
+							523 text 14
+							524 checkbox Description: This comment was not helpful, Value: 0
+								525 image
+							526 pop up button Description: Comment actions, ID: comment-actions-11288462708116
+								527 image
+					528 container Pagination
+						529 content list
+							530 link Description: Next , Value: …
+							531 link Description: Last, Value: …
+					532 text Please 
+					533 link Description: sign in, Value: …
+					534 text  to leave a comment.
+	535 container
+		536 link Description: Help center, Help: Home, Value: …
+		537 pop up button English (United States) 
+			538 text English (United States) 
+			539 image
+
+The focused UI element is 0 AXWebArea Reward Coins on Mission Page – Help center, URL: tradewillpro.zendesk.com/hc/en-us/articles/8139532347796-Reward-Coins-on-Mission-Page

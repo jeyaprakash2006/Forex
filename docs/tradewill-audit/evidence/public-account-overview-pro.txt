@@ -1,0 +1,223 @@
+Browser tab: 1, Title: "Pro Account", URL: "https://www.tradewill.com/account-overview/pro".
+1 AXWebArea Pro Account, URL: tradewill.com/account-overview/pro
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 text PROFESSIONAL ACCOUNT SERIES
+			9 heading More Control for Your Next Trade, Value: 1
+				10 text More Control for Your Next Trade
+			11 text Choose tighter spreads with Pro, or start with a lower deposit on Commission Free.
+			12 button Start Trading
+			13 button Try Free Demo
+			14 content list
+				15 text $0 Commission
+				16 text Spreads from 5 pips
+				17 text Up to 1:800 Leverage
+				18 text Professional Trading Setup
+			19 container
+				20 container
+					21 text Tighter Spreads
+					22 heading Pro Account, Value: 2
+						23 text Pro Account
+					24 text Built for experienced traders who prioritise tighter pricing. 0 Commission 5 Spreads From 500 Minimum Deposit
+					25 button Open Pro Account
+					26 button Try Free Demo
+					27 text Best for: Experienced traders who value entry precision and execution control.
+				28 content list
+					29 text Trade W App
+					30 text Web Trader
+				31 container
+					32 text Lower Entry
+					33 heading Commission Free Account, Value: 2
+						34 text Commission Free Account
+					35 text Built for traders seeking lower entry and commission-free pricing. 0 Commission 10 Spreads From 200 Minimum Deposit
+					36 button Open Commission Free Account
+					37 button Try Free Demo
+					38 text Best for: Traders who value lower entry and simple spread-based costs.
+				39 content list
+					40 text Trade W App
+					41 text Web Trader
+					42 text MetaTrader 4
+					43 text MetaTrader 5
+			44 text Pro and Commission Free are live trading accounts that use real funds. Profits and losses are real.
+			45 container
+				46 heading Compare Account Conditions, Value: 2
+					47 text Compare Account Conditions
+				48 text Review the pricing, account values and trading requirements before opening an account.
+			49 tab group
+				50 tab (selected, settable, boolean) Pro, Value: 1
+				51 tab (selectable, settable, boolean) Commission Free, Value: 0
+			52 container
+				53 text Prioritise Tighter Entry Pricing
+				54 content list
+					55 text Tighter starting spread
+					56 text Market execution
+					57 text Designed for experienced traders
+				58 definition list
+					59 container Recommended For
+						60 text Recommended For
+					61 text Experienced, pricing-focused traders
+					62 container Minimum Deposit
+						63 text Minimum Deposit
+					64 text 500
+					65 container Spread
+						66 text Spread
+					67 text From 5 pips
+					68 container Commission
+						69 text Commission
+					70 text 0
+					71 container Maximum Leverage
+						72 text Maximum Leverage
+					73 text 1:800
+					74 container Key Advantage
+						75 text Key Advantage
+					76 text Tighter spread + no commission
+					77 container Supported Platforms
+						78 text Supported Platforms
+					79 text Trade W App, Web Trader
+			80 button Start Trading
+			81 button Try Free Demo
+			82 container
+				83 heading Explore Global Markets with Trade W, Value: 2
+					84 text Explore Global Markets with Trade W
+				85 text Trade Across Supported Markets
+			86 container
+				87 heading Forex, Value: 3
+					88 text Forex
+				89 text Trade 60+ currency pairs with deep liquidity across major global markets.
+			90 container
+				91 heading Metals, Value: 3
+					92 text Metals
+				93 text Trade gold and silver to diversify and respond to market uncertainty.
+			94 container
+				95 heading Indices, Value: 3
+					96 text Indices
+				97 text Capture broader market moves through major global indices in a single trade.
+			98 container
+				99 heading Stocks, Value: 3
+					100 text Stocks
+				101 text Trade price movements of leading global companies without owning the shares.
+			102 container
+				103 heading Crypto, Value: 3
+					104 text Crypto
+				105 text Tap into the volatility of major cryptocurrencies through CFD trading.
+			106 text Platform and instrument availability may vary by account type and region.
+			107 container
+				108 heading Why Trade with Trade W, Value: 2
+					109 text Why Trade with Trade W
+				110 text Trade with flexible platforms, practical tools, broad market access and multilingual support.
+			111 container
+				112 heading Multi-Platform Access, Value: 3
+					113 text Multi-Platform Access
+				114 text Trade through supported mobile, web and MetaTrader platforms.
+				115 image Multi-Platform Access
+			116 container
+				117 heading Practice Risk Controls, Value: 3
+					118 text Practice Risk Controls
+				119 text Access charts, order management and technical analysis tools.
+				120 image Practice Risk Controls
+			121 container
+				122 heading Flexible Market Access, Value: 3
+					123 text Flexible Market Access
+				124 text Explore available CFDs across major global asset classes.
+				125 image Flexible Market Access
+			126 container
+				127 heading Multilingual Support, Value: 3
+					128 text Multilingual Support
+				129 text Get help through Trade W's available customer support channels.
+				130 image Multilingual Support
+			131 container
+				132 heading Trade in 3 Simple Steps, Value: 2
+					133 text Trade in 3 Simple Steps
+				134 text Smarter trading starts here! Join a global community of traders who choose Trade W for efficient trading.
+			135 content list
+				136 container
+					137 heading Sign Up, Value: 3
+						138 text Sign Up
+					139 text Open account in 2 minutes
+				140 container
+					141 heading Deposit, Value: 3
+						142 text Deposit
+					143 text Deposit using your preferred funding method to activate your account
+				144 container
+					145 heading Trading, Value: 3
+						146 text Trading
+					147 text Trade more than 100+ financial instruments worldwide
+			148 button Start Trading
+			149 button Try Free Demo
+			150 heading Frequently Asked Questions, Value: 2
+				151 text Frequently Asked Questions
+			152 text Everything you need to know about Pro and Commission Free accounts.
+			153 button (expanded) Why do both accounts have $0 commission?, ID: el-collapse-head-0, Secondary Actions: Collapse
+			154 container Why do both accounts have $0 commission?, ID: el-collapse-content-0
+				155 text Pro and Commission Free both charge no separate commission. They differ mainly in minimum deposit, starting spread and execution conditions.
+			156 button (collapsed) What is the main benefit of Pro?, ID: el-collapse-head-1, Secondary Actions: Expand
+			157 button (collapsed) What is the main benefit of Commission Free?, ID: el-collapse-head-2, Secondary Actions: Expand
+			158 container
+				159 heading 24/7 Multilingual Support, Value: 2
+					160 text 24/7 Multilingual Support
+				161 text Need Help? We're Always Here!
+				162 text Contact us anytime, by phone, live chat, or email.
+				163 button Contact Us
+			164 container Footer navigation
+				165 button (expanded) Markets, Secondary Actions: Collapse
+				166 button Markets Overview
+				167 button Forex CFDs
+				168 button Stock CFDs
+				169 button Crypto CFDs
+				170 button Indices CFDs
+				171 button Metals CFDs
+				172 button Announcement
+				173 button (collapsed) Platforms, Secondary Actions: Expand
+				174 container
+					175 button Trade W APP
+					176 button Trade W Web Trader
+					177 button MetaTrader 4 Mobile
+					178 button MetaTrader 5 Mobile
+					179 button MetaTrader 5
+					180 button MetaTrader 4
+				181 button (collapsed) Account, Secondary Actions: Expand
+				182 container
+					183 button Classic Account Series
+					184 button Professional Account Series
+					185 button Demo Account
+				186 button (collapsed) Resources, Secondary Actions: Expand
+				187 container
+					188 button Market Insights
+					189 button Market Analysis
+					190 button Trading News
+					191 button Economic Calendar
+					192 button Profit Calculator
+					193 button TradingView
+					194 button Margin Calculator
+					195 button Trading Glossary
+					196 button Beginner Tutorial
+				197 button (collapsed) Supports, Secondary Actions: Expand
+				198 container
+					199 button Help Center
+					200 button FAQs
+					201 button Feedback
+				202 button (collapsed) Company, Secondary Actions: Expand
+				203 container
+					204 button About Us
+					205 button Trade W Awards
+					206 button Company Updates
+					207 button Careers
+					208 button Contact Us
+					209 button Legal Statement
+					210 button AML Policy
+					211 button Privacy Policy
+					212 button Partnership
+			213 container
+				214 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			215 button Facebook
+			216 button Instagram
+			217 button Telegram
+			218 button X
+			219 button YouTube
+			220 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Pro Account, URL: tradewill.com/account-overview/pro

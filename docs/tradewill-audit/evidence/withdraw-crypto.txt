@@ -1,0 +1,89 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/account-center/withdraw".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/withdraw
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 text Account
+			9 tab group
+				10 tab (selectable, settable, boolean) Withdrawal, Value: 0, ID: tab-first
+				11 tab (selected, settable, boolean) Crypto Withdrawal, Value: 1, ID: tab-second
+			80 container Description: Crypto Withdrawal, ID: pane-second
+				81 container
+					82 image
+					83 text Please complete ID verification，
+					84 image
+				85 container
+					86 container
+						87 text Select account
+						88 button Standard
+						89 text Select currency
+						90 container
+							91 combo box (collapsed, settable) ID: el-id-1024-56, Secondary Actions: Expand
+							92 text USDT
+						93 text Withdrawal Network
+						94 container
+							95 combo box (collapsed, settable) ID: el-id-1024-57, Secondary Actions: Expand
+							96 text Select
+						97 text Withdrawal Address
+						98 text field (settable)
+						99 text * Please make sure you only send USDT to this address. If you send any other cryptocurrency, it will be irrecoverable. Withdrawal Amount $1.00= 1.000000 USDT
+						100 text $
+						101 text field (settable) 0.00
+						102 text All
+						103 text Available:  $0.00 ≈ 0 USDT Admin fee $0.00 Receipt Amount $0.00 ≈ 0.00 USDT
+						104 button Confirm
+			105 image
+			106 text Reminder 1. The minimum withdrawal amount should be no less than  $11 . 2. Your cryptocurrency withdrawal limit is  $0 . 3. You can only withdraw the initial amount you deposited when it comes to cryptocurrencies. Any balance beyond the withdrawal limit can be withdrawn to other payment channels. Note: If there are no available fiat payment channels in your region, please contact our 
+			107 text Live Chat
+			108 text for an increase in your withdrawal limit and withdraw your account balance in cryptocurrency.
+		35 container
+			36 container
+				37 image logo
+				38 text Hello!
+We are here to help you!
+				39 heading Frequently Asked Questions More, Value: 6
+					40 text Frequently Asked Questions
+					41 text More
+				42 text What is Trade W and How Does it Work?
+				43 text Is Trade W a Regulated Broker?
+				44 text Does Trade W Provide a Demo Account?
+				45 text What Trading Platforms does Trade W Support?
+				46 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			47 container
+				48 button Customer Support
+				49 text 2
+			50 container chatroom
+				51 container
+					52 heading AI Assistant-W, Value: 6
+						53 text AI Assistant-W
+					54 image
+				55 text 11-15 01:42
+				56 text AI Assistant-W
+				57 container
+					58 text Hi there! 👋 I'm W. How can I help you with your trading account?
+				59 container
+					60 text Guess what you want to ask?
+					61 image
+					62 text How can I earn points and redeem exciting rewards?
+					63 text 24604
+					64 button Ask
+					65 text How do I reset my demo balance?
+					66 text 13640
+					67 button Ask
+					68 text How does the Invite Friends program work?
+					69 text 7715
+					70 button Ask
+				71 container
+					72 button Customer Service
+						73 image
+						74 text Customer Service
+					75 container
+						76 text Please enter
+		77 container
+			78 image conversation-badge-icon
+			79 text 2
+
+The focused UI element is 11 tab (selected, settable, boolean) Crypto Withdrawal, Value: 1, ID: tab-second

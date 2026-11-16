@@ -1,0 +1,78 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/viewpoint".
+1 AXWebArea Financial Markets and Economic Analysis | Tradewill, URL: tradewill.com/viewpoint
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading Market Analysis, Value: 3
+				9 text Market Analysis
+			10 text Disclaimer: The views expressed do not represent any position of Trade W, are not intended as recommendations for any trading-related decisions, and are not endorsed by any third-party insiders.
+			11 button All
+			12 button Forex
+			13 button Index
+			14 button Commodities
+			15 button Crypto
+			16 container
+				17 image
+				18 text No records load more
+			19 container Footer navigation
+				20 button (expanded) Markets, Secondary Actions: Collapse
+				21 button Markets Overview
+				22 button Forex CFDs
+				23 button Stock CFDs
+				24 button Crypto CFDs
+				25 button Indices CFDs
+				26 button Metals CFDs
+				27 button Announcement
+				28 button (collapsed) Platforms, Secondary Actions: Expand
+				29 container
+					30 button Trade W APP
+					31 button Trade W Web Trader
+					32 button MetaTrader 4 Mobile
+					33 button MetaTrader 5 Mobile
+					34 button MetaTrader 5
+					35 button MetaTrader 4
+				36 button (collapsed) Account, Secondary Actions: Expand
+				37 container
+					38 button Classic Account Series
+					39 button Professional Account Series
+					40 button Demo Account
+				41 button (collapsed) Resources, Secondary Actions: Expand
+				42 container
+					43 button Market Insights
+					44 button Market Analysis
+					45 button Trading News
+					46 button Economic Calendar
+					47 button Profit Calculator
+					48 button TradingView
+					49 button Margin Calculator
+					50 button Trading Glossary
+					51 button Beginner Tutorial
+				52 button (collapsed) Supports, Secondary Actions: Expand
+				53 container
+					54 button Help Center
+					55 button FAQs
+					56 button Feedback
+				57 button (collapsed) Company, Secondary Actions: Expand
+				58 container
+					59 button About Us
+					60 button Trade W Awards
+					61 button Company Updates
+					62 button Careers
+					63 button Contact Us
+					64 button Legal Statement
+					65 button AML Policy
+					66 button Privacy Policy
+					67 button Partnership
+			68 container
+				69 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			70 button Facebook
+			71 button Instagram
+			72 button Telegram
+			73 button X
+			74 button YouTube
+			75 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Financial Markets and Economic Analysis | Tradewill, URL: tradewill.com/viewpoint

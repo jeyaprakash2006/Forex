@@ -1,0 +1,114 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/course".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/course
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading Beginner Tutorial, Value: 3
+				9 text Beginner Tutorial
+			10 text Learn to trade from scratch, we provide a complete beginner guide.
+			11 heading Beginner, Value: 3
+				12 text Beginner
+			13 text Q&A With Trade W？
+			14 text Get to know TradeW in 1 minute
+			15 button Start Learning
+			16 text Ready to start trading?
+			17 text Learn to trade in one minute
+			18 button Start Learning
+			19 text Ready to Deposit?
+			20 text We support payment via PayTM, Phonepe, UPI
+			21 button Start Learning
+			22 heading Intermediate, Value: 3
+				23 text Intermediate
+			24 text How to Verify Your Identity?
+			25 text It is safer to complete your verification
+			26 button Start Learning
+			27 text How to Withdraw?
+			28 text Earn money and withdraw your money easily
+			29 button Start Learning
+			30 heading Advanced, Value: 3
+				31 text Advanced
+			32 text How to use Coupon?
+			33 text Use coupons to get more discounts
+			34 button Start Learning
+			35 text How to invite friends to make money?
+			36 text Make money easily everyday
+			37 button Start Learning
+			38 heading Trade in 3 Simple Steps, Value: 6
+				39 text Trade in 3 Simple Steps
+			40 text Smarter trading starts here! Join a global community of traders who choose Trade W for efficient trading. Sign Up Open an account in 2 minutes Deposit Deposit using your preferred funding method to activate your account Trade Trade over 100+ financial instruments worldwide
+			41 button Start Trading
+			42 button Try Free Demo
+			43 heading Frequently Asked Questions, Value: 3
+				44 text Frequently Asked Questions
+			45 container ac_0
+				46 button (expanded) What is Trade W and How Does it Work?, ID: el-collapse-head-0, Secondary Actions: Collapse
+					47 text What is Trade W and How Does it Work?
+				48 container What is Trade W and How Does it Work?, ID: el-collapse-content-0
+					49 text Trade W is a reputable trading platform that provides a comprehensive range of financial derivatives for trading purposes. Discover an extensive selection of CFDs across forex, cryptocurrencies, stocks, commodities and indices. At Trade W, our platform prioritizes trustworthiness and safety within the trading industry.
+					50 text Opening an account with Trade W is a seamless and effortless process. Begin your trading journey by signing up on the Trade W Website or APP today.
+			51 button (collapsed) Is Trade W a Regulated Broker?, ID: el-collapse-head-1, Secondary Actions: Expand
+				52 text Is Trade W a Regulated Broker?
+			53 button (collapsed) Does Trade W Provide a Demo Account?, ID: el-collapse-head-2, Secondary Actions: Expand
+				54 text Does Trade W Provide a Demo Account?
+			55 container Footer navigation
+				56 button (expanded) Markets, Secondary Actions: Collapse
+				57 button Markets Overview
+				58 button Forex CFDs
+				59 button Stock CFDs
+				60 button Crypto CFDs
+				61 button Indices CFDs
+				62 button Metals CFDs
+				63 button Announcement
+				64 button (collapsed) Platforms, Secondary Actions: Expand
+				65 container
+					66 button Trade W APP
+					67 button Trade W Web Trader
+					68 button MetaTrader 4 Mobile
+					69 button MetaTrader 5 Mobile
+					70 button MetaTrader 5
+					71 button MetaTrader 4
+				72 button (collapsed) Account, Secondary Actions: Expand
+				73 container
+					74 button Classic Account Series
+					75 button Professional Account Series
+					76 button Demo Account
+				77 button (collapsed) Resources, Secondary Actions: Expand
+				78 container
+					79 button Market Insights
+					80 button Market Analysis
+					81 button Trading News
+					82 button Economic Calendar
+					83 button Profit Calculator
+					84 button TradingView
+					85 button Margin Calculator
+					86 button Trading Glossary
+					87 button Beginner Tutorial
+				88 button (collapsed) Supports, Secondary Actions: Expand
+				89 container
+					90 button Help Center
+					91 button FAQs
+					92 button Feedback
+				93 button (collapsed) Company, Secondary Actions: Expand
+				94 container
+					95 button About Us
+					96 button Trade W Awards
+					97 button Company Updates
+					98 button Careers
+					99 button Contact Us
+					100 button Legal Statement
+					101 button AML Policy
+					102 button Privacy Policy
+					103 button Partnership
+			104 container
+				105 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			106 button Facebook
+			107 button Instagram
+			108 button Telegram
+			109 button X
+			110 button YouTube
+			111 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/course

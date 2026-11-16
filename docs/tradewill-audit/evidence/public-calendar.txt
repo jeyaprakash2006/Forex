@@ -1,0 +1,136 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/calendar".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/calendar
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading Economic Calendar, Value: 3
+				9 text Economic Calendar
+			10 text Disclaimer: The views expressed do not represent any position of Trade W, are not intended as recommendations for any trading-related decisions, and are not endorsed by any third-party insiders.
+			11 container
+				12 combo box (collapsed, settable) ID: el-id-1024-81, Secondary Actions: Expand
+				13 text Nov
+			14 text Nov
+			15 container
+				16 text Sun 1
+			17 container
+				18 text Mon 2
+			19 container
+				20 text Tue 3
+			21 container
+				22 text Wed 4
+			23 container
+				24 text Thu 5
+			25 container
+				26 text Fri 6
+			27 container
+				28 text Sat 7
+			29 container
+				30 text Sun 8
+			31 container
+				32 text Mon 9
+			33 container
+				34 text Tue 10
+			35 container
+				36 text Wed 11
+			37 container
+				38 text Thu 12
+			39 container
+				40 text Fri 13
+			41 container
+				42 text Sat 14
+			43 container
+				44 text Sun 15
+			45 container
+				46 text Mon 16
+			47 container
+				48 text Tue 17
+			49 container
+				50 text Wed 18
+			51 container
+				52 text Thu 19
+			53 container
+				54 text Fri 20
+			55 container
+				56 text Sat 21
+			57 container
+				58 text Sun 22
+			59 container
+				60 text Mon 23
+			61 container
+				62 text Tue 24
+			63 container
+				64 text Wed 25
+			65 container
+				66 text Thu 26
+			67 container
+				68 text Fri 27
+			69 container
+				70 text Sat 28
+			71 container
+				72 text Sun 29
+			73 container
+				74 text Mon 30
+			75 image
+			76 text No records
+			77 container Footer navigation
+				78 button (expanded) Markets, Secondary Actions: Collapse
+				79 button Markets Overview
+				80 button Forex CFDs
+				81 button Stock CFDs
+				82 button Crypto CFDs
+				83 button Indices CFDs
+				84 button Metals CFDs
+				85 button Announcement
+				86 button (collapsed) Platforms, Secondary Actions: Expand
+				87 container
+					88 button Trade W APP
+					89 button Trade W Web Trader
+					90 button MetaTrader 4 Mobile
+					91 button MetaTrader 5 Mobile
+					92 button MetaTrader 5
+					93 button MetaTrader 4
+				94 button (collapsed) Account, Secondary Actions: Expand
+				95 container
+					96 button Classic Account Series
+					97 button Professional Account Series
+					98 button Demo Account
+				99 button (collapsed) Resources, Secondary Actions: Expand
+				100 container
+					101 button Market Insights
+					102 button Market Analysis
+					103 button Trading News
+					104 button Economic Calendar
+					105 button Profit Calculator
+					106 button TradingView
+					107 button Margin Calculator
+					108 button Trading Glossary
+					109 button Beginner Tutorial
+				110 button (collapsed) Supports, Secondary Actions: Expand
+				111 container
+					112 button Help Center
+					113 button FAQs
+					114 button Feedback
+				115 button (collapsed) Company, Secondary Actions: Expand
+				116 container
+					117 button About Us
+					118 button Trade W Awards
+					119 button Company Updates
+					120 button Careers
+					121 button Contact Us
+					122 button Legal Statement
+					123 button AML Policy
+					124 button Privacy Policy
+					125 button Partnership
+			126 container
+				127 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			128 button Facebook
+			129 button Instagram
+			130 button Telegram
+			131 button X
+			132 button YouTube
+			133 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/calendar

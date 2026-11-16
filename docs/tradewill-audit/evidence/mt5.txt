@@ -1,0 +1,36 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/account-center/asset-center/mt5".
+0 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/asset-center/mt5
+	1 container
+		2 container
+			3 container
+				4 image
+				5 image
+				6 button Menu
+			111 heading MT5 Account, Value: 3
+				112 text MT5 Account
+			113 container
+				114 heading Real Account, Value: 2
+					115 text Real Account
+				116 text Standard
+				117 button More
+				118 text $0.00
+				119 button Deposit
+				120 button Withdraw
+				121 button Transfer
+			122 container
+				123 heading Demo Account, Value: 2
+					124 text Demo Account
+				125 text Demo
+				126 text 0.00
+				127 container
+					128 text Equity  0.00
+				129 container
+					130 text Free Margin  0.00
+				131 button Activate
+			132 button How to use MT5?
+			133 container
+				134 text * This Account Is Provided By Our Saint Vincent Service Entity, And You Can Find More Details In Our
+				135 button 《Privacy Policy》
+				136 text .
+
+The focused UI element is 6 button Menu

@@ -1,0 +1,100 @@
+Browser tab: 1, Title: "Trade W Updates | TradeWill", URL: "https://www.tradewill.com/media".
+1 AXWebArea Trade W Updates | TradeWill, URL: tradewill.com/media
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 container
+				9 heading Trade W Updates, Value: 1
+					10 text Trade W Updates
+				11 text Explore our latest news, stories, and social impact.
+			12 tab group All
+				13 tab (selected, settable, boolean) All, Value: 1
+				14 tab (selectable, settable, boolean) Brand Updates, Value: 0
+				15 tab (selectable, settable, boolean) Media Coverage, Value: 0
+				16 tab (selectable, settable, boolean) Brand Awards, Value: 0
+				17 tab (selectable, settable, boolean) User Voices, Value: 0
+				18 tab (selectable, settable, boolean) Corporate Social Responsibility, Value: 0
+			19 link Value: tradewill.com/media/detail/how-financial-markets-are-moving-toward-24-7-trading-and-weekend-access, Description: How Financial Markets Are Moving Toward 24/7 Trading and Weekend Access How Financial Markets Are Moving Toward 24/7 Trading and Weekend Access 27/10/2026 TechBillion
+			20 link Value: tradewill.com/media/detail/the-weekend-trading-trend-why-some-markets-are-moving-to-247-access, Description: The Weekend Trading Trend: Why Some Markets Are Moving to 24/7 Access The Weekend Trading Trend: Why Some Markets Are Moving to 24/7 Access 13/10/2026 Investing
+			21 link Value: tradewill.com/media/detail/cybersecurity-in-trading-the-industrys-quiet-but-growing-concern, Description: Cybersecurity in Trading: The Industry's Quiet but Growing Concern Cybersecurity in Trading: The Industry's Quiet but Growing Concern 01/09/2026 Fxverify
+			22 link Value: tradewill.com/media/detail/trade-w-review-2026-features-platforms-execution-trading-experience, Description: Trade W Review 2026: Features, Platforms, Execution & Trading Experience Trade W Review 2026: Features, Platforms, Execution & Trading Experience 18/08/2026 FastBull
+			23 link Value: tradewill.com/media/detail/trade-w-recognized-with-best-mobile-trading-platform-global-2026-award, Description: Trade W Recognized with ‘Best Mobile Trading Platform Global 2026’ Award by International Business Magazine Trade W Recognized with ‘Best Mobile Trading Platform Global 2026’ Award by International Business Magazine 06/08/2026 IntlBusinessMagazine
+			24 link Value: tradewill.com/media/detail/trade-w-tradewill-secures-uae-cma-license-2026-07-15, Description: Trade W Expands UAE Presence as Tradewill Secures CMA Category 5 License Trade W Expands UAE Presence as Tradewill Secures CMA Category 5 License 17/07/2026 Reuters
+			25 link Value: tradewill.com/media/detail/tradewill-trading-technology-tools, Description: How Trade W Empowers Modern Investors with Technology and Trading Tools How Trade W Empowers Modern Investors with Technology and Trading Tools 14/07/2026 Financefeeds
+			26 link Value: tradewill.com/media/detail/trading-platform-user-readiness, Description: From Market Access to User Readiness: The Next Frontier for Trading Platforms From Market Access to User Readiness: The Next Frontier for Trading Platforms 03/07/2026 Fast Bull
+			27 link Value: tradewill.com/media/detail/tradewill-client-experience-recognition, Description: Putting Traders First: Trade W Earns Global Recognition for Excellence in Client Experience Putting Traders First: Trade W Earns Global Recognition for Excellence in Client Experience 02/07/2026 WorldBusinessOutlook
+			28 link Value: tradewill.com/media/detail/how-to-choose-trading-platform, Description: How to Choose the Right Trading Platform: 7 Expert Tips How to Choose the Right Trading Platform: 7 Expert Tips 30/06/2026 Finance Magnates
+			29 link Value: tradewill.com/media/detail/brokersview-customer-experience-award, Description: Trade W Recognized by BrokersView with the ‘Best Customer Experience in Fintech 2026’ Award Trade W Recognized by BrokersView with the ‘Best Customer Experience in Fintech 2026’ Award 02/06/2026 BrokersView
+			30 link Value: tradewill.com/media/detail/multi-asset-trading-platforms, Description: Forex and Crypto Trading: How Multi-Asset Platforms Are Shaping Modern Markets Forex and Crypto Trading: How Multi-Asset Platforms Are Shaping Modern Markets 21/05/2026 ZeroHedge
+			31 content list
+				32 container page 1
+					33 text 1
+				34 container page 2
+					35 text 2
+				36 container page 3
+					37 text 3
+				38 container page 4
+					39 text 4
+			40 button Go to next page
+			41 container Footer navigation
+				42 button (expanded) Markets, Secondary Actions: Collapse
+				43 button Markets Overview
+				44 button Forex CFDs
+				45 button Stock CFDs
+				46 button Crypto CFDs
+				47 button Indices CFDs
+				48 button Metals CFDs
+				49 button Announcement
+				50 button (collapsed) Platforms, Secondary Actions: Expand
+				51 container
+					52 button Trade W APP
+					53 button Trade W Web Trader
+					54 button MetaTrader 4 Mobile
+					55 button MetaTrader 5 Mobile
+					56 button MetaTrader 5
+					57 button MetaTrader 4
+				58 button (collapsed) Account, Secondary Actions: Expand
+				59 container
+					60 button Classic Account Series
+					61 button Professional Account Series
+					62 button Demo Account
+				63 button (collapsed) Resources, Secondary Actions: Expand
+				64 container
+					65 button Market Insights
+					66 button Market Analysis
+					67 button Trading News
+					68 button Economic Calendar
+					69 button Profit Calculator
+					70 button TradingView
+					71 button Margin Calculator
+					72 button Trading Glossary
+					73 button Beginner Tutorial
+				74 button (collapsed) Supports, Secondary Actions: Expand
+				75 container
+					76 button Help Center
+					77 button FAQs
+					78 button Feedback
+				79 button (collapsed) Company, Secondary Actions: Expand
+				80 container
+					81 button About Us
+					82 button Trade W Awards
+					83 button Company Updates
+					84 button Careers
+					85 button Contact Us
+					86 button Legal Statement
+					87 button AML Policy
+					88 button Privacy Policy
+					89 button Partnership
+			90 container
+				91 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			92 button Facebook
+			93 button Instagram
+			94 button Telegram
+			95 button X
+			96 button YouTube
+			97 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Trade W Updates | TradeWill, URL: tradewill.com/media

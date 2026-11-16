@@ -1,0 +1,70 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/account-center/customer/anti-fraud-verification".
+0 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/customer/anti-fraud-verification
+	1 container
+		2 container
+			3 container
+				4 image
+				5 image
+				6 button Menu
+			136 heading Customer Service, Value: 3
+				137 text Customer Service
+			138 menu bar
+				139 Contact Us
+				140 Feedback
+				141 Official Verification
+			142 heading Official Verification Channel, Value: 3
+				143 text Official Verification Channel
+			144 text Enter WhatsApp number, website, or social media account to check
+			145 text field (settable) el-id-1024-43
+			146 button Check Now
+			147 heading Instructions, Value: 3
+				148 text Instructions
+			149 text To protect your funds, please verify whether the person contacting you or the URL you are visiting belongs to an official Trade W channel. Note: Official staff will never ask for your account password, private key, or OTP.
+		91 container
+			92 container
+				93 image logo
+				94 text Hello!
+We are here to help you!
+				95 heading Frequently Asked Questions More, Value: 6
+					96 text Frequently Asked Questions
+					97 text More
+				98 text What is Trade W and How Does it Work?
+				99 text Is Trade W a Regulated Broker?
+				100 text Does Trade W Provide a Demo Account?
+				101 text What Trading Platforms does Trade W Support?
+				102 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			103 container
+				104 button Customer Support
+				105 text 2
+			106 container chatroom
+				107 container
+					108 heading AI Assistant-W, Value: 6
+						109 text AI Assistant-W
+					110 image
+				111 text 11-15 01:42
+				112 text AI Assistant-W
+				113 container
+					114 text Hi there! 👋 I'm W. How can I help you with your trading account?
+				115 container
+					116 text Guess what you want to ask?
+					117 image
+					118 text How can I earn points and redeem exciting rewards?
+					119 text 24604
+					120 button Ask
+					121 text How do I reset my demo balance?
+					122 text 13640
+					123 button Ask
+					124 text How does the Invite Friends program work?
+					125 text 7715
+					126 button Ask
+				127 container
+					128 button Customer Service
+						129 image
+						130 text Customer Service
+					131 container
+						132 text Please enter
+		133 container
+			134 image conversation-badge-icon
+			135 text 2
+
+The focused UI element is 141 Official Verification

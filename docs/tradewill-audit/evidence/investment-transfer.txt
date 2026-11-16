@@ -1,0 +1,70 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/account-center/internal-transfer?activeName=1".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/internal-transfer?activeName=1
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			55 text Account
+			56 heading Transfer (Internal Account), Value: 3
+				57 text Transfer  (Internal Account)
+			58 container
+				59 text Select an Account
+				60 button
+			61 text Select an Account
+			62 text Amount
+			63 container
+				64 text $
+				65 stepper (settable, integer) Value: 0, ID: el-id-1024-45
+				66 text All
+			67 button (disabled) Confirm
+				68 text Confirm
+		10 container
+			11 container
+				12 image logo
+				13 text Hello!
+We are here to help you!
+				14 heading Frequently Asked Questions More, Value: 6
+					15 text Frequently Asked Questions
+					16 text More
+				17 text What is Trade W and How Does it Work?
+				18 text Is Trade W a Regulated Broker?
+				19 text Does Trade W Provide a Demo Account?
+				20 text What Trading Platforms does Trade W Support?
+				21 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			22 container
+				23 button Customer Support
+				24 text 2
+			25 container chatroom
+				26 container
+					27 heading AI Assistant-W, Value: 6
+						28 text AI Assistant-W
+					29 image
+				30 text 11-15 01:42
+				31 text AI Assistant-W
+				32 container
+					33 text Hi there! 👋 I'm W. How can I help you with your trading account?
+				34 container
+					35 text Guess what you want to ask?
+					36 image
+					37 text How can I earn points and redeem exciting rewards?
+					38 text 24604
+					39 button Ask
+					40 text How do I reset my demo balance?
+					41 text 13640
+					42 button Ask
+					43 text How does the Invite Friends program work?
+					44 text 7715
+					45 button Ask
+				46 container
+					47 button Customer Service
+						48 image
+						49 text Customer Service
+					50 container
+						51 text Please enter
+		52 container
+			53 image conversation-badge-icon
+			54 text 2
+
+The focused UI element is 1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/internal-transfer?activeName=1

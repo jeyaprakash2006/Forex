@@ -1,0 +1,95 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/cryptocurrency".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/cryptocurrency
+	2 container
+		3 container
+			4 image
+			5 button Menu
+		6 heading Cryptocurrency CFDs, Value: 3
+			7 text Cryptocurrency CFDs
+		8 text Trade popular cryptocurrencies including Bitcoin, Ethereum, and Litecoin
+		9 button Start Trading
+		10 button Try Free Demo
+		11 heading What is Cryptocurrencies?, Value: 4
+			12 text What is Cryptocurrencies?
+		13 text Trade cryptocurrency CFDs and speculate on the price movements of Bitcoin, Ethereum and other cryptocurrencies without owning the underlying assets. Their value isn't tied to physical assets or government regulation but fluctuates based on market supply and demand. This makes cryptocurrency prices highly volatile, offering both excitement and risk for investors.
+		14 text We aim to provide excellent trading experience to help traders succeed
+		15 content list
+			16 container
+				17 AXListMarker • 
+				18 text Access popular crypto like Bitcoin, Ethereum, Dogecoin, and other crypto
+			19 container
+				20 AXListMarker • 
+				21 text Competitive spreads
+			22 container
+				23 AXListMarker • 
+				24 text Instant Deposit. Fast Withdrawal in 30 minutes.
+			25 container
+				26 AXListMarker • 
+				27 text 0.04s Average order execution speed
+		28 button Start Trading
+		29 heading Why Trade Crypto with Trade W?, Value: 4
+			30 text Why Trade Crypto with Trade W?
+		31 heading Trade in 3 Simple Steps, Value: 6
+			32 text Trade in 3 Simple Steps
+		33 text Smarter trading starts here! Join a global community of traders who choose Trade W for efficient trading. Sign Up Open an account in 2 minutes Deposit Deposit using your preferred funding method to activate your account Trade Trade over 100+ financial instruments worldwide
+		34 button Start Trading
+		35 button Try Free Demo
+		36 container Footer navigation
+			37 button (expanded) Markets, Secondary Actions: Collapse
+			38 button Markets Overview
+			39 button Forex CFDs
+			40 button Stock CFDs
+			41 button Crypto CFDs
+			42 button Indices CFDs
+			43 button Metals CFDs
+			44 button Announcement
+			45 button (collapsed) Platforms, Secondary Actions: Expand
+			46 container
+				47 button Trade W APP
+				48 button Trade W Web Trader
+				49 button MetaTrader 4 Mobile
+				50 button MetaTrader 5 Mobile
+				51 button MetaTrader 5
+				52 button MetaTrader 4
+			53 button (collapsed) Account, Secondary Actions: Expand
+			54 container
+				55 button Classic Account Series
+				56 button Professional Account Series
+				57 button Demo Account
+			58 button (collapsed) Resources, Secondary Actions: Expand
+			59 container
+				60 button Market Insights
+				61 button Market Analysis
+				62 button Trading News
+				63 button Economic Calendar
+				64 button Profit Calculator
+				65 button TradingView
+				66 button Margin Calculator
+				67 button Trading Glossary
+				68 button Beginner Tutorial
+			69 button (collapsed) Supports, Secondary Actions: Expand
+			70 container
+				71 button Help Center
+				72 button FAQs
+				73 button Feedback
+			74 button (collapsed) Company, Secondary Actions: Expand
+			75 container
+				76 button About Us
+				77 button Trade W Awards
+				78 button Company Updates
+				79 button Careers
+				80 button Contact Us
+				81 button Legal Statement
+				82 button AML Policy
+				83 button Privacy Policy
+				84 button Partnership
+		85 container
+			86 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+		87 button Facebook
+		88 button Instagram
+		89 button Telegram
+		90 button X
+		91 button YouTube
+		92 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/cryptocurrency

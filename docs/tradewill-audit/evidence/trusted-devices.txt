@@ -1,0 +1,137 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/account-center/safety".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/safety
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading Settings, Value: 3
+				9 text Settings
+			10 heading Personal Information, Value: 6
+				11 text Personal Information
+			12 container
+				13 container Profile Picture
+					14 text Profile Picture
+				15 container Choose File: No file chosen 1711448436727
+					16 button Choose File
+					17 image 1711448436727
+			18 container
+				19 container Nickname
+					20 text Nickname
+				21 container LEMjqCcV
+					22 text LEMjqCcV
+			23 container
+				24 container Gender
+					25 text Gender
+				26 container Not set
+					27 text Not set
+			28 container
+				29 container Age
+					30 text Age
+				31 container Not set
+					32 text Not set
+			33 heading Accounts and Security, Value: 6
+				34 text Accounts and Security
+			35 container
+				36 container Login account
+					37 text Login account
+				38 container r.je***@gmail.com
+					39 text r.je***@gmail.com
+			40 container
+				41 container Login Password
+					42 text Login Password
+				43 container ******
+					44 text ******
+			45 container
+				46 container Security Code
+					47 text Security Code
+				48 container Unbind
+					49 container
+						50 image
+						51 text Unbind
+			52 container
+				53 container Phone number
+					54 text Phone number
+				55 container Not bound
+					56 container
+						57 image
+						58 text Not bound
+			59 container
+				60 container Email
+					61 text Email
+				62 container r.je***@gmail.com
+					63 container
+						64 image
+						65 text r.je***@gmail.com
+			66 heading Third-party account authorization, Value: 6
+				67 text Third-party account authorization
+			68 container
+				69 container Google
+					70 text Google
+				71 container Bind successfully
+					72 image
+					73 text Bind successfully
+			74 container
+				75 container Facebook
+					76 text Facebook
+				77 container Unbind
+					78 container facebook
+						79 image
+						80 text Unbind
+			81 heading Account Security and Deletion, Value: 6
+				82 text Account Security and Deletion
+			83 container
+				84 container Trust Device Management
+					85 text Trust Device Management
+			86 container
+				87 container Delete account, this operation is irreversible.
+					88 text Delete account, this operation is irreversible.
+		89 container
+			90 container
+				91 image logo
+				92 text Hello!
+We are here to help you!
+				93 heading Frequently Asked Questions More, Value: 6
+					94 text Frequently Asked Questions
+					95 text More
+				96 text What is Trade W and How Does it Work?
+				97 text Is Trade W a Regulated Broker?
+				98 text Does Trade W Provide a Demo Account?
+				99 text What Trading Platforms does Trade W Support?
+				100 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			101 container
+				102 button Customer Support
+				103 text 2
+			104 container chatroom
+				105 container
+					106 heading AI Assistant-W, Value: 6
+						107 text AI Assistant-W
+					108 image
+				109 text 11-15 01:42
+				110 text AI Assistant-W
+				111 container
+					112 text Hi there! 👋 I'm W. How can I help you with your trading account?
+				113 container
+					114 text Guess what you want to ask?
+					115 image
+					116 text How can I earn points and redeem exciting rewards?
+					117 text 24604
+					118 button Ask
+					119 text How do I reset my demo balance?
+					120 text 13640
+					121 button Ask
+					122 text How does the Invite Friends program work?
+					123 text 7715
+					124 button Ask
+				125 container
+					126 button Customer Service
+						127 image
+						128 text Customer Service
+					129 container
+						130 text Please enter
+		131 container
+			132 image conversation-badge-icon
+			133 text 2
+
+The focused UI element is 1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/safety

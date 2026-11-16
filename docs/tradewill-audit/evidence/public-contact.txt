@@ -1,0 +1,122 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/contact".
+1 AXWebArea Contact us | Customer Service and Online Assistance | Trade W, URL: tradewill.com/contact
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading We're available 24/7 to assist you, Value: 3
+				9 text We're available 24/7 to assist you
+			10 button Start Live Chat
+			11 heading General Inquiries, Value: 4
+				12 text General Inquiries
+			13 content list
+				14 container
+					15 heading Help Center, Value: 6
+						16 text Help Center
+					17 text Find detailed information about trading in the Trade W Help Center
+					18 image
+				19 container
+					20 heading Email Us, Value: 6
+						21 text Email Us
+					22 text Send your inquiries to  support@trade-will.com  and we'll respond within 24 hours.
+					23 image
+				24 container
+					25 heading Live Chat, Value: 6
+						26 text Live Chat
+					27 text Need help now? Get real time assistance via our Live Chat feature.
+					28 image
+				29 container
+					30 heading Give Us a Call, Value: 6
+						31 text Give Us a Call
+					32 text Have question? Our team is just a call away and ready to assist you.
+					33 image
+			34 heading Have any questions? Let's Get In Touch!, Value: 4
+				35 text Have any questions? Let's Get In Touch!
+			36 container
+				112 text Name
+				37 text field (settable) Name, ID: el-id-1024-10
+				113 container el-id-1024-1
+					114 text * Phone
+				38 text field (settable) *Phone, ID: el-id-1024-11
+				115 container el-id-1024-2
+					116 text * Email
+				39 text field (settable) *Email, ID: el-id-1024-12
+				117 text Country
+				40 container
+					41 combo box (collapsed, settable) Country, ID: el-id-1024-14, Secondary Actions: Expand
+					42 text Please Select Country
+				118 container el-id-1024-6
+					119 text * Message
+				43 container
+					44 text entry area (settable) *Message, ID: el-id-1024-15
+					45 text 0 / 100
+				46 button Submit
+			47 heading Office Location, Value: 5
+				48 text Office Location
+			49 heading Address, Value: 6
+				50 text Address
+			51 text Room 3, Attic Suites, 3rd Floor, Oliver Maradan Building, Victoria, Mahe, Seychelles
+			52 heading Contact, Value: 6
+				53 text Contact
+			54 text +248 4224249
+			55 container Footer navigation
+				56 button (expanded) Markets, Secondary Actions: Collapse
+				57 button Markets Overview
+				58 button Forex CFDs
+				59 button Stock CFDs
+				60 button Crypto CFDs
+				61 button Indices CFDs
+				62 button Metals CFDs
+				63 button Announcement
+				64 button (collapsed) Platforms, Secondary Actions: Expand
+				65 container
+					66 button Trade W APP
+					67 button Trade W Web Trader
+					68 button MetaTrader 4 Mobile
+					69 button MetaTrader 5 Mobile
+					70 button MetaTrader 5
+					71 button MetaTrader 4
+				72 button (collapsed) Account, Secondary Actions: Expand
+				73 container
+					74 button Classic Account Series
+					75 button Professional Account Series
+					76 button Demo Account
+				77 button (collapsed) Resources, Secondary Actions: Expand
+				78 container
+					79 button Market Insights
+					80 button Market Analysis
+					81 button Trading News
+					82 button Economic Calendar
+					83 button Profit Calculator
+					84 button TradingView
+					85 button Margin Calculator
+					86 button Trading Glossary
+					87 button Beginner Tutorial
+				88 button (collapsed) Supports, Secondary Actions: Expand
+				89 container
+					90 button Help Center
+					91 button FAQs
+					92 button Feedback
+				93 button (collapsed) Company, Secondary Actions: Expand
+				94 container
+					95 button About Us
+					96 button Trade W Awards
+					97 button Company Updates
+					98 button Careers
+					99 button Contact Us
+					100 button Legal Statement
+					101 button AML Policy
+					102 button Privacy Policy
+					103 button Partnership
+			104 container
+				105 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			106 button Facebook
+			107 button Instagram
+			108 button Telegram
+			109 button X
+			110 button YouTube
+			111 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Contact us | Customer Service and Online Assistance | Trade W, URL: tradewill.com/contact

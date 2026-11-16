@@ -1,0 +1,87 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/legal-notices".
+1 AXWebArea Your Trusted Financial Trading Platform -Tradewill Legal Notices, URL: tradewill.com/legal-notices
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading Legal Statement, Value: 3
+				9 text Legal Statement
+			10 text You should read, understand and accept all the legal information before opening an account Tradewill Global Limited
+			11 content list
+				12 link Description: Best Execution Policy, Value: tradewill.com/legal/1BestExecutionPolicy.pdf
+				13 link Description: Client Service Agreement, Value: tradewill.com/legal/2ClientServiceAgreement.pdf
+				14 link Description: Complaints Handling Policy, Value: tradewill.com/legal/Tradewill%20Global%20Ltd_Annexure%205_Complaint%20Handling%20Policy_Final_Jul25_final.pdf?v=1.0.0
+				15 link Description: Conflict of Interest Policy, Value: tradewill.com/legal/4ConflictofInterestPolicy.pdf?v=1.0.0
+				16 link Description: Privacy Policy Statement, Value: tradewill.com/legal/5PrivacyPolicyStatement.pdf?v=1.0.0
+				17 link Description: Product Specification, Value: tradewill.com/legal/6ProductSpecification.pdf
+				18 link Description: Risk Disclosure Policy, Value: tradewill.com/legal/7RiskDisclosurePolicy.pdf
+			19 text Tradewill Global LLC
+			20 content list
+				21 link Description: Best Execution Policy, Value: tradewill.com/legal/BestExecutionPolicy.pdf
+				22 link Description: Client Service Agreement, Value: tradewill.com/legal/ClientServiceAgreement.pdf
+				23 link Description: Complaints Handling Policy, Value: tradewill.com/legal/Handling.pdf
+				24 link Description: Conflict of Interest Policy, Value: tradewill.com/legal/ConflictofInterestPolicy.pdf
+				25 link Description: Privacy Policy Statement, Value: tradewill.com/legal/PrivacyPolicyStatement.pdf
+				26 link Description: Product Specification, Value: tradewill.com/legal/Specification.pdf
+				27 link Description: Risk Disclosure Policy, Value: tradewill.com/legal/Risk.pdf
+			28 container Footer navigation
+				29 button (expanded) Markets, Secondary Actions: Collapse
+				30 button Markets Overview
+				31 button Forex CFDs
+				32 button Stock CFDs
+				33 button Crypto CFDs
+				34 button Indices CFDs
+				35 button Metals CFDs
+				36 button Announcement
+				37 button (collapsed) Platforms, Secondary Actions: Expand
+				38 container
+					39 button Trade W APP
+					40 button Trade W Web Trader
+					41 button MetaTrader 4 Mobile
+					42 button MetaTrader 5 Mobile
+					43 button MetaTrader 5
+					44 button MetaTrader 4
+				45 button (collapsed) Account, Secondary Actions: Expand
+				46 container
+					47 button Classic Account Series
+					48 button Professional Account Series
+					49 button Demo Account
+				50 button (collapsed) Resources, Secondary Actions: Expand
+				51 container
+					52 button Market Insights
+					53 button Market Analysis
+					54 button Trading News
+					55 button Economic Calendar
+					56 button Profit Calculator
+					57 button TradingView
+					58 button Margin Calculator
+					59 button Trading Glossary
+					60 button Beginner Tutorial
+				61 button (collapsed) Supports, Secondary Actions: Expand
+				62 container
+					63 button Help Center
+					64 button FAQs
+					65 button Feedback
+				66 button (collapsed) Company, Secondary Actions: Expand
+				67 container
+					68 button About Us
+					69 button Trade W Awards
+					70 button Company Updates
+					71 button Careers
+					72 button Contact Us
+					73 button Legal Statement
+					74 button AML Policy
+					75 button Privacy Policy
+					76 button Partnership
+			77 container
+				78 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			79 button Facebook
+			80 button Instagram
+			81 button Telegram
+			82 button X
+			83 button YouTube
+			84 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Your Trusted Financial Trading Platform -Tradewill Legal Notices, URL: tradewill.com/legal-notices

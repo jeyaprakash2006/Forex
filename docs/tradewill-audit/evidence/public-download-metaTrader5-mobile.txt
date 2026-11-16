@@ -1,0 +1,110 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/download-metaTrader5-mobile".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/download-metaTrader5-mobile
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading MetaTrader 5 (MT5) Mobile Application, Value: 3
+				9 text MetaTrader 5 (MT5) Mobile Application
+			10 text Trade directly from your fingertips using the most renowned trading platform.
+			11 container
+				12 button App Store
+					13 link Description: App Store, Value: download.mql5.com/cdn/mobile/mt5/ios?server=TradewillGlobal-Server
+				14 button Google Play
+					15 link Description: Google Play, Value: download.mql5.com/cdn/mobile/mt5/android?server=TradewillGlobal-Server
+				16 button Android APK
+					17 link Description: Android APK, Value: reg.tradewill.xyz/apks/metatrader5.apk
+			18 container
+				19 heading Trade On the Go: MT5 Mobile, Value: 6
+					20 text Trade On the Go: MT5 Mobile
+				21 text MetaTrader 5 offers powerful mobile applications for iOS and Android, delivering a trading experience on par with the desktop terminal.
+			22 container
+				23 heading Seamless Transactions at Your Fingertips, Value: 6
+					24 text Seamless Transactions at Your Fingertips
+				25 text MetaTrader 5 simplifies trading by offering a user-friendly mobile application for iOS and Android devices.
+			26 container
+				27 heading Enhanced Timeframes, Value: 6
+					28 text Enhanced Timeframes
+				29 text MT5 introduces enhanced timeframes and market depth features, offering deeper insights and flexibility in analyzing price movements.
+			30 container
+				31 heading Improved User Interface, Value: 6
+					32 text Improved User Interface
+				33 text MT5 boasts an intuitive user interface with enhanced customization options, allowing traders to personalize their trading environment according to their preferences.
+			34 heading Get Started with Your MT5 Account at Trade W !, Value: 3
+				35 text Get Started with Your MT5 Account at Trade W !
+			36 content list
+				37 container
+					38 heading Open Account, Value: 6
+						39 text Open Account
+					40 text Start by clicking on the “Open an Account” option. Sign up and complete the verification process to set up your account.
+				41 container
+					42 heading Activate Account, Value: 6
+						43 text Activate Account
+					44 text Login to “Account Center”, click “Assets” and then select “MT5 Account”. Deposit to activate your real account and receive your MT5 account number.
+				45 container
+					46 heading Install MT5, Value: 6
+						47 text Install MT5
+					48 text Install the MT5 platform on your favorite device, log in with your account details, and start trading your favorite instrument!
+			49 button Start Trading
+			50 button Try Free Demo
+			51 container Footer navigation
+				52 button (expanded) Markets, Secondary Actions: Collapse
+				53 button Markets Overview
+				54 button Forex CFDs
+				55 button Stock CFDs
+				56 button Crypto CFDs
+				57 button Indices CFDs
+				58 button Metals CFDs
+				59 button Announcement
+				60 button (collapsed) Platforms, Secondary Actions: Expand
+				61 container
+					62 button Trade W APP
+					63 button Trade W Web Trader
+					64 button MetaTrader 4 Mobile
+					65 button MetaTrader 5 Mobile
+					66 button MetaTrader 5
+					67 button MetaTrader 4
+				68 button (collapsed) Account, Secondary Actions: Expand
+				69 container
+					70 button Classic Account Series
+					71 button Professional Account Series
+					72 button Demo Account
+				73 button (collapsed) Resources, Secondary Actions: Expand
+				74 container
+					75 button Market Insights
+					76 button Market Analysis
+					77 button Trading News
+					78 button Economic Calendar
+					79 button Profit Calculator
+					80 button TradingView
+					81 button Margin Calculator
+					82 button Trading Glossary
+					83 button Beginner Tutorial
+				84 button (collapsed) Supports, Secondary Actions: Expand
+				85 container
+					86 button Help Center
+					87 button FAQs
+					88 button Feedback
+				89 button (collapsed) Company, Secondary Actions: Expand
+				90 container
+					91 button About Us
+					92 button Trade W Awards
+					93 button Company Updates
+					94 button Careers
+					95 button Contact Us
+					96 button Legal Statement
+					97 button AML Policy
+					98 button Privacy Policy
+					99 button Partnership
+			100 container
+				101 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			102 button Facebook
+			103 button Instagram
+			104 button Telegram
+			105 button X
+			106 button YouTube
+			107 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/download-metaTrader5-mobile

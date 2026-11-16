@@ -1,0 +1,158 @@
+Browser tab: 1, Title: "Careers | TradeWill", URL: "https://www.tradewill.com/careers".
+1 AXWebArea Careers | TradeWill, URL: tradewill.com/careers
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 container
+				9 heading Confidence in Markets, Excellence in People, Value: 1
+					10 text Confidence in Markets, Excellence in People
+				11 text CAREERS AT TRADE W
+			12 container recruit-values
+				13 heading Shared Values Enable Consistent Success, Value: 2
+					14 text Shared Values Enable Consistent Success
+				15 text Our decisions are guided by clear principles that shape how we work, and collaborate, ensuring consistency and clarity in execution.
+				16 content list
+					17 button (expanded) Secondary Actions: Collapse, Customer First The customer is at the center of every decision we make. From system design to daily execution, we focus on clarity, precision, and delivering technology that users can rely on across global markets.
+						18 text Customer First
+						19 text The customer is at the center of every decision we make. From system design to daily execution, we focus on clarity, precision, and delivering technology that users can rely on across global markets.
+					20 button (collapsed) Secondary Actions: Expand, Teamwork Strong outcomes are built together. We foster open dialogue, mutual respect, and shared accountability across teams, regions, and disciplines, knowing that collaboration strengthens both ideas and execution.
+						21 text Teamwork
+						22 text Strong outcomes are built together. We foster open dialogue, mutual respect, and shared accountability across teams, regions, and disciplines, knowing that collaboration strengthens both ideas and execution.
+					23 button (collapsed) Secondary Actions: Expand, Embrace Change Markets move quickly, and so do we. We embrace change as an opportunity to evolve, applying forward-looking technology and insight to create reliable, scalable trading experiences worldwide.
+						24 text Embrace Change
+						25 text Markets move quickly, and so do we. We embrace change as an opportunity to evolve, applying forward-looking technology and insight to create reliable, scalable trading experiences worldwide.
+					26 button (collapsed) Secondary Actions: Expand, Integrity Trust is fundamental to everything we do. We uphold the highest standards of transparency, fairness, and professionalism, ensuring our actions consistently earn confidence from users, partners, and colleagues.
+						27 text Integrity
+						28 text Trust is fundamental to everything we do. We uphold the highest standards of transparency, fairness, and professionalism, ensuring our actions consistently earn confidence from users, partners, and colleagues.
+					29 button (collapsed) Secondary Actions: Expand, Passion For the betterment of our work, we bring energy, curiosity, and dedication to everything we do. Our team approaches challenges with resilience and enthusiasm, continuously growing, and contributing to shared success.
+						30 text Passion
+						31 text For the betterment of our work, we bring energy, curiosity, and dedication to everything we do. Our team approaches challenges with resilience and enthusiasm, continuously growing, and contributing to shared success.
+					32 button (collapsed) Secondary Actions: Expand, Dedication Excellence requires consistency. We are committed to continuous improvement, disciplined execution, and long term thinking that supports sustainable growth and lasting impact.
+						33 text Dedication
+						34 text Excellence requires consistency. We are committed to continuous improvement, disciplined execution, and long term thinking that supports sustainable growth and lasting impact.
+				35 container
+					36 image Customer First
+					37 image Teamwork
+					38 image Embrace Change
+					39 image Integrity
+					40 image Passion
+					41 image Dedication
+			42 heading Values in Action, Growing Together, Value: 2
+				43 text Values in Action, Growing Together
+			44 text Guided by our values, everyone contributes to the industry and society to the best of their ability, and continues to grow through practice - making both work and personal growth more meaningful.
+			45 container
+				46 image action-1
+				47 heading Putting People First, Guided by Integrity, Value: 3
+					48 text Putting People First, Guided by Integrity
+				49 link Description: Learn More, Value: tradewill.com/media/detail/Trade-W-Acts-for-People-and-the-Planet
+				50 image action-2
+				51 heading Stronger Together Through Teamwork, Value: 3
+					52 text Stronger Together Through Teamwork
+				53 link Description: Learn More, Value: linkedin.com/posts/tradewill-global-limited_tradew-tradewxwolves-christmas2025-activity-7409633879495639040-YJgM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIHvyYBOuzYauTZTjgzK_qca2B7SS0pSOA
+				54 image action-3
+				55 heading Taking Action with Passion for People and the Planet, Value: 3
+					56 text Taking Action with Passion for People and the Planet
+				57 link Description: Learn More, Value: tradewill.com/media/detail/Trade-W-Acts-for-People-and-the-Planet
+			58 container
+				59 image testimonial-carlotta
+				60 button Go to testimonial 1
+				61 button Go to testimonial 2
+			62 container
+				63 text Trade W is a place where you’re motivated to grow and perform at your best, but what really stands out is the supportive culture and the people around you.
+				64 text Carlotta Branding Supervisor Joined in Dec 2025
+			65 container
+				66 heading Diversity and Inclusion Matter, Value: 2
+					67 text Diversity and Inclusion Matter
+				68 text Trade W welcomes talent and perspectives across key international markets, ensuring that people from diverse backgrounds are seen, respected, and empowered to thrive.
+				69 image diversity-people
+				70 image stats-map
+				71 container
+					72 text 500+ Professionals
+				73 container
+					74 text 12 Offices Globally
+				75 container
+					76 text 20+ Nationalities
+				77 container
+					78 text 5 Continents
+			79 container recruit-jobs
+				80 heading Explore Opportunities, Value: 2
+					81 text Explore Opportunities
+				82 text Discover where your expertise can make a difference within Trade W’s global teams.
+				83 container
+					84 combo box (collapsed, settable) ID: el-id-1024-9, Secondary Actions: Expand
+					85 text Locations
+					86 image
+				153 content list
+					154 link tradewill.com/careers/1
+					155 link tradewill.com/careers/2
+					156 link tradewill.com/careers/3
+					157 link tradewill.com/careers/4
+				158 button View More
+			90 heading 24/7 Multilingual Support, Value: 2
+				91 text 24/7 Multilingual Support
+			92 container
+				93 text Need Help? We're Always Here!
+				94 text Contact us anytime, by phone, live chat, or email.
+			95 link Description: Click to Go, Value: tradewill.com/contact
+			96 container Footer navigation
+				97 button (expanded) Markets, Secondary Actions: Collapse
+				98 button Markets Overview
+				99 button Forex CFDs
+				100 button Stock CFDs
+				101 button Crypto CFDs
+				102 button Indices CFDs
+				103 button Metals CFDs
+				104 button Announcement
+				105 button (collapsed) Platforms, Secondary Actions: Expand
+				106 container
+					107 button Trade W APP
+					108 button Trade W Web Trader
+					109 button MetaTrader 4 Mobile
+					110 button MetaTrader 5 Mobile
+					111 button MetaTrader 5
+					112 button MetaTrader 4
+				113 button (collapsed) Account, Secondary Actions: Expand
+				114 container
+					115 button Classic Account Series
+					116 button Professional Account Series
+					117 button Demo Account
+				118 button (collapsed) Resources, Secondary Actions: Expand
+				119 container
+					120 button Market Insights
+					121 button Market Analysis
+					122 button Trading News
+					123 button Economic Calendar
+					124 button Profit Calculator
+					125 button TradingView
+					126 button Margin Calculator
+					127 button Trading Glossary
+					128 button Beginner Tutorial
+				129 button (collapsed) Supports, Secondary Actions: Expand
+				130 container
+					131 button Help Center
+					132 button FAQs
+					133 button Feedback
+				134 button (collapsed) Company, Secondary Actions: Expand
+				135 container
+					136 button About Us
+					137 button Trade W Awards
+					138 button Company Updates
+					139 button Careers
+					140 button Contact Us
+					141 button Legal Statement
+					142 button AML Policy
+					143 button Privacy Policy
+					144 button Partnership
+			145 container
+				146 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			147 button Facebook
+			148 button Instagram
+			149 button Telegram
+			150 button X
+			151 button YouTube
+			152 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Careers | TradeWill, URL: tradewill.com/careers

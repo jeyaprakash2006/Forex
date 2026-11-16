@@ -1,0 +1,144 @@
+Browser tab: 1, Title: "Tradewill Support FAQ", URL: "https://www.tradewill.com/faq".
+0 AXWebArea Tradewill Support FAQ, URL: tradewill.com/faq
+	1 container
+		2 container
+			3 container
+				4 image
+				5 image
+				6 button Menu
+			7 heading Frequently Asked Questions, Value: 3
+				8 text Frequently Asked Questions
+			9 text Need answers? Find them here...
+			136 button (collapsed) What is Trade W and How Does it Work?, ID: el-collapse-head-0, Secondary Actions: Expand
+				137 text What is Trade W and How Does it Work?
+			138 button (collapsed) Is Trade W a Regulated Broker?, ID: el-collapse-head-1, Secondary Actions: Expand
+				139 text Is Trade W a Regulated Broker?
+			140 button (collapsed) Does Trade W Provide a Demo Account?, ID: el-collapse-head-2, Secondary Actions: Expand
+				141 text Does Trade W Provide a Demo Account?
+			142 button (collapsed) What Trading Platforms does Trade W Support?, ID: el-collapse-head-3, Secondary Actions: Expand
+				143 text What Trading Platforms does Trade W Support?
+			144 button (collapsed) What are The Minimum Spreads and Maximum Leverage Offered by Trade W?, ID: el-collapse-head-4, Secondary Actions: Expand
+				145 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			146 button (collapsed) What Deposit and Withdrawal Methods are Available at Trade W?, ID: el-collapse-head-5, Secondary Actions: Expand
+				147 text What Deposit and Withdrawal Methods are Available at Trade W?
+			148 button (collapsed) Is Trade W Transparent with Their Fees?, ID: el-collapse-head-6, Secondary Actions: Expand
+				149 text Is Trade W Transparent with Their Fees?
+			150 button (collapsed) Is My Money Safe with Trade W?, ID: el-collapse-head-7, Secondary Actions: Expand
+				151 text Is My Money Safe with Trade W?
+			152 button (collapsed) Does Trade W Provide Customer Support to its Users?, ID: el-collapse-head-8, Secondary Actions: Expand
+				153 text Does Trade W Provide Customer Support to its Users?
+			154 container ac_9
+				155 button (expanded) Does Trade W Provide Educational Content?, ID: el-collapse-head-9, Secondary Actions: Collapse
+					156 text Does Trade W Provide Educational Content?
+				157 container Does Trade W Provide Educational Content?, ID: el-collapse-content-9
+					158 text Certainly! Trade W offers a diverse range of educational resources, including a detailed Help Center, interactive In-app Discussions, a Community Chat Room, a Telegram Community Channel, and informative video tutorials on our official YouTube channel, Instagram, and other social media platforms. Our goal is to provide valuable educational content that empowers traders worldwide. Explore our extensive educational offerings at Trade W and boost your trading knowledge.
+					159 text You can visit our social media channels here:
+					160 text YouTube Channel: https://www.youtube.com/@TradeWGlobal
+					161 text Instagram: https://www.instagram.com/trade_w_official/
+					162 text Twitter: https://x.com/tradew_global
+					163 text Facebook: https://www.facebook.com/Tradewglobal
+			34 container Footer navigation
+				35 button (expanded) Markets, Secondary Actions: Collapse
+				36 button Markets Overview
+				37 button Forex CFDs
+				38 button Stock CFDs
+				39 button Crypto CFDs
+				40 button Indices CFDs
+				41 button Metals CFDs
+				42 button Announcement
+				43 button (collapsed) Platforms, Secondary Actions: Expand
+				44 container
+					45 button Trade W APP
+					46 button Trade W Web Trader
+					47 button MetaTrader 4 Mobile
+					48 button MetaTrader 5 Mobile
+					49 button MetaTrader 5
+					50 button MetaTrader 4
+				51 button (collapsed) Account, Secondary Actions: Expand
+				52 container
+					53 button Classic Account Series
+					54 button Professional Account Series
+					55 button Demo Account
+				56 button (collapsed) Resources, Secondary Actions: Expand
+				57 container
+					58 button Market Insights
+					59 button Market Analysis
+					60 button Trading News
+					61 button Economic Calendar
+					62 button Profit Calculator
+					63 button TradingView
+					64 button Margin Calculator
+					65 button Trading Glossary
+					66 button Beginner Tutorial
+				67 button (collapsed) Supports, Secondary Actions: Expand
+				68 container
+					69 button Help Center
+					70 button FAQs
+					71 button Feedback
+				72 button (collapsed) Company, Secondary Actions: Expand
+				73 container
+					74 button About Us
+					75 button Trade W Awards
+					76 button Company Updates
+					77 button Careers
+					78 button Contact Us
+					79 button Legal Statement
+					80 button AML Policy
+					81 button Privacy Policy
+					82 button Partnership
+			83 container
+				84 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			85 button Facebook
+			86 button Instagram
+			87 button Telegram
+			88 button X
+			89 button YouTube
+			90 text © 2016 - 2026 TradeWill.com
+		91 container
+			92 container
+				93 image logo
+				94 text Hello!
+We are here to help you!
+				95 heading Frequently Asked Questions More, Value: 6
+					96 text Frequently Asked Questions
+					97 text More
+				98 text What is Trade W and How Does it Work?
+				99 text Is Trade W a Regulated Broker?
+				100 text Does Trade W Provide a Demo Account?
+				101 text What Trading Platforms does Trade W Support?
+				102 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			103 container
+				104 button Customer Support
+				105 text 2
+			106 container chatroom
+				107 container
+					108 heading AI Assistant-W, Value: 6
+						109 text AI Assistant-W
+					110 image
+				111 text 11-15 01:42
+				112 text AI Assistant-W
+				113 container
+					114 text Hi there! 👋 I'm W. How can I help you with your trading account?
+				115 container
+					116 text Guess what you want to ask?
+					117 image
+					118 text How can I earn points and redeem exciting rewards?
+					119 text 24604
+					120 button Ask
+					121 text How do I reset my demo balance?
+					122 text 13640
+					123 button Ask
+					124 text How does the Invite Friends program work?
+					125 text 7715
+					126 button Ask
+				127 container
+					128 button Customer Service
+						129 image
+						130 text Customer Service
+					131 container
+						132 text Please enter
+		133 container
+			134 image conversation-badge-icon
+			135 text 2
+
+The focused UI element is 155 button (expanded) Does Trade W Provide Educational Content?, ID: el-collapse-head-9, Secondary Actions: Collapse

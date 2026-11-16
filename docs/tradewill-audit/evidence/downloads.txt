@@ -1,0 +1,96 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/account-center/platform".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/platform
+	2 container
+		3 container
+			4 container
+				5 image
+				6 button (collapsed) Markets, Secondary Actions: Expand
+				7 button (collapsed) Platforms, Secondary Actions: Expand
+				8 button (collapsed) Account, Secondary Actions: Expand
+				9 button (collapsed) Resources, Secondary Actions: Expand
+				10 button (collapsed) Company, Secondary Actions: Expand
+				11 link Description: Partnership, Value: tradewill.com/partners
+				12 button Web Trader
+				13 button (collapsed) Description: Messages, Secondary Actions: Expand
+				14 button (collapsed) Description: LEMjqCcV, Secondary Actions: Expand
+				15 button (collapsed) Description: Download App, Secondary Actions: Expand
+				16 button (collapsed) Description: Language, Secondary Actions: Expand
+			17 menu bar
+				18 Overview
+				19 button Assets Multi-Account
+					20 text Assets
+					21 text Multi-Account
+				22 Internal Transfer
+				23 Order
+				24 Verification
+				25 Settings
+				26 Downloads
+				27 Invite Friends
+				28 Task Center
+				29 Customer Service
+			30 heading Start Trading Today, Value: 3
+				31 text Start Trading Today
+			32 text Download the Trade W App, MT4 or MT5 to trade anytime, anywhere.
+			33 container
+				34 heading Trade W App, Value: 6
+					35 text Trade W App
+				36 heading Scan to download, Value: 6
+					37 text Scan to download
+				38 image
+				39 button App Store
+					40 link Description: App Store, Value: apps.apple.com/app/id1617017221
+				41 button Google Play
+					42 link Description: Google Play, Value: tradewill.com/account-center/platform#
+				43 button Android APK
+					44 link Description: Android APK, Value: red.tradewill.trade/apk/TradeWill.apk
+			45 container
+				46 heading MetaTrader 4 Mobile, Value: 6
+					47 text MetaTrader 4 Mobile
+				48 heading Scan to download, Value: 6
+					49 text Scan to download
+				50 image
+				51 text Android
+				52 image
+				53 text iOS
+				54 image
+				55 text iPad
+				56 button App Store
+					57 link Description: App Store, Value: download.mql5.com/cdn/mobile/mt4/ios?server=TradeWillGlobal-Demo,TradeWillGlobal-Live
+				58 button Google Play
+					59 link Description: Google Play, Value: download.mql5.com/cdn/mobile/mt4/android?server=TradeWillGlobal-Demo,TradeWillGlobal-Live
+				60 button Android APK
+					61 link Description: Android APK, Value: reg.tradewill.xyz/apks/metatrader4.apk
+			62 container
+				63 heading MetaTrader 4, Value: 6
+					64 text MetaTrader 4
+				65 button Mac OS
+					66 link Description: Mac OS, Value: download.mql5.com/cdn/web/metaquotes.software.corp/mt4/MetaTrader4.pkg.zip?utm_source=support.metaquotes.net&utm_campaign=download.mt4.macos
+				67 button Windows
+					68 link Description: Windows, Value: download.mql5.com/cdn/web/20156/mt4/tradewillglobal4setup.exe
+			69 container
+				70 heading MetaTrader 5 Mobile, Value: 6
+					71 text MetaTrader 5 Mobile
+				72 heading Scan to download, Value: 6
+					73 text Scan to download
+				74 image
+				75 text Android
+				76 image
+				77 text iOS
+				78 image
+				79 text iPad
+				80 button App Store
+					81 link Description: App Store, Value: download.mql5.com/cdn/mobile/mt5/ios?server=TradewillGlobal-Server
+				82 button Google Play
+					83 link Description: Google Play, Value: download.mql5.com/cdn/mobile/mt5/android?server=TradewillGlobal-Server
+				84 button Android APK
+					85 link Description: Android APK, Value: reg.tradewill.xyz/apks/metatrader5.apk
+			86 container
+				87 heading MetaTrader 5, Value: 6
+					88 text MetaTrader 5
+				89 button Mac OS
+					90 link Description: Mac OS, Value: download.mql5.com/cdn/web/metaquotes.ltd/mt5/MetaTrader5.pkg.zip?utm_source=support.metaquotes.net&utm_campaign=download.mt5.macos
+				91 button Windows
+					92 link Description: Windows, Value: download.mql5.com/cdn/web/tradewill.global.limited/mt5/tradewillglobal5setup.exe
+			93 text © 2016 - 2026 TradeWill.com All Rights Reserved
+
+The focused UI element is 26 Downloads

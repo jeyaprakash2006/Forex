@@ -1,0 +1,106 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/marginCalculator".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/marginCalculator
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 container
+				9 heading Margin Calculator, Value: 3
+					10 text Margin Calculator
+				11 container
+					12 text Account Type
+					13 container
+						14 combo box (collapsed, settable) Account Type, ID: el-id-1024-23, Secondary Actions: Expand
+						15 text Select
+					16 text Currency
+					17 container
+						18 combo box (collapsed, settable) Currency, ID: el-id-1024-24, Secondary Actions: Expand
+						19 text EURUSD
+					20 text Currency Type
+					21 container
+						22 combo box (collapsed, settable) Currency Type, ID: el-id-1024-25, Secondary Actions: Expand
+						23 text Select
+					24 text Buy/Sell
+					25 container
+						26 combo box (collapsed, settable) Buy/Sell, ID: el-id-1024-26, Secondary Actions: Expand
+						27 text Buy
+					28 text Lot
+					29 stepper (settable, float) Lot, Value: 0.009999999776482582, Details: 0.01, ID: el-id-1024-27
+					30 button (disabled) Calculate
+						31 text Calculate
+				32 container
+					33 heading Calculation Result, Value: 4
+						34 text Calculation Result
+					35 text Margin -- Spread -- Fee -- *The calculator result is the budget value. Please refer to the actual order for the specific margin.
+				36 heading FAQ, Value: 3
+					37 text FAQ
+				38 container ac_0
+					39 button (expanded) What is the Margin Calculator?, ID: el-collapse-head-16, Secondary Actions: Collapse
+						40 text What is the Margin Calculator?
+					41 container What is the Margin Calculator?, ID: el-collapse-content-16
+						42 text The Trade W Margin Calculator is a practical tool designed to help you determine the amount of margin required for a particular trade or position. Margin refers to the required capital or balance necessary to open and maintain a trading position. Additionally, it provides information on the spread and commission fees. It simplifies the process of planning your trades, helping you make well-informed decisions and optimize your trading strategy across various financial instruments.
+				43 button (collapsed) How do I use the Margin Calculator?, ID: el-collapse-head-17, Secondary Actions: Expand
+					44 text How do I use the Margin Calculator?
+				45 button (collapsed) What are the associated fees displayed on the Margin Calculator?, ID: el-collapse-head-18, Secondary Actions: Expand
+					46 text What are the associated fees displayed on the Margin Calculator?
+			47 container Footer navigation
+				48 button (expanded) Markets, Secondary Actions: Collapse
+				49 button Markets Overview
+				50 button Forex CFDs
+				51 button Stock CFDs
+				52 button Crypto CFDs
+				53 button Indices CFDs
+				54 button Metals CFDs
+				55 button Announcement
+				56 button (collapsed) Platforms, Secondary Actions: Expand
+				57 container
+					58 button Trade W APP
+					59 button Trade W Web Trader
+					60 button MetaTrader 4 Mobile
+					61 button MetaTrader 5 Mobile
+					62 button MetaTrader 5
+					63 button MetaTrader 4
+				64 button (collapsed) Account, Secondary Actions: Expand
+				65 container
+					66 button Classic Account Series
+					67 button Professional Account Series
+					68 button Demo Account
+				69 button (collapsed) Resources, Secondary Actions: Expand
+				70 container
+					71 button Market Insights
+					72 button Market Analysis
+					73 button Trading News
+					74 button Economic Calendar
+					75 button Profit Calculator
+					76 button TradingView
+					77 button Margin Calculator
+					78 button Trading Glossary
+					79 button Beginner Tutorial
+				80 button (collapsed) Supports, Secondary Actions: Expand
+				81 container
+					82 button Help Center
+					83 button FAQs
+					84 button Feedback
+				85 button (collapsed) Company, Secondary Actions: Expand
+				86 container
+					87 button About Us
+					88 button Trade W Awards
+					89 button Company Updates
+					90 button Careers
+					91 button Contact Us
+					92 button Legal Statement
+					93 button AML Policy
+					94 button Privacy Policy
+					95 button Partnership
+			96 container
+				97 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			98 button Facebook
+			99 button Instagram
+			100 button Telegram
+			101 button X
+			102 button YouTube
+			103 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/marginCalculator

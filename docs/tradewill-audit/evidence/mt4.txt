@@ -1,0 +1,36 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/account-center/asset-center/mt4".
+0 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/asset-center/mt4
+	1 container
+		2 container
+			3 container
+				4 image
+				5 image
+				6 button Menu
+			7 heading MT4 Account, Value: 3
+				8 text MT4 Account
+			9 container
+				10 heading Real Account, Value: 2
+					11 text Real Account
+				12 text Standard
+				13 button More
+				14 text $0.00
+				15 button Deposit
+				16 button Withdraw
+				17 button Transfer
+			18 container
+				19 heading Demo Account, Value: 2
+					20 text Demo Account
+				21 text Demo
+				22 text 0.00
+				23 container
+					24 text Equity  0.00
+				25 container
+					26 text Free Margin  0.00
+				27 button Activate
+			28 button How to use MT4?
+			29 container
+				30 text * This Account Is Provided By Our Saint Vincent Service Entity, And You Can Find More Details In Our
+				31 button 《Privacy Policy》
+				32 text .
+
+The focused UI element is 0 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/asset-center/mt4

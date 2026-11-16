@@ -1,0 +1,119 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/download-TradeWill-app".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/download-TradeWill-app
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading Download Trade W App, Value: 3
+				9 text Download Trade W App
+			10 text Where millions of traders trust, trade, and grow together.
+			11 container
+				12 button App Store
+				13 button Google Play
+				14 button Android APK
+			15 container
+				16 heading 13M+, Value: 5
+					17 text 13M+
+				18 text Downloads Worldwide
+				19 heading 40,000+, Value: 5
+					20 text 40,000+
+				21 text Reviews Across Google and Trustpilot
+				22 heading 5M+, Value: 5
+					23 text 5M+
+				24 text Downloads on Google Play
+				25 heading 4.5★, Value: 5
+					26 text 4.5★
+				27 text Average Rating
+			28 container
+				29 heading Instant Signal Alerts, Value: 6
+					30 text Instant Signal Alerts
+				31 text We will send you real-time trading signal alerts based on market conditions, allowing you to seize investment opportunities.
+			32 container
+				33 heading Chat Room for Communication and Sharing, Value: 6
+					34 text Chat Room for Communication and Sharing
+				35 text In the Trade W APP chat room, you can communicate and share market signals, strategies, and experiences with other traders, promoting mutual learning and growth.
+			36 container
+				37 heading Trading, Depositing, Withdrawing, All-in-One, Value: 6
+					38 text Trading, Depositing, Withdrawing, All-in-One
+				39 text Trade W APP provides all-in-one deposit and withdrawal operations that are simple and convenient, making your fund management more convenient.
+			40 container
+				41 heading Abundant Activities and Rewards, Value: 6
+					42 text Abundant Activities and Rewards
+				43 text We offer a variety of activities and reward mechanisms for active traders. Participating in them can earn you additional benefits and rewards.
+			44 heading Why Choose the Trade W Trading Platform, Value: 3
+				45 text Why Choose the Trade W Trading Platform
+			46 content list
+				47 text 24/7 Customer Support
+				48 text A wide selection of financial instruments
+				49 text Digital currency payments and local payment methods
+				50 text Member accounts with exclusive discounts
+			51 container
+				52 button App Store
+				53 button Google Play
+				54 button Android APK
+			55 heading Trade in 3 Simple Steps, Value: 6
+				56 text Trade in 3 Simple Steps
+			57 text Smarter trading starts here! Join a global community of traders who choose Trade W for efficient trading. Sign Up Open an account in 2 minutes Deposit Deposit using your preferred funding method to activate your account Trade Trade over 100+ financial instruments worldwide
+			58 button Start Trading
+			59 button Try Free Demo
+			60 container Footer navigation
+				61 button (expanded) Markets, Secondary Actions: Collapse
+				62 button Markets Overview
+				63 button Forex CFDs
+				64 button Stock CFDs
+				65 button Crypto CFDs
+				66 button Indices CFDs
+				67 button Metals CFDs
+				68 button Announcement
+				69 button (collapsed) Platforms, Secondary Actions: Expand
+				70 container
+					71 button Trade W APP
+					72 button Trade W Web Trader
+					73 button MetaTrader 4 Mobile
+					74 button MetaTrader 5 Mobile
+					75 button MetaTrader 5
+					76 button MetaTrader 4
+				77 button (collapsed) Account, Secondary Actions: Expand
+				78 container
+					79 button Classic Account Series
+					80 button Professional Account Series
+					81 button Demo Account
+				82 button (collapsed) Resources, Secondary Actions: Expand
+				83 container
+					84 button Market Insights
+					85 button Market Analysis
+					86 button Trading News
+					87 button Economic Calendar
+					88 button Profit Calculator
+					89 button TradingView
+					90 button Margin Calculator
+					91 button Trading Glossary
+					92 button Beginner Tutorial
+				93 button (collapsed) Supports, Secondary Actions: Expand
+				94 container
+					95 button Help Center
+					96 button FAQs
+					97 button Feedback
+				98 button (collapsed) Company, Secondary Actions: Expand
+				99 container
+					100 button About Us
+					101 button Trade W Awards
+					102 button Company Updates
+					103 button Careers
+					104 button Contact Us
+					105 button Legal Statement
+					106 button AML Policy
+					107 button Privacy Policy
+					108 button Partnership
+			109 container
+				110 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			111 button Facebook
+			112 button Instagram
+			113 button Telegram
+			114 button X
+			115 button YouTube
+			116 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/download-TradeWill-app

@@ -1,0 +1,178 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/about".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/about
+	2 container
+		3 container
+			4 image
+			5 button Menu
+		6 container
+			7 heading Step In. Stack Up., Value: 1
+				8 text Step In. Stack Up.
+			9 text At Trade W, we believe real progress in trading is built step by step — through action, discipline, and consistency. ...
+			10 text Where Every Trade Builds Forward. This belief is captured in our philosophy: Step In. Stack Up. "Step In" is the decision to begin. To take the first trade, learn from experience, and actively participate in your growth. "Stack Up" is what follows. The steady accumulation of skills, knowledge, and confidence - where progress compounds over time. This philosophy also defines how Trade W builds its platform: user-first features, seamless experiences, and continuous improvements in usability, designed for every trader.
+			11 button (collapsed) Read More, Secondary Actions: Expand
+			12 button Watch Trade W Brand Film
+		13 text 8 Years
+		14 text Industry Experience
+		15 text 6 Million
+		16 text Active Users
+		17 text 50+ Countries
+		18 text Global Reach
+		19 text 100+
+		20 text Trading Instruments
+		21 text $70 Billion
+		22 text Monthly Trading Volume
+		23 text 13 Million
+		24 text Downloads and Counting
+		25 text Trade W is a leading multi-asset trading platform with over eight years of industry experience, providing global users with secure, convenient, and efficient access to the financial markets. We offer CFD trading across a wide range of asset classes — including forex, cryptocurrencies, stocks, indices, metals, and commodities — through our intuitive app and web platform.
+		26 container
+			27 text Launched in 2018 as the flagship brand of Tradewill Global LLC,  Trade W  was built on a customer-first philosophy and a vision to make trading success more accessible. Today, we continue to grow as a trusted platform, committed to empowering traders worldwide with equal opportunities for success.
+		28 text Excellence in Customer Support
+		29 text 2026
+		30 text World Business Outlook
+		31 text Best Customer Experience
+		32 text 2026
+		33 text Brokersview
+		34 text Best Partner Program
+		35 text 2026
+		36 text Global Brand Awards
+		37 text Most Reliable Broker
+		38 text 2025
+		39 text FinanceFeeds
+		40 text Best Trading Experience
+		41 text 2025
+		42 text FinanceFeeds
+		43 text Best Client Fund Safety Award
+		44 text 2025
+		45 text Global Forex Awards
+		46 text Best Multi-Asset Trading Platform
+		47 text 2025
+		48 text FxDailyInfo
+		49 text Most Trusted Forex Broker
+		50 text 2025
+		51 text FxDailyInfo
+		52 text Excellence in Customer Support
+		53 text 2026
+		54 text World Business Outlook
+		55 text Best Customer Experience
+		56 text 2026
+		57 text Brokersview
+		58 text Best Partner Program
+		59 text 2026
+		60 text Global Brand Awards
+		61 text Most Reliable Broker
+		62 text 2025
+		63 text FinanceFeeds
+		64 text Best Trading Experience
+		65 text 2025
+		66 text FinanceFeeds
+		67 text Best Client Fund Safety Award
+		68 text 2025
+		69 text Global Forex Awards
+		70 text Best Multi-Asset Trading Platform
+		71 text 2025
+		72 text FxDailyInfo
+		73 text Most Trusted Forex Broker
+		74 text 2025
+		75 text FxDailyInfo
+		76 heading Built for Traders, Value: 2
+			77 text Built for Traders
+		78 text Speed and reliability at your fingertips! We deliver stable, best-in-class solutions to support your trading success with 24/7 multilingual support wherever you are.
+		79 content list
+			80 button (expanded) Secondary Actions: Collapse, Multi-Platform Trading Experience Seamless access to trading via MT4, MT5, website, and mobile applications, enabling uninterrupted trading across all devices.
+				81 text Multi-Platform Trading Experience
+				82 text Seamless access to trading via MT4, MT5, website, and mobile applications, enabling uninterrupted trading across all devices.
+			83 button (collapsed) Secondary Actions: Expand, Ultra-Low Latency Execution Powered by an advanced matching engine, we deliver millisecond-level order execution, optimized high-frequency and high-volume trading environments.
+				84 text Ultra-Low Latency Execution
+				85 text Powered by an advanced matching engine, we deliver millisecond-level order execution, optimized high-frequency and high-volume trading environments.
+			86 button (collapsed) Secondary Actions: Expand, Global Regulatory Compliance Licensed by the Seychelles Financial Services Authority (FSA) (License No.: SD111), compliant with international standards in ensuring safety and trust.
+				87 text Global Regulatory Compliance
+				88 text Licensed by the Seychelles Financial Services Authority (FSA) (License No.: SD111), compliant with international standards in ensuring safety and trust.
+			89 button (collapsed) Secondary Actions: Expand, Dedicated Expert Support Dedicated account managers provide personalized support, helping you develop tailored strategies and receive expert trading guidance.
+				90 text Dedicated Expert Support
+				91 text Dedicated account managers provide personalized support, helping you develop tailored strategies and receive expert trading guidance.
+			92 button (collapsed) Secondary Actions: Expand, Fast and Convenient Fund Transfers Deposits in as little as 60 seconds and efficient 20-minute withdrawals, ensuring fast and secure fund transfers, so you can focus on your trades.
+				93 text Fast and Convenient Fund Transfers
+				94 text Deposits in as little as 60 seconds and efficient 20-minute withdrawals, ensuring fast and secure fund transfers, so you can focus on your trades.
+			95 button (collapsed) Secondary Actions: Expand, 24/7 Multilingual Support Our AI-powered multilingual support team provides fast, clear assistance 24/7. Always ready to serve you.
+				96 text 24/7 Multilingual Support
+				97 text Our AI-powered multilingual support team provides fast, clear assistance 24/7. Always ready to serve you.
+		98 container
+			99 image Multi-Platform Trading Experience
+			100 image Ultra-Low Latency Execution
+			101 image Global Regulatory Compliance
+			102 image Dedicated Expert Support
+			103 image Fast and Convenient Fund Transfers
+			104 image 24/7 Multilingual Support
+		105 heading Trusted by Traders, Value: 2
+			106 text Trusted by Traders
+		107 text Trade W is built on trust, performance, and clarity. Trusted worldwide and rated on Trustpilot, we grow with your feedback to deliver a secure, seamless trading experience.Discover why traders choose Trade W!
+		108 text ★4.6/5 on Trustpilot
+		109 text Showing Genuine 4&5★ Reviews
+		110 container Customer reviews
+			111 container
+				112 image review-stars
+				113 text Rated 5.0/5.0 Astitva I like the Trade W app I like the Trade W app because this app user interface is so easy to understand also customer support of this app is very good. If you are looking for an app whose interface is easy to understand and good customer support then you can go for Trade W app.
+			114 container
+				115 image review-stars
+				116 text Rated 5.0/5.0 Felix Salim BEGINNER FRIENDLY I'm a beginner. Trading for 5 months and so far this is the best trading app for beginner like me. Easy to use and simple UI. Really recommended!!
+			117 container
+				118 image review-stars
+				119 text Rated 5.0/5.0 Jovan Tan One of the best broker to trade with ! One of the best broker to trade with, the customer service team and account manager gladly helped me through my trading, i got insight from Account Manager to trading, i worried if the guidance from Account Manager is not free, but after i confirmed to my Account Manager it's totally Free, happy to share this app with my friends tho, keep it up
+			120 container
+				121 image review-stars
+				122 text Rated 5.0/5.0 Billy the apps is very good, fast execution I like a broker like this which have a fix currency rate which helps me a lot when i'm about to deposit and withdraw, so I can do it anytime without even have to wait for a better exchange rate. the execution speed is fast and really helps for scalpers like me to enter and exit the market in a short time. a very recommended app
+			123 container
+				124 image review-stars
+				125 text Rated 5.0/5.0 Avi Best app for trading This app interface is the best and easy and easily accessible. Charts are clean and placing orders are very easy. This app is the best for beginners as well as the experts. Faster deposit and withdrawal made this platform very reliable and trusted.
+			126 container
+				127 image review-stars
+				128 text Rated 5.0/5.0 Mauricio O aplicativo muito bom eu recomendo … O aplicativo muito bom eu recomendo totalmente pra vcs acreditar ele é bom pra sacar dinheiro e o aplicativo é muito bom.
+			129 container
+				130 image review-stars
+				131 text Rated 5.0/5.0 bYaLgfhn Fornece transparência Fornece transparência, explicação necessária para o investidor, e varias bonificações para o iniciante. Traz também, os dados e informações necessárias para as negociações financeiras.
+		132 heading Trade in 3 Simple Steps, Value: 2
+			133 text Trade in 3 Simple Steps
+		134 text Smarter trading starts here! Join a global community of traders who choose Trade W for efficient trading.
+		135 text 01
+		136 text Sign Up
+		137 text Open an account in 2 minutes
+		138 text 02
+		139 text Deposit
+		140 text Deposit using your preferred funding method to activate your account
+		141 text 03
+		142 text Trade
+		143 text Trade over 100+ financial instruments worldwide
+		144 button Start Trading
+		145 button Try Free Demo
+		146 button Forex CFDs Enter the world's largest market and trade more than 60 currency pairs.
+			147 text Forex CFDs
+			148 text Enter the world's largest market and trade more than 60 currency pairs.
+		149 button Metals CFDs Use the world-famous MT4 & MT5 platform to trade gold and silver.
+			150 text Metals CFDs
+			151 text Use the world-famous MT4 & MT5 platform to trade gold and silver.
+		152 button Indices CFDs Access global indices with exceptional trading conditions.
+			153 text Indices CFDs
+			154 text Access global indices with exceptional trading conditions.
+		155 button Stock CFDs Access global stocks with exceptional trading conditions.
+			156 text Stock CFDs
+			157 text Access global stocks with exceptional trading conditions.
+		158 heading Explore More Our Brand, Value: 2
+			159 text Explore More Our Brand
+		160 text Discover the principles and vision that shape our identity. Download our Brand Manual to learn more about who we are and what we stand for.
+		161 link Description: Download Trade W Brand Manual, Value: tradewill.com/legal/TradeWBrandManual.pdf
+		162 image Our Slogan
+		163 button (expanded) Our Slogan, ID: el-collapse-head-0, Secondary Actions: Collapse
+		164 container Our Slogan, ID: el-collapse-content-0
+			165 text Step In. Stack Up.
+			166 text As Trade W's brand slogan, it captures the essence of our brand philosophy and reflects the aspirations that we share with our users.This is not only an encouragement for each user but also our commitment to grow with our users, empower their journey, and move forward together.
+			167 text We convey the empowering belief that "success is a process of accumulation", encouraging users to keep learning, sharpening their skills, and growing their returns. Every effort is a step forward for greater opportunities and a better life.
+		168 button (collapsed) Our Mission, ID: el-collapse-head-1, Secondary Actions: Expand
+		169 button (collapsed) Our Vision, ID: el-collapse-head-2, Secondary Actions: Expand
+		170 heading Support you can count on, 24/7, Value: 2
+			171 text Support you can count on, 24/7
+		172 container
+			173 text Need Help? We're Always Here!
+			174 text Contact us anytime, by phone, live chat, or email.
+		175 link Description: Click to Go, Value: tradewill.com/contact
+
+The focused UI element is 1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/about

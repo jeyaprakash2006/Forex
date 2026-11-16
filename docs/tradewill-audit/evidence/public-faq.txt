@@ -1,0 +1,94 @@
+Browser tab: 1, Title: "Tradewill Support FAQ", URL: "https://www.tradewill.com/faq".
+1 AXWebArea Tradewill Support FAQ, URL: tradewill.com/faq
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading Frequently Asked Questions, Value: 3
+				9 text Frequently Asked Questions
+			10 text Need answers? Find them here...
+			11 container ac_0
+				12 button (expanded) What is Trade W and How Does it Work?, ID: el-collapse-head-0, Secondary Actions: Collapse
+					13 text What is Trade W and How Does it Work?
+				14 container What is Trade W and How Does it Work?, ID: el-collapse-content-0
+					15 text Trade W is a reputable trading platform that provides a comprehensive range of financial derivatives for trading purposes. Discover an extensive selection of CFDs across forex, cryptocurrencies, stocks, commodities and indices. At Trade W, our platform prioritizes trustworthiness and safety within the trading industry.
+					16 text Opening an account with Trade W is a seamless and effortless process. Begin your trading journey by signing up on the Trade W Website or APP today.
+			17 button (collapsed) Is Trade W a Regulated Broker?, ID: el-collapse-head-1, Secondary Actions: Expand
+				18 text Is Trade W a Regulated Broker?
+			19 button (collapsed) Does Trade W Provide a Demo Account?, ID: el-collapse-head-2, Secondary Actions: Expand
+				20 text Does Trade W Provide a Demo Account?
+			21 button (collapsed) What Trading Platforms does Trade W Support?, ID: el-collapse-head-3, Secondary Actions: Expand
+				22 text What Trading Platforms does Trade W Support?
+			23 button (collapsed) What are The Minimum Spreads and Maximum Leverage Offered by Trade W?, ID: el-collapse-head-4, Secondary Actions: Expand
+				24 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			25 button (collapsed) What Deposit and Withdrawal Methods are Available at Trade W?, ID: el-collapse-head-5, Secondary Actions: Expand
+				26 text What Deposit and Withdrawal Methods are Available at Trade W?
+			27 button (collapsed) Is Trade W Transparent with Their Fees?, ID: el-collapse-head-6, Secondary Actions: Expand
+				28 text Is Trade W Transparent with Their Fees?
+			29 button (collapsed) Is My Money Safe with Trade W?, ID: el-collapse-head-7, Secondary Actions: Expand
+				30 text Is My Money Safe with Trade W?
+			31 button (collapsed) Does Trade W Provide Customer Support to its Users?, ID: el-collapse-head-8, Secondary Actions: Expand
+				32 text Does Trade W Provide Customer Support to its Users?
+			33 button (collapsed) Does Trade W Provide Educational Content?, ID: el-collapse-head-9, Secondary Actions: Expand
+				34 text Does Trade W Provide Educational Content?
+			35 container Footer navigation
+				36 button (expanded) Markets, Secondary Actions: Collapse
+				37 button Markets Overview
+				38 button Forex CFDs
+				39 button Stock CFDs
+				40 button Crypto CFDs
+				41 button Indices CFDs
+				42 button Metals CFDs
+				43 button Announcement
+				44 button (collapsed) Platforms, Secondary Actions: Expand
+				45 container
+					46 button Trade W APP
+					47 button Trade W Web Trader
+					48 button MetaTrader 4 Mobile
+					49 button MetaTrader 5 Mobile
+					50 button MetaTrader 5
+					51 button MetaTrader 4
+				52 button (collapsed) Account, Secondary Actions: Expand
+				53 container
+					54 button Classic Account Series
+					55 button Professional Account Series
+					56 button Demo Account
+				57 button (collapsed) Resources, Secondary Actions: Expand
+				58 container
+					59 button Market Insights
+					60 button Market Analysis
+					61 button Trading News
+					62 button Economic Calendar
+					63 button Profit Calculator
+					64 button TradingView
+					65 button Margin Calculator
+					66 button Trading Glossary
+					67 button Beginner Tutorial
+				68 button (collapsed) Supports, Secondary Actions: Expand
+				69 container
+					70 button Help Center
+					71 button FAQs
+					72 button Feedback
+				73 button (collapsed) Company, Secondary Actions: Expand
+				74 container
+					75 button About Us
+					76 button Trade W Awards
+					77 button Company Updates
+					78 button Careers
+					79 button Contact Us
+					80 button Legal Statement
+					81 button AML Policy
+					82 button Privacy Policy
+					83 button Partnership
+			84 container
+				85 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			86 button Facebook
+			87 button Instagram
+			88 button Telegram
+			89 button X
+			90 button YouTube
+			91 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Tradewill Support FAQ, URL: tradewill.com/faq

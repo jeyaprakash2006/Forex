@@ -1,0 +1,139 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/chart/ETCUSD".
+0 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/chart/ETCUSD
+	1 container
+		2 container
+			3 container
+				4 image
+				5 image
+				6 button Menu
+			59 container rightTop
+				60 button #Standard
+					61 text #Standard
+					62 image
+				63 pop up button (collapsed) $0.00 $0.00, ID: el-id-1024-56, Secondary Actions: Expand
+					64 container
+						65 text $ 0.00
+					66 container
+						67 text $ 0.00
+					68 image
+			69 container
+				70 text ETC/USDT
+				127 text 6.021
+				128 text +4.640%
+				73 text H:
+				74 text 6.039
+				75 text L:
+				76 text 5.605
+				77 container
+					129 container Description: Financial Chart, ID: tradingview_0070a
+						130 AXWebArea tradewill.com/TradingView/charting_library/en-tv-chart.132c7060.html#symbol=ETCUSD&interval=1&toolbarbg=1a1d21&widgetbar=%7B%22details%22%3Afalse%2C%22watchlist%22%3Afalse%2C%22watchlist_settings%22%3A%7B%22default_symbols%22%3A%5B%5D%7D%7D&timeFrames=%5B%7B%22text%22%3A%225y%22%2C%22resolution%22%3A%221W%22%7D%2C%7B%22text%22%3A%221y%22%2C%22resolution%22%3A%221W%22%7D%2C%7B%22text%22%3A%226m%22%2C%22resolution%22%3A%22120%22%7D%2C%7B%22text%22%3A%223m%22%2C%22resolution%22%3A%2260%22%7D%2C%7B%22text%22%3A%221m%22%2C%22resolution%22%3A%2230%22%7D%2C%7B%22text%22%3A%225d%22%2C%22resolution%22%3A%225%22%7D%2C%7B%22text%22%3A%221d%22%2C%22resolution%22%3A%221%22%7D%5D&locale=en&uid=tradingview_0070a&clientId=tradingview.com&userId=public_user_id&chartsStorageUrl=https%3A%2F%2Fsaveload.tradingview.com&chartsStorageVer=1.1&customCSS=%2FTradingView%2Fcustom.css&debug=false&timezone=Etc%2FUTC&studyCountLimit=5&theme=Dark
+							131 container
+								132 container
+									133 container
+										134 text 1 m
+									135 container
+										136 image
+										137 text Indicators
+			79 container
+				80 tab group
+					81 tab (selectable, settable, boolean) Market Order, Value: 0, ID: tab-first
+					82 tab (selected, settable, boolean) Limit Order, Value: 1, ID: tab-second
+				183 container Description: Limit Order, ID: pane-second
+				84 container sellBuy
+					85 text 0.011
+					86 Description: segmented, ID: el-id-1024-143
+						87 container
+							88 text Sell
+							89 container
+								90 text 6.0 21
+							91 text Buy
+							92 container
+								93 text 6.0 32
+				94 container
+					95 text 53.14% 46.86%
+				96 container
+					97 button decrease number
+						98 image
+					99 button increase number
+						100 image
+					101 container
+						102 stepper (settable, float) Value: 0.009999999776482582, Details: 0.01, ID: el-id-1024-144
+						103 text lot
+				104 button 0.01
+				105 button 0.10
+				106 button 0.50
+				107 button 1.00
+				108 button 2.00
+				184 text Limit Price
+				185 container
+					186 button decrease number
+						187 image
+					188 button increase number
+						189 image
+					190 stepper (settable, float) Value: 6.021999835968018, Details: 6.022, ID: el-id-1024-173
+				109 text Take Profit
+				110 container
+					111 switch (settable, boolean) Value: 0, ID: el-id-1024-145
+				112 text Stop Loss
+				113 container
+					114 switch (settable, boolean) Value: 0, ID: el-id-1024-146
+				115 container
+					116 container Margin $0
+						117 text Margin
+						118 container
+							119 text $ 0
+					120 container Fee $0.15
+						121 text Fee
+						122 container
+							123 text $ 0.15
+				124 container
+					125 text Position Total  $ 0.15 Available: $ 0
+					126 button Buy
+		138 container
+			139 container
+				140 image logo
+				141 text Hello!
+We are here to help you!
+				142 heading Frequently Asked Questions More, Value: 6
+					143 text Frequently Asked Questions
+					144 text More
+				145 text What is Trade W and How Does it Work?
+				146 text Is Trade W a Regulated Broker?
+				147 text Does Trade W Provide a Demo Account?
+				148 text What Trading Platforms does Trade W Support?
+				149 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			150 container
+				151 button Customer Support
+				152 text 2
+			153 container chatroom
+				154 container
+					155 heading AI Assistant-W, Value: 6
+						156 text AI Assistant-W
+					157 image
+				158 text 11-15 01:42
+				159 text AI Assistant-W
+				160 container
+					161 text Hi there! 👋 I'm W. How can I help you with your trading account?
+				162 container
+					163 text Guess what you want to ask?
+					164 image
+					165 text How can I earn points and redeem exciting rewards?
+					166 text 24604
+					167 button Ask
+					168 text How do I reset my demo balance?
+					169 text 13640
+					170 button Ask
+					171 text How does the Invite Friends program work?
+					172 text 7715
+					173 button Ask
+				174 container
+					175 button Customer Service
+						176 image
+						177 text Customer Service
+					178 container
+						179 text Please enter
+		180 container
+			181 image conversation-badge-icon
+			182 text 2
+
+The focused UI element is 82 tab (selected, settable, boolean) Limit Order, Value: 1, ID: tab-second

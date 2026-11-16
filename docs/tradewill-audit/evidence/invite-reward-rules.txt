@@ -1,0 +1,176 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/account-center/invite-friends".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/invite-friends
+	2 container
+		3 container
+			4 container
+				5 image
+				6 button (collapsed) Markets, Secondary Actions: Expand
+				7 button (collapsed) Platforms, Secondary Actions: Expand
+				8 button (collapsed) Account, Secondary Actions: Expand
+				9 button (collapsed) Resources, Secondary Actions: Expand
+				10 button (collapsed) Company, Secondary Actions: Expand
+				11 link Description: Partnership, Value: tradewill.com/partners
+				12 button Web Trader
+				13 button (collapsed) Description: Messages, Secondary Actions: Expand
+				14 button (collapsed) Description: LEMjqCcV, Secondary Actions: Expand
+				15 button (collapsed) Description: Download App, Secondary Actions: Expand
+				16 button (collapsed) Description: Language, Secondary Actions: Expand
+			17 menu bar
+				18 Overview
+				19 button Assets Multi-Account
+					20 text Assets
+					21 text Multi-Account
+				22 Internal Transfer
+				23 Order
+				24 Verification
+				25 Settings
+				26 Downloads
+				27 Invite Friends
+				28 Task Center
+				29 Customer Service
+			138 container
+				139 heading Invite Friends To Earn $3 Per Lot, Value: 1
+					140 text Invite Friends To Earn $3 Per Lot
+				141 text plus an additional bonus of up to  $1000
+				142 container
+					143 heading Invitation Methods, Value: 2
+						144 text Invitation Methods
+					145 text Invitation Link https://tradewill.com/en/share?id=21717196&userUid=21717196
+					146 button Copy Link
+					147 text Invitation Code 21717196
+					201 image
+					148 button Copy Code
+					149 text QR
+					202 image
+					150 button Save QR Code
+				151 container
+					152 heading My Invitation, Value: 2
+						153 text My Invitation
+					154 text To be withdrawn $0.00
+					155 button Withdraw
+					156 text My invites Total income: 
+					157 text $0.00
+					158 table
+						159 row
+							160 cell
+								161 text Nickname
+							162 cell
+								163 text Status
+							164 cell
+								165 text Lot
+							166 cell
+								167 text Income
+					168 image
+					169 text No records
+				170 container
+					171 heading Rules, Value: 2
+						172 text Rules
+					173 tab group
+						174 tab (selectable, settable, boolean) Activity Rules, Value: 0, ID: tab-a
+						175 tab (selected, settable, boolean) Reward Rules, Value: 1, ID: tab-b
+					227 container Description: Reward Rules, ID: pane-b
+						228 container
+							229 text My Level:  Lv.1
+						230 text 1 Upgrade Guide
+						231 text Upgrade to Lv.2 to earn more commission
+						232 text Upgrade to Lv.2
+						233 image
+						234 text 1 0/5 people
+						235 image
+						236 text 2 0/100 lot 2 Rebates Guide Level Cash Reward Level1
+						237 container
+							238 text $2 /Every friend completes 1 lot
+						239 text Level2
+						240 container
+							241 text $3 /Every friend completes 1 lot
+						242 text Example
+						243 text Ben is already at level 2 and today invited 10 friends to trade at Trade W. His friends has traded a total of 25 lots in a real account. Ben is eligible to receive a commission of $3 per lot, so Ben earned a total of 25x$3=$75.
+				185 container
+					186 heading 24-Hour Rankings, Value: 2
+						187 text 24-Hour Rankings
+					188 text Rank User Reward
+					203 content list
+						204 container
+							205 text zE***ju India +$24.4200
+						206 container
+							207 text an***27 India +$12.6400
+						208 container
+							209 text Ji***tu Pakistan +$8.5200
+						210 container
+							211 text 4 Al***** Indonesia +$6.8400
+						212 container
+							213 text 5 Em***** India +$4.1600
+						214 container
+							215 text 6 uk***e9 Indonesia +$3.3400
+						216 container
+							217 text 7 Me***** Indonesia +$3.1500
+						218 container
+							219 text 8 ra***36 India +$2.3600
+						220 container
+							221 text 9 da***74 India +$1.9000
+						222 container
+							223 text 10 kp***zT India +$1.9000
+					224 text 10+
+					225 text LE***cV
+					226 text Indonesia +$0.00
+				189 container
+					190 heading Frequently Asked Questions, Value: 2
+						191 text Frequently Asked Questions
+					192 heading Q 1. How to invite friends to earn commissions?, Value: 4
+						193 text Q 1. How to invite friends to earn commissions?
+					194 text Through Facebook, Twitter, YouTube, Telegram, WhatsApp, and other social media, share links or referral codes with your friends. Your friends must register through the link or enter the referral code when registering. The more you share, the more money you can earn.
+					195 heading Q 2. Can commissions be settled at any time?, Value: 4
+						196 text Q 2. Can commissions be settled at any time?
+					197 text Yes, commissions can be withdrawn to your account balance 24/7.
+					198 heading Q 3. I recommended a friend, why haven't I received the commission yet?, Value: 4
+						199 text Q 3. I recommended a friend, why haven't I received the commission yet?
+					200 text (1) Your friend may have registered without filling in the referral code; (2) Your friend may have used someone else's referral code to register;
+			92 text © 2016 - 2026 TradeWill.com All Rights Reserved
+		93 container
+			94 container
+				95 image logo
+				96 text Hello!
+We are here to help you!
+				97 heading Frequently Asked Questions More, Value: 6
+					98 text Frequently Asked Questions
+					99 text More
+				100 text What is Trade W and How Does it Work?
+				101 text Is Trade W a Regulated Broker?
+				102 text Does Trade W Provide a Demo Account?
+				103 text What Trading Platforms does Trade W Support?
+				104 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			105 container
+				106 button Customer Support
+				107 text 2
+			108 container chatroom
+				109 container
+					110 heading AI Assistant-W, Value: 6
+						111 text AI Assistant-W
+					112 image
+				113 text 11-15 01:42
+				114 text AI Assistant-W
+				115 container
+					116 text Hi there! 👋 I'm W. How can I help you with your trading account?
+				117 container
+					118 text Guess what you want to ask?
+					119 image
+					120 text How can I earn points and redeem exciting rewards?
+					121 text 24604
+					122 button Ask
+					123 text How do I reset my demo balance?
+					124 text 13640
+					125 button Ask
+					126 text How does the Invite Friends program work?
+					127 text 7715
+					128 button Ask
+				129 container
+					130 button Customer Service
+						131 image
+						132 text Customer Service
+					133 container
+						134 text Please enter
+		135 container
+			136 image conversation-badge-icon
+			137 text 2
+
+The focused UI element is 175 tab (selected, settable, boolean) Reward Rules, Value: 1, ID: tab-b

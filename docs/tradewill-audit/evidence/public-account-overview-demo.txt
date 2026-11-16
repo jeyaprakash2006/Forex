@@ -1,0 +1,181 @@
+Browser tab: 1, Title: "Demo Account", URL: "https://www.tradewill.com/account-overview/demo".
+1 AXWebArea Demo Account, URL: tradewill.com/account-overview/demo
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 text DEMO ACCOUNT
+			9 heading Trade Smarter. Start with a Demo., Value: 1
+				10 text Trade Smarter. Start with a Demo.
+			11 text Explore Trade W, practice trading and test your ideas with Đ10,000 in virtual funds.
+			12 button Try Free Demo
+			13 content list
+				14 text Practice for Free
+				15 text Đ10,000 Virtual Funds
+				16 text No Real-Money Risk
+				17 text Test Your Strategy
+			18 container
+				19 heading Demo Account, Value: 2
+					20 text Demo Account
+				21 text Learning and strategy testing Đ10,000 Virtual Funds 14 Days Validity 1:800 Leverage
+				22 button Open Demo Account
+				23 text *Virtual funds have no monetary value and cannot be withdrawn.
+				24 heading Unlock Your Demo Experience, Value: 3
+					25 text Unlock Your Demo Experience
+				26 content list
+					27 text Build Watchlist
+					28 text Check Market Prices
+					29 text Practice Trade
+					30 text Adjust Trade Size
+					31 text Manage Risk Smarter
+					32 text Explore Charts & Tools
+					33 text Track Progress
+					34 text Strategy Testing
+					35 text Market Practice
+					36 text App, Web Trader, MT4 & MT5
+			37 container
+				38 heading Explore Global Markets with Trade W, Value: 2
+					39 text Explore Global Markets with Trade W
+				40 text Trade Across Supported Markets
+			41 container
+				42 heading Forex, Value: 3
+					43 text Forex
+				44 text Trade 60+ currency pairs with deep liquidity across major global markets.
+			45 container
+				46 heading Metals, Value: 3
+					47 text Metals
+				48 text Trade gold and silver to diversify and respond to market uncertainty.
+			49 container
+				50 heading Indices, Value: 3
+					51 text Indices
+				52 text Capture broader market moves through major global indices in a single trade.
+			53 container
+				54 heading Stocks, Value: 3
+					55 text Stocks
+				56 text Trade price movements of leading global companies without owning the shares.
+			57 container
+				58 heading Crypto, Value: 3
+					59 text Crypto
+				60 text Tap into the volatility of major cryptocurrencies through CFD trading.
+			61 text Platform and instrument availability may vary by account type and region.
+			62 container
+				63 heading Practise First. Trade Live When You Are Ready., Value: 2
+					64 text Practise First. Trade Live When You Are Ready.
+				65 text Demo gives you space to learn the platform, understand order controls and practise a trading plan before using real funds.
+			66 container
+				67 heading Learn the Platform, Value: 3
+					68 text Learn the Platform
+				69 text Explore charts, watchlists, orders and account controls.
+				70 image Learn the Platform
+			71 container
+				72 heading Practise Risk Controls, Value: 3
+					73 text Practise Risk Controls
+				74 text Learn to use trade size, stop loss and take profit.
+				75 image Practise Risk Controls
+			76 container
+				77 heading Test Trading Ideas, Value: 3
+					78 text Test Trading Ideas
+				79 text See how a strategy responds to market movement.
+				80 image Test Trading Ideas
+			81 container
+				82 heading Build Familiarity, Value: 3
+					83 text Build Familiarity
+				84 text Understand the trading process before moving to a live account.
+				85 image Build Familiarity
+			86 container
+				87 heading How to Start, Value: 2
+					88 text How to Start
+				89 text Open your demo account and begin practising in minutes.
+			90 content list
+				91 container
+					92 image
+					93 heading Create Your Profile, Value: 3
+						94 text Create Your Profile
+					95 text Register with Trade W and choose demo account access.
+				96 container
+					97 image
+					98 heading Open Demo, Value: 3
+						99 text Open Demo
+					100 text Launch your demo account with virtual funds.
+				101 container
+					102 image
+					103 heading Start Practising, Value: 3
+						104 text Start Practising
+					105 text Test the platform, markets and trading ideas.
+			106 button Start Trading
+			107 button Try Free Demo
+			108 heading Frequently Asked Questions, Value: 2
+				109 text Frequently Asked Questions
+			110 text Everything you need to know about Demo accounts.
+			111 button (expanded) Can I lose real money on Demo?, ID: el-collapse-head-0, Secondary Actions: Collapse
+			112 container Can I lose real money on Demo?, ID: el-collapse-content-0
+				113 text No. Demo uses virtual funds with no monetary value.
+			114 button (collapsed) Can I withdraw demo profits?, ID: el-collapse-head-1, Secondary Actions: Expand
+			115 button (collapsed) When should I move to a live account?, ID: el-collapse-head-2, Secondary Actions: Expand
+			116 container
+				117 heading 24/7 Multilingual Support, Value: 2
+					118 text 24/7 Multilingual Support
+				119 text Need Help? We're Always Here!
+				120 text Contact us anytime, by phone, live chat, or email.
+				121 button Contact Us
+			122 container Footer navigation
+				123 button (expanded) Markets, Secondary Actions: Collapse
+				124 button Markets Overview
+				125 button Forex CFDs
+				126 button Stock CFDs
+				127 button Crypto CFDs
+				128 button Indices CFDs
+				129 button Metals CFDs
+				130 button Announcement
+				131 button (collapsed) Platforms, Secondary Actions: Expand
+				132 container
+					133 button Trade W APP
+					134 button Trade W Web Trader
+					135 button MetaTrader 4 Mobile
+					136 button MetaTrader 5 Mobile
+					137 button MetaTrader 5
+					138 button MetaTrader 4
+				139 button (collapsed) Account, Secondary Actions: Expand
+				140 container
+					141 button Classic Account Series
+					142 button Professional Account Series
+					143 button Demo Account
+				144 button (collapsed) Resources, Secondary Actions: Expand
+				145 container
+					146 button Market Insights
+					147 button Market Analysis
+					148 button Trading News
+					149 button Economic Calendar
+					150 button Profit Calculator
+					151 button TradingView
+					152 button Margin Calculator
+					153 button Trading Glossary
+					154 button Beginner Tutorial
+				155 button (collapsed) Supports, Secondary Actions: Expand
+				156 container
+					157 button Help Center
+					158 button FAQs
+					159 button Feedback
+				160 button (collapsed) Company, Secondary Actions: Expand
+				161 container
+					162 button About Us
+					163 button Trade W Awards
+					164 button Company Updates
+					165 button Careers
+					166 button Contact Us
+					167 button Legal Statement
+					168 button AML Policy
+					169 button Privacy Policy
+					170 button Partnership
+			171 container
+				172 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			173 button Facebook
+			174 button Instagram
+			175 button Telegram
+			176 button X
+			177 button YouTube
+			178 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Demo Account, URL: tradewill.com/account-overview/demo

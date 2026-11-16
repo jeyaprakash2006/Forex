@@ -1,0 +1,117 @@
+Browser tab: 1, Title: "Global Stock Indices Market Updates | Trade W", URL: "https://www.tradewill.com/stock-indices".
+1 AXWebArea Global Stock Indices Market Updates | Trade W, URL: tradewill.com/stock-indices
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading Index CFDs, Value: 3
+				9 text Index CFDs
+			10 text Trade CFDs on leading global indices with exceptional trading conditions
+			11 button Start Trading
+			12 button Try Free Demo
+			13 heading What are Indices?, Value: 4
+				14 text What are Indices?
+			15 text Indices are like mirrors for the market. They show how different parts of the economy or industries are doing by using a group of assets. Think of them as easy-to-read guides that help you make smart investment choices. From big ones like the US500 to ones focused on specific industries, indices help you understand where the market is heading.
+			16 text We aim to provide excellent trading experience to help traders succeed
+			17 content list
+				18 container
+					19 AXListMarker • 
+					20 text Access the US500, Dow Jones, DAX, and other global indices
+				21 container
+					22 AXListMarker • 
+					23 text Competitive spreads
+				24 container
+					25 AXListMarker • 
+					26 text Instant Deposit. Fast Withdrawal in 30 minutes.
+				27 container
+					28 AXListMarker • 
+					29 text 0.04s Average order execution speed
+			30 button Start Trading
+			31 heading Why Trade Index CFDs with Trade W?, Value: 4
+				32 text Why Trade Index CFDs with Trade W?
+			95 container
+				96 text Instruments Buy Price Sell Price Spread
+				97 container
+					98 text NIFTY 50 0 0 --
+				99 container
+					100 text US100 0 0 --
+				101 container
+					102 text DAX40 0 0 --
+				103 container
+					104 text HK50 0 0 --
+				105 container
+					106 text US500 0 0 --
+				107 container
+					108 text US30 0 0 --
+				109 container
+					110 text JP225 0 0 --
+				111 container
+					112 text USOIL 0 0 --
+				113 container
+					114 text UKOIL 0 0 --
+			33 heading Trade in 3 Simple Steps, Value: 6
+				34 text Trade in 3 Simple Steps
+			35 text Smarter trading starts here! Join a global community of traders who choose Trade W for efficient trading. Sign Up Open an account in 2 minutes Deposit Deposit using your preferred funding method to activate your account Trade Trade over 100+ financial instruments worldwide
+			36 button Start Trading
+			37 button Try Free Demo
+			38 container Footer navigation
+				39 button (expanded) Markets, Secondary Actions: Collapse
+				40 button Markets Overview
+				41 button Forex CFDs
+				42 button Stock CFDs
+				43 button Crypto CFDs
+				44 button Indices CFDs
+				45 button Metals CFDs
+				46 button Announcement
+				47 button (collapsed) Platforms, Secondary Actions: Expand
+				48 container
+					49 button Trade W APP
+					50 button Trade W Web Trader
+					51 button MetaTrader 4 Mobile
+					52 button MetaTrader 5 Mobile
+					53 button MetaTrader 5
+					54 button MetaTrader 4
+				55 button (collapsed) Account, Secondary Actions: Expand
+				56 container
+					57 button Classic Account Series
+					58 button Professional Account Series
+					59 button Demo Account
+				60 button (collapsed) Resources, Secondary Actions: Expand
+				61 container
+					62 button Market Insights
+					63 button Market Analysis
+					64 button Trading News
+					65 button Economic Calendar
+					66 button Profit Calculator
+					67 button TradingView
+					68 button Margin Calculator
+					69 button Trading Glossary
+					70 button Beginner Tutorial
+				71 button (collapsed) Supports, Secondary Actions: Expand
+				72 container
+					73 button Help Center
+					74 button FAQs
+					75 button Feedback
+				76 button (collapsed) Company, Secondary Actions: Expand
+				77 container
+					78 button About Us
+					79 button Trade W Awards
+					80 button Company Updates
+					81 button Careers
+					82 button Contact Us
+					83 button Legal Statement
+					84 button AML Policy
+					85 button Privacy Policy
+					86 button Partnership
+			87 container
+				88 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			89 button Facebook
+			90 button Instagram
+			91 button Telegram
+			92 button X
+			93 button YouTube
+			94 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Global Stock Indices Market Updates | Trade W, URL: tradewill.com/stock-indices

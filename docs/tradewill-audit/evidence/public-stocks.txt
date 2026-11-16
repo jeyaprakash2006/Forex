@@ -1,0 +1,100 @@
+Browser tab: 1, Title: "Global Stocks Market Insights | Trade W", URL: "https://www.tradewill.com/stocks".
+1 AXWebArea Global Stocks Market Insights | Trade W, URL: tradewill.com/stocks
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 heading Stock, Value: 3
+				9 text Stock
+			10 text Access global stocks with exceptional trading conditions
+			11 button Start Trading
+			12 button Try Free Demo
+			13 heading What are Stocks?, Value: 4
+				14 text What are Stocks?
+			15 text Stock CFDs allow traders to speculate on share price movements without owning the underlying shares. Companies issue stocks to raise funds for operations.
+			16 text Stock prices fluctuate due to company performance, market sentiment, and economic factors. Investors analyze data to make informed decisions, but stocks carry risks, including market volatility.
+			17 text We aim to provide excellent trading experience to help traders succeed
+			18 content list
+				19 container
+					20 AXListMarker • 
+					21 text Access Amazon, Apple Inc, Tesla Inc, and more global stocks
+				22 container
+					23 AXListMarker • 
+					24 text Competitive spreads
+				25 container
+					26 AXListMarker • 
+					27 text Instant Deposit. Fast Withdrawal in 30 minutes.
+				28 container
+					29 AXListMarker • 
+					30 text 0.04s Average order execution speed
+			31 button Start Trading
+			32 heading Why Trade Stocks with Trade W, Value: 4
+				33 text Why Trade Stocks with Trade W
+			34 container
+				35 text Instruments Buy Price Sell Price Spread
+			38 heading Trade in 3 Simple Steps, Value: 6
+				39 text Trade in 3 Simple Steps
+			40 text Smarter trading starts here! Join a global community of traders who choose Trade W for efficient trading. Sign Up Open an account in 2 minutes Deposit Deposit using your preferred funding method to activate your account Trade Trade over 100+ financial instruments worldwide
+			41 button Start Trading
+			42 button Try Free Demo
+			43 container Footer navigation
+				44 button (expanded) Markets, Secondary Actions: Collapse
+				45 button Markets Overview
+				46 button Forex CFDs
+				47 button Stock CFDs
+				48 button Crypto CFDs
+				49 button Indices CFDs
+				50 button Metals CFDs
+				51 button Announcement
+				52 button (collapsed) Platforms, Secondary Actions: Expand
+				53 container
+					54 button Trade W APP
+					55 button Trade W Web Trader
+					56 button MetaTrader 4 Mobile
+					57 button MetaTrader 5 Mobile
+					58 button MetaTrader 5
+					59 button MetaTrader 4
+				60 button (collapsed) Account, Secondary Actions: Expand
+				61 container
+					62 button Classic Account Series
+					63 button Professional Account Series
+					64 button Demo Account
+				65 button (collapsed) Resources, Secondary Actions: Expand
+				66 container
+					67 button Market Insights
+					68 button Market Analysis
+					69 button Trading News
+					70 button Economic Calendar
+					71 button Profit Calculator
+					72 button TradingView
+					73 button Margin Calculator
+					74 button Trading Glossary
+					75 button Beginner Tutorial
+				76 button (collapsed) Supports, Secondary Actions: Expand
+				77 container
+					78 button Help Center
+					79 button FAQs
+					80 button Feedback
+				81 button (collapsed) Company, Secondary Actions: Expand
+				82 container
+					83 button About Us
+					84 button Trade W Awards
+					85 button Company Updates
+					86 button Careers
+					87 button Contact Us
+					88 button Legal Statement
+					89 button AML Policy
+					90 button Privacy Policy
+					91 button Partnership
+			92 container
+				93 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			94 button Facebook
+			95 button Instagram
+			96 button Telegram
+			97 button X
+			98 button YouTube
+			99 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Global Stocks Market Insights | Trade W, URL: tradewill.com/stocks

@@ -1,0 +1,112 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/calculator".
+1 AXWebArea Trade Profit Calculator | Easy Buy & Sell Calculation |Tradewill, URL: tradewill.com/calculator
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 container
+				9 heading Profit Calculator, Value: 3
+					10 text Profit Calculator
+				11 container
+					12 text Currency Pair
+					13 container
+						14 combo box (collapsed, settable) Currency Pair, ID: el-id-1024-17, Secondary Actions: Expand
+						15 text EURUSD
+					16 text Open Price
+					17 text field (settable) Open Price, ID: el-id-1024-18
+					18 text Close Price
+					19 text field (settable) Close Price, ID: el-id-1024-19
+					20 text Buy/Sell
+					21 container
+						22 combo box (collapsed, settable) Buy/Sell, ID: el-id-1024-20, Secondary Actions: Expand
+						23 text Buy
+					24 text Time (Day)
+					25 stepper (settable, integer) Time (Day), Value: 0, ID: el-id-1024-21
+					26 text Lot
+					27 text field (settable) Lot, ID: el-id-1024-22
+					28 button Calculate
+				29 heading Calculation Result, Value: 4
+					30 text Calculation Result
+				31 text Account Profit and Loss
+				32 text 0.00
+				33 text Commission
+				34 text 0.00
+				35 text Swap
+				36 text 0.00
+				37 text *The calculator result is the budget value. Please refer to the actual order for the specific margin.
+			38 heading How do I use the Calculator?, Value: 4
+				39 text How do I use the Calculator?
+			40 text When opening and closing multiple positions, it may not be possible to track the individual profit and loss of each order. Now you can do it easily with our profit calculator. Simply select the currency pair you trade, the number of days you want to hold the position, the lot size, whether to buy or sell, and the price at which to open and close the position. Click "Calculate" to calculate the profit and loss of the transaction including the swap fee.
+			41 heading The Profit Calculator works as follows:, Value: 4
+				42 text The Profit Calculator works as follows:
+			43 text Profit = (Sell price - Buy price) * (contract size * lot size * (/) exchange rate - commission - swap
+			44 text Example 1 Example 2 Currency Pair Size (Lots) Lot Order Direction Open Price Close Price Commission (USD/Lot) No. of Days Swap (USD/Lot/Day) Converted from quote currency to USD Profit and Loss (USD) EURUSD 1 100000 Buy 1.35111 1.35777 10 1 3 1 653 GBPJPY 2 100000 Sell 159.105 159.130 10 2 3 131.800 -69.94
+			45 container
+				46 heading Example 1：, Value: 5
+					47 text Example 1：
+				48 text (1.35777 - 1.35111) x (100,000 x 1) - 10 - 3 = $653
+			49 container
+				50 heading Example 2：, Value: 5
+					51 text Example 2：
+				52 text (159.10500 - 159.13000 ) * 100,000 * 2Lot * 131.80 (USDJPY Exchange Rate) - 10 * 2 (Commission) - 3 * 2 * 2(Swap) = -$69.94
+			53 container Footer navigation
+				54 button (expanded) Markets, Secondary Actions: Collapse
+				55 button Markets Overview
+				56 button Forex CFDs
+				57 button Stock CFDs
+				58 button Crypto CFDs
+				59 button Indices CFDs
+				60 button Metals CFDs
+				61 button Announcement
+				62 button (collapsed) Platforms, Secondary Actions: Expand
+				63 container
+					64 button Trade W APP
+					65 button Trade W Web Trader
+					66 button MetaTrader 4 Mobile
+					67 button MetaTrader 5 Mobile
+					68 button MetaTrader 5
+					69 button MetaTrader 4
+				70 button (collapsed) Account, Secondary Actions: Expand
+				71 container
+					72 button Classic Account Series
+					73 button Professional Account Series
+					74 button Demo Account
+				75 button (collapsed) Resources, Secondary Actions: Expand
+				76 container
+					77 button Market Insights
+					78 button Market Analysis
+					79 button Trading News
+					80 button Economic Calendar
+					81 button Profit Calculator
+					82 button TradingView
+					83 button Margin Calculator
+					84 button Trading Glossary
+					85 button Beginner Tutorial
+				86 button (collapsed) Supports, Secondary Actions: Expand
+				87 container
+					88 button Help Center
+					89 button FAQs
+					90 button Feedback
+				91 button (collapsed) Company, Secondary Actions: Expand
+				92 container
+					93 button About Us
+					94 button Trade W Awards
+					95 button Company Updates
+					96 button Careers
+					97 button Contact Us
+					98 button Legal Statement
+					99 button AML Policy
+					100 button Privacy Policy
+					101 button Partnership
+			102 container
+				103 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			104 button Facebook
+			105 button Instagram
+			106 button Telegram
+			107 button X
+			108 button YouTube
+			109 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Trade Profit Calculator | Easy Buy & Sell Calculation |Tradewill, URL: tradewill.com/calculator

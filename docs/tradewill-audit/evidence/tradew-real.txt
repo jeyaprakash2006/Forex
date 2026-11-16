@@ -1,0 +1,67 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/account-center/asset-center/tradeW".
+0 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/asset-center/tradeW
+	1 container
+		2 container
+			3 container
+				4 image
+				5 image
+				6 button Menu
+			7 Description: segmented, ID: el-id-1024-54
+				8 container
+					9 radio button (settable, integer) Description: Real, Value: 1
+					10 text Real
+					11 radio button (settable, integer) Description: Demo, Value: 0
+					12 text Demo
+			13 button Add Account
+			59 text Standard Balance $0.00
+			60 image
+			61 button Deposit
+			62 button Statement
+		14 container
+			15 container
+				16 image logo
+				17 text Hello!
+We are here to help you!
+				18 heading Frequently Asked Questions More, Value: 6
+					19 text Frequently Asked Questions
+					20 text More
+				21 text What is Trade W and How Does it Work?
+				22 text Is Trade W a Regulated Broker?
+				23 text Does Trade W Provide a Demo Account?
+				24 text What Trading Platforms does Trade W Support?
+				25 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			26 container
+				27 button Customer Support
+				28 text 2
+			29 container chatroom
+				30 container
+					31 heading AI Assistant-W, Value: 6
+						32 text AI Assistant-W
+					33 image
+				34 text 11-15 01:42
+				35 text AI Assistant-W
+				36 container
+					37 text Hi there! 👋 I'm W. How can I help you with your trading account?
+				38 container
+					39 text Guess what you want to ask?
+					40 image
+					41 text How can I earn points and redeem exciting rewards?
+					42 text 24604
+					43 button Ask
+					44 text How do I reset my demo balance?
+					45 text 13640
+					46 button Ask
+					47 text How does the Invite Friends program work?
+					48 text 7715
+					49 button Ask
+				50 container
+					51 button Customer Service
+						52 image
+						53 text Customer Service
+					54 container
+						55 text Please enter
+		56 container
+			57 image conversation-badge-icon
+			58 text 2
+
+The focused UI element is 0 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/asset-center/tradeW

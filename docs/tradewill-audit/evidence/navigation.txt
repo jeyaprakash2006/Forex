@@ -1,0 +1,196 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/account-center/safety".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/safety
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			134 container
+				135 button Close
+				136 container el-id-1024-5
+					137 button (collapsed) Markets, Secondary Actions: Expand
+					138 container
+						139 button Markets Overview
+						140 link Description: Forex CFDs, Value: tradewill.com/forex
+						141 link Description: Stock CFDs, Value: tradewill.com/stocks
+						142 link Description: Crypto CFDs, Value: tradewill.com/cryptocurrency
+						143 link Description: Indices CFDs, Value: tradewill.com/stock-indices
+						144 link Description: Metals CFDs, Value: tradewill.com/metals
+					145 button (collapsed) Platforms, Secondary Actions: Expand
+					146 container
+						147 text Mobile
+						148 link Description: Trade W APP, Value: tradewill.com/download-TradeWill-app
+						149 button MetaTrader 4 Mobile
+						150 link Description: MetaTrader 5 Mobile, Value: tradewill.com/download-metaTrader5-mobile
+						151 text Web
+						152 link Description: Trade W Web Trader, Value: tradewill.com/download-web-trader
+						153 text Desktop
+						154 button MetaTrader 4
+						155 link Description: MetaTrader 5, Value: tradewill.com/download-metaTrader5
+					156 button (collapsed) Account, Secondary Actions: Expand
+					157 container
+						158 link Description: Classic Account Series, Value: tradewill.com/account-overview
+						159 link Description: Professional Account Series, Value: tradewill.com/account-overview/pro
+						160 link Description: Demo Account, Value: tradewill.com/account-overview/demo
+					161 button (collapsed) Resources, Secondary Actions: Expand
+					162 container
+						163 text Insights
+						164 link Description: Market Insights, Value: tradewill.com/blog
+						165 link Description: Market Analysis, Value: tradewill.com/viewpoint
+						166 link Description: Trading News, Value: tradewill.com/news
+						167 link Description: Economic Calendar, Value: tradewill.com/calendar
+						168 text Trading Tools
+						169 link Description: Profit Calculator, Value: tradewill.com/calculator
+						170 link Description: Margin Calculator, Value: tradewill.com/marginCalculator
+						171 text Education
+						172 link Description: Beginner Tutorial, Value: tradewill.com/course
+						173 link Description: Trading Glossary, Value: tradewill.com/tradingGlossary
+						174 text Support
+						175 button Help Center
+						176 link Description: FAQs, Value: tradewill.com/faq
+					177 button (collapsed) Company, Secondary Actions: Expand
+					178 container
+						179 text About Trade W
+						180 link Description: About Us, Value: tradewill.com/about
+						181 link Description: Trade W Awards, Value: tradewill.com/honor
+						182 link Description: Company Updates, Value: tradewill.com/media
+						183 text Corporate
+						184 link Description: Careers, Value: tradewill.com/careers
+						185 link Description: Contact Us, Value: tradewill.com/contact
+						186 link Description: Legal Statement, Value: tradewill.com/legal-notices
+					187 button Partnership
+					188 button Message notifications
+					189 button Trade W APP Download
+					190 button Language English
+						191 text Language
+						192 text English
+			8 heading Settings, Value: 3
+				9 text Settings
+			10 heading Personal Information, Value: 6
+				11 text Personal Information
+			12 container
+				13 container Profile Picture
+					14 text Profile Picture
+				15 container Choose File: No file chosen 1711448436727
+					16 button Choose File
+					17 image 1711448436727
+			18 container
+				19 container Nickname
+					20 text Nickname
+				21 container LEMjqCcV
+					22 text LEMjqCcV
+			23 container
+				24 container Gender
+					25 text Gender
+				26 container Not set
+					27 text Not set
+			28 container
+				29 container Age
+					30 text Age
+				31 container Not set
+					32 text Not set
+			33 heading Accounts and Security, Value: 6
+				34 text Accounts and Security
+			35 container
+				36 container Login account
+					37 text Login account
+				38 container r.je***@gmail.com
+					39 text r.je***@gmail.com
+			40 container
+				41 container Login Password
+					42 text Login Password
+				43 container ******
+					44 text ******
+			45 container
+				46 container Security Code
+					47 text Security Code
+				48 container Unbind
+					49 container
+						50 image
+						51 text Unbind
+			52 container
+				53 container Phone number
+					54 text Phone number
+				55 container Not bound
+					56 container
+						57 image
+						58 text Not bound
+			59 container
+				60 container Email
+					61 text Email
+				62 container r.je***@gmail.com
+					63 container
+						64 image
+						65 text r.je***@gmail.com
+			66 heading Third-party account authorization, Value: 6
+				67 text Third-party account authorization
+			68 container
+				69 container Google
+					70 text Google
+				71 container Bind successfully
+					72 image
+					73 text Bind successfully
+			74 container
+				75 container Facebook
+					76 text Facebook
+				77 container Unbind
+					78 container facebook
+						79 image
+						80 text Unbind
+			81 heading Account Security and Deletion, Value: 6
+				82 text Account Security and Deletion
+			83 container
+				84 container Trust Device Management
+					85 text Trust Device Management
+			86 container
+				87 container Delete account, this operation is irreversible.
+					88 text Delete account, this operation is irreversible.
+		89 container
+			90 container
+				91 image logo
+				92 text Hello!
+We are here to help you!
+				93 heading Frequently Asked Questions More, Value: 6
+					94 text Frequently Asked Questions
+					95 text More
+				96 text What is Trade W and How Does it Work?
+				97 text Is Trade W a Regulated Broker?
+				98 text Does Trade W Provide a Demo Account?
+				99 text What Trading Platforms does Trade W Support?
+				100 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			101 container
+				102 button Customer Support
+				103 text 2
+			104 container chatroom
+				105 container
+					106 heading AI Assistant-W, Value: 6
+						107 text AI Assistant-W
+					108 image
+				109 text 11-15 01:42
+				110 text AI Assistant-W
+				111 container
+					112 text Hi there! 👋 I'm W. How can I help you with your trading account?
+				113 container
+					114 text Guess what you want to ask?
+					115 image
+					116 text How can I earn points and redeem exciting rewards?
+					117 text 24604
+					118 button Ask
+					119 text How do I reset my demo balance?
+					120 text 13640
+					121 button Ask
+					122 text How does the Invite Friends program work?
+					123 text 7715
+					124 button Ask
+				125 container
+					126 button Customer Service
+						127 image
+						128 text Customer Service
+					129 container
+						130 text Please enter
+		131 container
+			132 image conversation-badge-icon
+			133 text 2
+
+The focused UI element is 193 container

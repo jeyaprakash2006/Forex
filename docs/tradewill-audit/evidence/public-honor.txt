@@ -1,0 +1,112 @@
+Browser tab: 1, Title: "Global Recognition. Proven Success. | TradeWill", URL: "https://www.tradewill.com/honor".
+1 AXWebArea Global Recognition. Proven Success. | TradeWill, URL: tradewill.com/honor
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 container
+				9 heading Global Recognition. Proven Success., Value: 1
+					10 text Global Recognition. Proven Success.
+				11 text Discover the milestones and awards that demonstrate our legacy in the global trading markets.
+			12 content list
+				13 container
+					14 image Excellence in Customer Support
+					15 heading Excellence in Customer Support, Value: 2
+						16 text Excellence in Customer Support
+					17 text World Business Outlook In 2026, Trade W was recognized by World Business Outlook with the "Excellence in Customer Support & User Experience in Trading Sector Global 2026" award. This recognition reflects Trade W's commitment to building a support experience that is clear, responsive, and accessible across different user touchpoints. From Help Center resources and customer service channels to localized communication and feedback handling, Trade W continues to strengthen the way users receive assistance throughout their trading journey.
+				18 container
+					19 image Best Customer Experience in Fintech 2026
+					20 heading Best Customer Experience in Fintech 2026, Value: 2
+						21 text Best Customer Experience in Fintech 2026
+					22 text Brokersview In 2026, Trade W was recognized by BrokersView with the "Best Customer Experience in Fintech 2026" award. This recognition highlights Trade W's focus on delivering a practical and accessible trading experience through WebTrader, MT4, MT5, the Trade W mobile app, and TradingView-powered charting. Supported by 24/7 live support and dedicated account managers, Trade W continues to serve users across different markets with a trading environment built around platform access, service availability, and everyday usability.
+				23 container
+					24 image Best Partner Program 2026
+					25 heading Best Partner Program 2026, Value: 2
+						26 text Best Partner Program 2026
+					27 text Global Brand Awards In February 2026, Trade W was recognized as the “Best Partner Programme – Southeast Asia” by the Global Brand Awards, highlighting the brand’s strong commitment to building meaningful, long-term partnerships across the region. The award reflects Trade W’s focus on collaboration, transparency, and value-driven support for partners, backed by robust infrastructure, competitive offerings, and dedicated relationship management.
+				28 container
+					29 image Most Reliable Broker 2025
+					30 heading Most Reliable Broker 2025, Value: 2
+						31 text Most Reliable Broker 2025
+					32 text FinanceFeeds In September 2025, Trade W was awarded the title of "Most Reliable Broker" by FinanceFeeds for its proven stability, trustworthiness, and strong regulatory compliance. Since 2018, Trade W has served over 5 million users with monthly trading volumes exceeding USD 60 billion. Our reliable infrastructure, secure fund management, and consistent performance across market conditions have earned global trader confidence, making Trade W a trusted leader in safe and dependable trading.
+				33 container
+					34 image Best Trading Experience 2025
+					35 heading Best Trading Experience 2025, Value: 2
+						36 text Best Trading Experience 2025
+					37 text FinanceFeeds In September 2025, Trade W received the "Best Trading Experience" award from FinanceFeeds for its user-first approach and seamless multi-platform design. Offering diverse CFD products, fast execution, intuitive tools, and responsive support, Trade W ensures traders a smooth and efficient trading journey. By focusing on usability, innovation, and accessibility, Trade W delivers a modern, trader-centric experience that empowers users worldwide.
+				38 container
+					39 image Best Client Fund Safety Award 2025
+					40 heading Best Client Fund Safety Award 2025, Value: 2
+						41 text Best Client Fund Safety Award 2025
+					42 text 2025 Global Forex Awards (Holiston Media) In September 2025, Trade W was recognized as the "Best Client Fund Safety" Global Forex Broker at the Global Forex Awards 2025. This honor underscores our foundational commitment to the Customer First principle. It affirms our ongoing dedication to implementing rigorous fund protection measures and reflects the trust placed in our platform by a worldwide community of traders. Trade W remains steadfast in its mission to provide a secure, transparent, and dependable trading environment, ensuring that every client can trade with clarity, trust, and peace of mind.
+				43 container
+					44 image Best Multi-Asset Trading Platform 2025
+					45 heading Best Multi-Asset Trading Platform 2025, Value: 2
+						46 text Best Multi-Asset Trading Platform 2025
+					47 text FXDaily In September 2025, Trade W was named "Best Multi-Asset Trading Platform 2025" by FxDailyInfo, recognizing its advanced technology, broad asset coverage, and seamless multi-platform experience. Since its 2018 launch, Trade W has grown to serve over 5 million users in 50+ countries, with more than $60B in monthly volume and over 10 million app downloads. Offering access to forex, crypto, stocks, indices, metals, and commodities across MT4, MT5, web, and mobile, it delivers speed, security, and transparency. The award reflects Tradewill Global Limited's commitment to regulatory compliance, 24/7 support, and a trader-first approach that sets new industry standards.
+				48 container
+					49 image Most Trusted Forex Broker 2025
+					50 heading Most Trusted Forex Broker 2025, Value: 2
+						51 text Most Trusted Forex Broker 2025
+					52 text FXDaily In September 2025, Trade W was named "Most Trusted Forex Broker 2025" by FxDailyInfo, recognizing its dedication to transparency, reliability, and trader-first service. With over seven years of experience and a steadily expanding global user base, Trade W excels with its secure infrastructure, low-latency execution, regulatory compliance, and robust customer support. Following a comprehensive broker review, FxDailyInfo's panel highlighted Trade W's consistent client trust and high performance. This accolade further solidifies Tradewill Global Limited's mission to offer traders worldwide a safe, fair, and efficient trading environment.
+			53 container Footer navigation
+				54 button (expanded) Markets, Secondary Actions: Collapse
+				55 button Markets Overview
+				56 button Forex CFDs
+				57 button Stock CFDs
+				58 button Crypto CFDs
+				59 button Indices CFDs
+				60 button Metals CFDs
+				61 button Announcement
+				62 button (collapsed) Platforms, Secondary Actions: Expand
+				63 container
+					64 button Trade W APP
+					65 button Trade W Web Trader
+					66 button MetaTrader 4 Mobile
+					67 button MetaTrader 5 Mobile
+					68 button MetaTrader 5
+					69 button MetaTrader 4
+				70 button (collapsed) Account, Secondary Actions: Expand
+				71 container
+					72 button Classic Account Series
+					73 button Professional Account Series
+					74 button Demo Account
+				75 button (collapsed) Resources, Secondary Actions: Expand
+				76 container
+					77 button Market Insights
+					78 button Market Analysis
+					79 button Trading News
+					80 button Economic Calendar
+					81 button Profit Calculator
+					82 button TradingView
+					83 button Margin Calculator
+					84 button Trading Glossary
+					85 button Beginner Tutorial
+				86 button (collapsed) Supports, Secondary Actions: Expand
+				87 container
+					88 button Help Center
+					89 button FAQs
+					90 button Feedback
+				91 button (collapsed) Company, Secondary Actions: Expand
+				92 container
+					93 button About Us
+					94 button Trade W Awards
+					95 button Company Updates
+					96 button Careers
+					97 button Contact Us
+					98 button Legal Statement
+					99 button AML Policy
+					100 button Privacy Policy
+					101 button Partnership
+			102 container
+				103 text TradeWill Global Limited is registered in Seychelles under registration number 8430716-1. Regulated by the Seychelles Financial Services Authority (FSA), it holds a Securities Dealer License under license number SD111.Registered Address: Office 12, 3rd Floor, IMAD Complex, Ile Du Port, Mahe, Seychelles.TRADEWILL is the approved business name of Tradewill Global Limited for its operations in Seychelles. Tradewill Global LLC is a brokerage company registered in Saint Vincent and the Grenadines under registration number 1365 LLC 2021. Registered Address: Euro House, Richmond Hill Road, Kingstown, St. Vincent and the Grenadines. This entity operates under the “Trade W” brand as part of the group. Disclaimer: The aforementioned entities do not offer services to residents of certain jurisdictions, including the United States, the United Kingdom, Europe, Canada, the Democratic People's Republic of Korea, Myanmar, Russia, Israel and the Islamic Republic of Iran. Risk Warning: Trading involves a high level of risk and may not be suitable for all investors. You may lose some or all of your invested capital. Please ensure that you fully understand the risks involved and seek independent advice if needed The information provided on this website does not constitute investment advice, recommendation, or a solicitation to engage in any investment activity. Neither the Company nor its affiliates shall be held liable for any direct or indirect loss or damage arising from reliance on this content.
+			104 button Facebook
+			105 button Instagram
+			106 button Telegram
+			107 button X
+			108 button YouTube
+			109 text © 2016 - 2026 TradeWill.com
+
+The focused UI element is 1 AXWebArea Global Recognition. Proven Success. | TradeWill, URL: tradewill.com/honor

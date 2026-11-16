@@ -1,0 +1,90 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/account-center/verification/identity".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/verification/identity
+	2 container
+		3 container
+			4 container
+				5 image
+				6 image
+				7 button Menu
+			8 text Verification
+			9 heading Identity Verification, Value: 3
+				10 text Identity Verification
+			11 container
+				12 container
+					13 text 1
+				14 text Identity information
+				15 container
+					16 text 2
+				17 text Bind
+				18 text 3
+				19 text Complete registration
+			20 container
+				21 text Country / Region
+				22 container
+					23 combo box (collapsed, settable) Country / Region, ID: el-id-1024-252, Secondary Actions: Expand
+					24 container
+						25 text Indonesia +62
+				26 text * Ensure that the image is well-lit and clear, with all corners of the document clearly visible. This is essential for processing your request.
+				27 container
+					28 text Front of Document  View sample proof >
+				29 container
+					30 button Choose File
+					31 image
+					32 text JPG,JPEG,PNG or PDF(max 10M)
+				33 container
+					34 text Back of Document  View sample proof >
+				35 container
+					36 button Choose File
+					37 image
+					38 text JPG,JPEG,PNG or PDF(max 10M)
+				39 button Next step
+			40 image
+			41 text Your personal information will be kept secure.
+		42 container
+			43 container
+				44 image logo
+				45 text Hello!
+We are here to help you!
+				46 heading Frequently Asked Questions More, Value: 6
+					47 text Frequently Asked Questions
+					48 text More
+				49 text What is Trade W and How Does it Work?
+				50 text Is Trade W a Regulated Broker?
+				51 text Does Trade W Provide a Demo Account?
+				52 text What Trading Platforms does Trade W Support?
+				53 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			54 container
+				55 button Customer Support
+				56 text 2
+			57 container chatroom
+				58 container
+					59 heading AI Assistant-W, Value: 6
+						60 text AI Assistant-W
+					61 image
+				62 text 11-15 01:42
+				63 text AI Assistant-W
+				64 container
+					65 text Hi there! 👋 I'm W. How can I help you with your trading account?
+				66 container
+					67 text Guess what you want to ask?
+					68 image
+					69 text How can I earn points and redeem exciting rewards?
+					70 text 24604
+					71 button Ask
+					72 text How do I reset my demo balance?
+					73 text 13640
+					74 button Ask
+					75 text How does the Invite Friends program work?
+					76 text 7715
+					77 button Ask
+				78 container
+					79 button Customer Service
+						80 image
+						81 text Customer Service
+					82 container
+						83 text Please enter
+		84 container
+			85 image conversation-badge-icon
+			86 text 2
+
+The focused UI element is 1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/account-center/verification/identity

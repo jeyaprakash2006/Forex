@@ -1,0 +1,450 @@
+Browser tab: 1, Title: "Trade W - Invest, Trade & Access Global Markets", URL: "https://www.tradewill.com/chart/ETCUSD".
+1 AXWebArea Trade W - Invest, Trade & Access Global Markets, URL: tradewill.com/chart/ETCUSD
+	2 container
+		3 container
+			4 container
+				5 image
+				6 button (collapsed) Markets, Secondary Actions: Expand
+				7 button (collapsed) Platforms, Secondary Actions: Expand
+				8 button (collapsed) Account, Secondary Actions: Expand
+				9 button (collapsed) Resources, Secondary Actions: Expand
+				10 button (collapsed) Company, Secondary Actions: Expand
+				11 link Description: Partnership, Value: tradewill.com/partners
+				12 button Web Trader
+				13 button (collapsed) Description: Messages, Secondary Actions: Expand
+				14 button (collapsed) Description: LEMjqCcV, Secondary Actions: Expand
+				15 button (collapsed) Description: Download App, Secondary Actions: Expand
+				16 button (collapsed) Description: Language, Secondary Actions: Expand
+			17 container
+				18 container
+					19 container
+						20 image
+						21 text field (settable) intervalHot
+					22 container
+						23 tab group
+							24 tab (selectable, settable, boolean) Favorite, Value: 0, ID: tab--2
+							25 tab (selected, settable, boolean) Hot, Value: 1, ID: tab--1
+							26 tab (selectable, settable, boolean) Metals, Value: 0, ID: tab-3
+							27 tab (selectable, settable, boolean) Crypto, Value: 0, ID: tab-2
+							28 tab (selectable, settable, boolean) Stocks 24/7, Value: 0, ID: tab-6
+							29 tab (selectable, settable, boolean) Index, Value: 0, ID: tab-4
+							30 tab (selectable, settable, boolean) Forex, Value: 0, ID: tab-1
+							31 tab (selectable, settable, boolean) Stocks, Value: 0, ID: tab-5
+					32 container Description: Hot, ID: pane--1
+						33 text Symbol
+						34 text Latest price
+						35 text 24H Change
+						36 container
+							37 text ETC/USDT
+							38 text 6.024
+							39 text +4.692%
+							40 text BTC/USDT
+							41 text 65488.80
+							42 text +1.649%
+							43 text ETH/USDT
+							44 text 1834.92
+							45 text +3.523%
+							46 text SOL/USDT
+							47 text 72.810
+							48 text +4.208%
+							49 text DOT/USDT
+							50 text 0.740
+							51 text +5.263%
+							52 text XAUUSD
+							53 text 3877.23
+							54 text -0.009%
+							55 text EURUSD
+							56 text 1.10182
+							57 text -0.328%
+							58 text NIFTY 50
+							59 text 25178.50
+							60 text -0.503%
+							61 text DOGE/USDT Pro
+							62 text 0.05940
+							63 text +4.467%
+							64 text US100
+							65 text 27822.66
+							66 text -1.717%
+							67 text XRP/USDT Pro
+							68 text 0.97200
+							69 text +6.813%
+							70 text DAX40
+							71 text 26800.60
+							72 text +0.343%
+							73 text BNB/USDT
+							74 text 597.56
+							75 text +3.284%
+							76 text TRX/USDT Pro
+							77 text 0.30680
+							78 text -0.224%
+							79 text ADA/USDT
+							80 text 0.15570
+							81 text +5.703%
+							82 text TRX/USDT
+							83 text 0.30680
+							84 text -0.224%
+							85 text LTC/USDT
+							86 text 45.42
+							87 text +2.621%
+							88 text AVAX/USDT
+							89 text 7.303
+							90 text +3.033%
+							91 text GBPUSD
+							92 text 1.32053
+							93 text -0.184%
+							94 text USDJPY
+							95 text 159.626
+							96 text -0.125%
+							97 text XRP/USDT
+							98 text 0.97200
+							99 text +6.813%
+							100 text DOGE/USDT
+							101 text 0.05940
+							102 text +4.467%
+							103 text AUDUSD
+							104 text 0.67684
+							105 text -0.582%
+							106 text USDCAD
+							107 text 1.42649
+							108 text +0.062%
+							109 text USDCHF
+							110 text 0.83849
+							111 text +0.383%
+							112 text EURAUD
+							113 text 1.62651
+							114 text +0.182%
+							115 text EURCAD
+							116 text 1.57219
+							117 text -0.223%
+							118 text AUDNZD
+							119 text 1.22323
+							120 text -0.346%
+							121 text BTC/USDT Pro
+							122 text 65488.80
+							123 text +1.649%
+							124 text ETH/USDT Pro
+							125 text 1834.92
+							126 text +3.523%
+							127 text FIL/USDT
+							128 text 0.620
+							129 text +1.806%
+							130 text SOL/USDT Pro
+							131 text 72.810
+							132 text +4.208%
+							133 text NEAR/USDT
+							134 text 3.173
+							135 text +7.341%
+							136 text DASH/USDT
+							137 text 38.23
+							138 text +8.392%
+							139 text ZEC/USDT Pro
+							140 text 913.72
+							141 text +9.492%
+							142 text USOIL
+							143 text 89.077
+							144 text +0.206%
+							145 text BNB/USDT Pro
+							146 text 597.56
+							147 text +3.284%
+							148 text XAGUSD Pro
+							149 text 48.620
+							150 text -2.853%
+							151 text SHIB/USDT
+							152 text 0.003962
+							153 text +4.954%
+							154 text UKOIL
+							155 text 98.172
+							156 text +0.116%
+							157 text PEPE/USDT
+							158 text 0.0040213
+							159 text +6.728%
+							160 text ZEC/USDT
+							161 text 913.72
+							162 text +9.492%
+							163 text XAUUSD Mini
+							164 text 3877.23
+							165 text -0.009%
+							166 text PAXG/USDT
+							167 text 3824.84
+							168 text +1.051%
+							169 text TAO/USDT
+							170 text 193.81
+							171 text +6.023%
+							172 text HYPE/USDT
+							173 text 68.180
+							174 text +9.083%
+							175 text LAB/USDT
+							176 text 0.032
+							177 text +2.894%
+							178 text VVV/USDT
+							179 text 19.708
+							180 text +15.076%
+							181 text NVDA/USDT
+							182 text 161.26
+							183 text +0.958%
+							184 text SPCX/USDT
+							185 text 138.76
+							186 text +2.633%
+							187 text SNDK/USDT
+							188 text 857.81
+							189 text +1.239%
+							190 text AMD/USDT
+							191 text 521.90
+							192 text -0.184%
+							193 text TSLA/USDT
+							194 text 387.91
+							195 text +0.947%
+							196 text EWY/USDT
+							197 text 140.11
+							198 text +1.038%
+							199 text INTC/USDT
+							200 text 57.94
+							201 text +1.311%
+							202 text MU/USDT
+							203 text 758.50
+							204 text +0.477%
+							205 text MSFT/USDT
+							206 text 520.61
+							207 text +0.088%
+							208 text AAPL/USDT
+							209 text 356.52
+							210 text +0.022%
+							211 text AMZN/USDT
+							212 text 263.96
+							213 text +0.396%
+							214 text META/USDT
+							215 text 637.37
+							216 text +0.729%
+							217 text GOOGL/USDT
+							218 text 293.32
+							219 text +1.309%
+							220 text AVGO/USDT
+							221 text 338.88
+							222 text +0.609%
+							223 text ORCL/USDT
+							224 text 123.08
+							225 text +0.473%
+							226 text MSTR/USDT
+							227 text 100.82
+							228 text +1.002%
+							229 text LITE/USDT
+							230 text 582.80
+							231 text +1.881%
+							232 text WDC/USDT
+							233 text 289.83
+							234 text +0.979%
+							235 text AMAT/USDT
+							236 text 362.89
+							237 text +0.432%
+							238 text LRCX/USDT
+							239 text 222.13
+							240 text +0.835%
+							241 text DELL/USDT
+							242 text 341.11
+							243 text +1.618%
+							244 text V/USDT
+							245 text 425.48
+							246 text +0.347%
+							247 text MRVL/USDT
+							248 text 153.31
+							249 text +1.597%
+							250 text BE/USDT
+							251 text 186.48
+							252 text +0.686%
+							253 text NFLX/USDT
+							254 text 61.69
+							255 text -0.162%
+							256 text KLAC/USDT
+							257 text 149.99
+							258 text +0.234%
+							259 text WMT/USDT
+							260 text 128.05
+							261 text +0.227%
+							262 text CSCO/USDT
+							263 text 94.11
+							264 text +0.181%
+							265 text TXN/USDT
+							266 text 300.61
+							267 text -0.130%
+							268 text IBM/USDT
+							269 text 246.76
+							270 text +0.521%
+							271 text QCOM/USDT
+							272 text 170.71
+							273 text +0.258%
+				274 image 202601211438302df4258ee8e35a473a27a22d35ca4fc4
+				275 container
+					276 text ETC/USDT
+					277 image
+				278 container
+					279 image
+					280 text Rules
+				281 text 6.024
+				282 text ≈108432IDR
+				283 text 24H Change
+				284 text +4.692%
+				285 text 24H High
+				286 text 6.039
+				287 text 24H Low
+				288 text 5.605
+				289 image
+				290 image
+				291 container
+					292 container Description: Financial Chart, ID: tradingview_2275f
+						293 AXWebArea tradewill.com/TradingView/charting_library/en-tv-chart.132c7060.html#symbol=ETCUSD&interval=1&toolbarbg=1a1d21&widgetbar=%7B%22details%22%3Afalse%2C%22watchlist%22%3Afalse%2C%22watchlist_settings%22%3A%7B%22default_symbols%22%3A%5B%5D%7D%7D&timeFrames=%5B%7B%22text%22%3A%225y%22%2C%22resolution%22%3A%221W%22%7D%2C%7B%22text%22%3A%221y%22%2C%22resolution%22%3A%221W%22%7D%2C%7B%22text%22%3A%226m%22%2C%22resolution%22%3A%22120%22%7D%2C%7B%22text%22%3A%223m%22%2C%22resolution%22%3A%2260%22%7D%2C%7B%22text%22%3A%221m%22%2C%22resolution%22%3A%2230%22%7D%2C%7B%22text%22%3A%225d%22%2C%22resolution%22%3A%225%22%7D%2C%7B%22text%22%3A%221d%22%2C%22resolution%22%3A%221%22%7D%5D&locale=en&uid=tradingview_2275f&clientId=tradingview.com&userId=public_user_id&chartsStorageUrl=https%3A%2F%2Fsaveload.tradingview.com&chartsStorageVer=1.1&customCSS=%2FTradingView%2Fcustom.css&debug=false&timezone=Etc%2FUTC&studyCountLimit=5&theme=Dark
+							294 container
+								295 container
+									296 container
+										297 container O6.026H6.026L6.023C6.024−0.002 (−0.03%)
+											298 container
+												299 image
+												300 image
+												301 container
+													302 text O 6.026 H 6.026 L 6.023 C 6.024 −0.002 (−0.03%)
+										303 container MACD 12 26 close 9 0.001 −0.000 −0.001
+											304 container
+												305 image
+												306 image
+												307 container
+													308 text MACD 12 26 close 9
+												309 container
+													310 text 0.001 −0.000 −0.001
+								311 container
+									312 container
+										313 text 1 m
+									314 container
+										315 image
+										316 text Indicators
+								317 container drawing-toolbar
+									318 container
+										319 container
+											320 text 
+				321 tab group
+					322 tab (selected, settable, boolean) Position, Value: 1, ID: tab-1
+					323 tab (selectable, settable, boolean) Pending order, Value: 0, ID: tab-2
+					324 tab (selectable, settable, boolean) History, Value: 0, ID: tab-3
+				325 container Description: Forex, ID: pane-1
+					326 container
+						327 container
+							328 table
+								329 row
+									330 cell
+										331 text Symbol
+									332 cell
+										333 text Open Time
+									334 cell
+										335 text Sell / Buy
+									336 cell
+										337 text Lot
+									338 cell
+										339 text Opening Price
+									340 cell
+										341 text Current Price
+									342 cell
+										343 text Stop Loss
+									344 cell
+										345 text Take Profit
+									346 cell
+										347 text Fee
+									348 cell
+										349 text Swap
+									350 cell
+										351 text Order No
+									352 cell
+										353 text Profit and Loss
+									354 cell
+										355 text Action
+							356 container
+								357 table
+								358 image
+								359 text No records
+			360 container
+				361 container rightTop
+					362 button #Standard
+						363 text #Standard
+						364 image
+					365 pop up button (collapsed) $0.00 $0.00, ID: el-id-1024-103, Secondary Actions: Expand
+						366 container
+							367 text $ 0.00
+						368 container
+							369 text $ 0.00
+						370 image
+			371 container
+				372 image
+				373 tab group
+					374 tab (selected, settable, boolean) Market Order, Value: 1, ID: tab-first
+					375 tab (selectable, settable, boolean) Limit Order, Value: 0, ID: tab-second
+				376 container Description: Market Order, ID: pane-first
+				377 container sellBuy
+					378 text 0.011
+					379 Description: segmented, ID: el-id-1024-162
+						380 container
+							381 text Sell
+							382 container
+								383 text 6.0 24
+							384 text Buy
+							385 container
+								386 text 6.0 35
+				387 container
+					388 text 52.98% 47.02%
+				389 container
+					390 button decrease number
+						391 image
+					392 button increase number
+						393 image
+					394 container
+						395 stepper (settable, float) Value: 0.009999999776482582, Details: 0.01, ID: el-id-1024-163
+						396 text lot
+				397 button 0.01
+				398 button 0.10
+				399 button 0.50
+				400 button 1.00
+				401 button 2.00
+				402 text Take Profit
+				403 container
+					404 switch (settable, boolean) Value: 0, ID: el-id-1024-164
+				405 text Stop Loss
+				406 container
+					407 switch (settable, boolean) Value: 0, ID: el-id-1024-165
+				408 container
+					409 button Transfer
+					410 button Deposit
+				411 container
+					412 container Total Insufficient account balance $0.15
+						413 text Total
+						414 text Insufficient account balance $ 0.15
+					415 container Margin $0
+						416 text Margin
+						417 container
+							418 text $ 0
+					419 container Fee $0.15
+						420 text Fee
+						421 container
+							422 text $ 0.15
+		423 container
+			424 container
+				425 image logo
+				426 text Hello!
+We are here to help you!
+				427 heading Frequently Asked Questions More, Value: 6
+					428 text Frequently Asked Questions
+					429 text More
+				430 text What is Trade W and How Does it Work?
+				431 text Is Trade W a Regulated Broker?
+				432 text Does Trade W Provide a Demo Account?
+				433 text What Trading Platforms does Trade W Support?
+				434 text What are The Minimum Spreads and Maximum Leverage Offered by Trade W?
+			435 button Customer Support
+			436 container chatroom
+				437 container
+					438 heading AI Assistant-W, Value: 6
+						439 text AI Assistant-W
+					440 image
+				441 container
+					442 button Customer Service
+						443 image
+						444 text Customer Service
+					445 container
+						446 text Please enter
+
+The focused UI element is 12 button Web Trader
